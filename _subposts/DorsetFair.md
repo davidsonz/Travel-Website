@@ -17,4 +17,4 @@ There were owls, tractors, tea, a blow up pub and rain.It all felt like a proper
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-24-DorsetFair/DSCF2625.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-24-DorsetFair/DSCF2626.JPG" class="image1">
 
-<a href="https://adventuresofthetravellingtwins.com/2013/08/24/familysummerholiday/></a>
+<a href="https://adventuresofthetravellingtwins.com/2013/08/24/familysummerholiday/">Return to Summer Holiday Page</a>
