@@ -5,7 +5,7 @@ subtitle: Christmas is here!
 description: Christmas lights and Christmas markets
 ---
 
-<h4>Those Christmas lights, light up the streets</h4>
+<h4>Christmas and Harry Potter - The perfect combination</h4>
 
 Our first winter Christmas and we have gone for an explore in London with Louise and Lucy!
 It is completely magical at this time of year with the Christmas Lights down Oxford street, the store fronts, the Hyde Park Winter Wonderland and 
