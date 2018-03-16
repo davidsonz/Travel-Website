@@ -19,11 +19,11 @@ After the Fireworks we were all funneled back into Traflagar Square to then disp
 
 We had the last New Years Eve in London when it was free entry, it is now ticket limited and you can find information on how to get tickets <a target="_blank" href="https://www.timeout.com/london/things-to-do/new-years-eve-fireworks-in-london-how-to-get-tickets?package_page=78246">here</a>.
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-31-NewYearsEve/P1030740.JPG" class="image3">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-31-NewYearsEve/P1030744.JPG" class="image3">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-31-NewYearsEve/P1030726.JPG" class="image3">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-31-NewYearsEve/P1030713.JPG" class="image3">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-31-NewYearsEve/P1030745.JPG" class="image3">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-31-NewYearsEve/P1030689.JPG" class="image3">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-31-NewYearsEve/P1030740.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-31-NewYearsEve/P1030744.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-31-NewYearsEve/P1030726.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-31-NewYearsEve/P1030713.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-31-NewYearsEve/P1030745.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-31-NewYearsEve/P1030689.JPG" class="image1">
 
 <a href="https://adventuresofthetravellingtwins.com/2013/09/03/London/">Return to London Posts</a>
