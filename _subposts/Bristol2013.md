@@ -1,8 +1,8 @@
 ---
 layout: subpost
-title: Bristol: Grommits and Banksy!
+title: Grommits and Banksy!
 subtitle: A run around Bristol for a day
-description: Pizza, Grommits, Art and Cider
+description: Exploring Bristol for the first time
 ---
 
 <h4>Seek and you shall find!</h4>
