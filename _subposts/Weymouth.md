@@ -18,4 +18,4 @@ It has been such a good week on the South Coast, I look forward to doing it agai
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-29-Weymouth/P1010039.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-29-Weymouth/P1010036.JPG" class="image1">
 
-<a href="https://adventuresofthetravellingtwins.com/2013/08/24/familysummerholiday/"></a>
+<a href="https://adventuresofthetravellingtwins.com/2013/08/24/familysummerholiday/">Return to Summer Holiday Page</a>
