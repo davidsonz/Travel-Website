@@ -17,4 +17,4 @@ I love all the street art in Bristol, it makes it such a vibrant fun city to be 
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-02-Bristol/P1010144.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-02-Bristol/P1010155.JPG" class="image1">
 
-<a href="https://adventuresofthetravellingtwins.com/2013/09/02/Bristol/"></a>
+<a href="https://adventuresofthetravellingtwins.com/2013/09/02/Bristol/">Return to Bristol Page</a>
