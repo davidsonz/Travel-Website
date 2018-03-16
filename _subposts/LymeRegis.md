@@ -17,4 +17,4 @@ I am still getting used to this pebble beach thing, but at least it keeps the wa
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-28-LymeRegis/DSCF2736.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-28-LymeRegis/DSCF2697.JPG" class="image1">
 
-https://adventuresofthetravellingtwins.com/2013/08/24/familysummerholiday/
+<a href="https://adventuresofthetravellingtwins.com/2013/08/24/familysummerholiday/">Return to Summer Holiday Page</a>
