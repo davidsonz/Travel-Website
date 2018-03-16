@@ -19,4 +19,4 @@ We found the sunshine again on our drive from the coast to Bristol! After findin
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-21-Bristol/P1050064.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-21-Bristol/P1050065.JPG" class="image1">
 
-<a href="https://adventuresofthetravellingtwins.com/2013/09/02/Bristol/"></a>
+<a href="https://adventuresofthetravellingtwins.com/2013/09/02/Bristol/">Return to Bristol Page</a>
