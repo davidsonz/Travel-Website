@@ -12,11 +12,11 @@ It is completely magical at this time of year with the Christmas Lights down Oxf
 the chill in the air. I love our NZ Summer Christmases but I can see the argument for Winter ones too.
 Had to stop by King's Cross and try to get onto the Platform, never turn down an opportunity for Harry Potter!
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-21-LondonChristmas/P1030046.JPG" class="image3">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-21-LondonChristmas/P1030045.JPG class="image3">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-21-LondonChristmas/P1030048.JPG class="image3">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-21-LondonChristmas/P1030140.JPG class="image3">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-21-LondonChristmas/P1030373.JPG class="image3">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-21-LondonChristmas/IMG_0415.jpg class="image3">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-21-LondonChristmas/P1030046.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-21-LondonChristmas/P1030045.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-21-LondonChristmas/P1030048.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-21-LondonChristmas/P1030140.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-21-LondonChristmas/P1030373.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-21-LondonChristmas/IMG_0415.jpg" class="image1">
 
 <a href="https://adventuresofthetravellingtwins.com/2013/09/03/London/">Return to London Posts</a>
