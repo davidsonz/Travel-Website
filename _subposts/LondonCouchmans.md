@@ -13,7 +13,7 @@ the <a target="_blank" href="https://www.bl.uk/">British Library</a> and walking
 It was so nice to be around family again, we had such a good day and found some awesome new spots in London the Alec and Barb knew about from when they used to live here. 
 
 <img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-03-CouchmanLondon/day11-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-03-CouchmanLondon/day12-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-03-CouchmanLondon/cover-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-03-CouchmanLondon/day13-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-03-CouchmanLondon/day14-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-03-CouchmanLondon/day15-min.JPG" class="image1">
