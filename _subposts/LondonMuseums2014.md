@@ -17,11 +17,11 @@ With it being Christmas break all my Physics friends (plus a couple of extras) t
 The British Museum is amazing but huge! There is a good option to do the <a target="_blank" href="http://www.britishmuseum.org/visiting/planning_your_visit/object_trails/1_hour.aspx">Top 9 Things</a>.
 This is a good option if you are short on time and if you do them in order you end up seeing most of the museum anyway.
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-02-MuseumDay/P1030471.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-02-MuseumDay/P1030543.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-02-MuseumDay/P1030593.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-02-MuseumDay/P1030616.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-02-MuseumDay/P1030623.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-02-MuseumDay/P1030575.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-02-MuseumDay/day11-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-02-MuseumDay/day12-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-02-MuseumDay/day13-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-02-MuseumDay/day14-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-02-MuseumDay/day15-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-02-MuseumDay/day16-min.JPG" class="image1">
 
 <a href="https://adventuresofthetravellingtwins.com/2013/09/03/London/">Return to London Posts</a>
