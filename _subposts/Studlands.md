@@ -11,11 +11,11 @@ Today we were at <a target="_blank" href="https://www.nationaltrust.org.uk/studl
 I couldn't believe how many people were at the beach, in NZ when its that busy we just go to the next beach, apparently not an option here. 
 Our cousin also decided to completely freak us out with stories of fish that live in the sand that stab you and inject you with a painful toxin, suffice to say that Louise and I spent a lot of the day floating.
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-27-Studland/P1000958.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-27-Studland/P1000954.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-27-Studland/IMG_3840.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-27-Studland/DSCF2669.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-27-Studland/DSCF2671.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-27-Studland/P1000959.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-27-Studland/day11-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-27-Studland/day12-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-27-Studland/day13-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-27-Studland/day14-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-27-Studland/day15-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-27-Studland/day16-min.JPG" class="image1">
 
 https://adventuresofthetravellingtwins.com/2013/08/24/familysummerholiday/
