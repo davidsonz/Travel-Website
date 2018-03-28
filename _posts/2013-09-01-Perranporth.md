@@ -8,7 +8,7 @@ lat: 50.344435
 lng: -5.154924
 subtitle: Cornish pasties, Pimms, and the Beach!
 description: We spend the day at the only beach bar in the UK.
-titleImage: https://adventuresofthetravellingtwins.com/Photos/2013-09-01-Perranporth/P1010079.JPG
+titleImage: https://adventuresofthetravellingtwins.com/Photos/2013-09-01-Perranporth/cover-min.JPG
 ---
 
 <h4>A proper pub experience</h4>
@@ -19,11 +19,11 @@ We spent the day eating Cornish Pasties, drinking at the <a target="_blank" href
 A walk around the beach even yeilded another Kiwi Lifeguard (we just keep finding them)!
 We had an absolute stunner of a day!
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-01-Perranporth/DSC03232.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-01-Perranporth/DSC03238.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-01-Perranporth/P1010060.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-01-Perranporth/P1010062.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-01-Perranporth/DSC03237.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-01-Perranporth/DSC03235.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-01-Perranporth/day11-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-01-Perranporth/day12-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-01-Perranporth/day13-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-01-Perranporth/day14-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-01-Perranporth/day15-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-01-Perranporth/day16-min.JPG" class="image1">
 
 <a href="https://adventuresofthetravellingtwins.com/">Return to Home Page</a>
