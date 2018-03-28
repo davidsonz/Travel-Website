@@ -11,14 +11,14 @@ Arrived in London after a three hour drive from Bristol and checked into our hos
 
 Once we checked in we hightailed it into central London to do some shopping before meeting up with our Kiwi Expat friends, now living near London, for dinner at <a target="_blank" href="https://www.gbk.co.uk/">GBK</a> (Gourmet Burger Kitchen) which is a New Zealand styled burger restaurant that does proper Kiwi Burgers with beetroot and egg (Nom!), they even have L&P on the menu!
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-23-LondonHarryPotter/P1050084.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-23-LondonHarryPotter/day11-min.JPG" class="image1">
 
 <h4>Day Two: Harry Potter!</h4>
 
 Harry Potter and the Cursed Child was amazing! We had an absolute blast through the whole thing, it was magic come to life on stage with no green screen or special effects. We were on the edge of our seats the whole time! And no spoilers, as they say #keepthesecret
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-23-LondonHarryPotter/P1050089.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-23-LondonHarryPotter/P1050090.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-23-LondonHarryPotter/P1050104.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-23-LondonHarryPotter/day21-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-23-LondonHarryPotter/cover-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-23-LondonHarryPotter/day22-min.JPG" class="image1">
 
 <a href="https://adventuresofthetravellingtwins.com/2013/09/03/London/">Return to London Posts</a>
