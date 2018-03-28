@@ -12,11 +12,11 @@ We had a great day out visiting the <a target="_blank" href="https://www.vam.ac.
 the <a target="_blank" href="https://www.bl.uk/">British Library</a> and walking along <a target="_blank" href="https://southbanklondon.com/index">South Bank</a>. 
 It was so nice to be around family again, we had such a good day and found some awesome new spots in London the Alec and Barb knew about from when they used to live here. 
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-03-CouchmanLondon/P1030800.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-03-CouchmanLondon/P1030819.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-03-CouchmanLondon/P1030783.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-20-London/P1040073.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-20-London/P1040079.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-20-London/P1040081.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-03-CouchmanLondon/day11-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-03-CouchmanLondon/day12-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-03-CouchmanLondon/day13-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-03-CouchmanLondon/day14-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-03-CouchmanLondon/day15-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-03-CouchmanLondon/day16-min.JPG" class="image1">
 
 <a href="https://adventuresofthetravellingtwins.com/2013/09/03/London/">Return to London Posts</a>
