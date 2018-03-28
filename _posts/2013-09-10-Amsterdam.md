@@ -8,7 +8,7 @@ lat: 52.378464
 lng: 4.893123
 subtitle: Pancakes, Canals, History and Art!
 description: I have never seen so many people on bicycles!
-titleImage: https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/P1010350.JPG
+titleImage: https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/cover-min.JPG
 ---
 
 <h4>Day One: 10/09/2013</h4>
@@ -25,12 +25,12 @@ There is a very good book called <a target="_blank" href="http://www.nytimes.com
 We then went over to the <a target="_blank" href="http://www.annefrank.org/en/">Anne Frank House</a>, we didnt expect to be able to get in as we had not booked tickets (which I highly recommend you do), but luckily because of the rain people did not feel like waiting in line so there weren't many people around and we just walked in.
 The Anne Frank House is amazing and a must visit of Amsterdam, it is unimaginable how they lived in this space for as long as they did and stayed sane. You see the tower she could see from her window from down the canal and you realise that it all happened, its not just a horrible story. 
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/IMG_4340.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/IMG_4359.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/IMG_4384.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/IMG_4341.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/IMG_4345.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/IMG_4355.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/day11-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/day12-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/day13-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/day14-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/day15-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/day16-min.JPG" class="image1">
 
 <h4>Day Two: 11/09/2013</h4>
 
@@ -38,12 +38,12 @@ First thing this morning we were at the Van Gogh Museum (we actually did have ti
 
 After the museum we had another quick walk around Amsterdam before catching the train out to <a target="_blank" href="https://en.wikipedia.org/wiki/Wijk_aan_Zee">Wijk Aan Zee</a> to see some family friends. We didnt realise that we had sat ourselves in the first class section until we got a few dirty looks for talking and obviously not belonging. Our family knows Nico as he was fostered to my Grandmother's family during the war and we have stayed in touch ever since. Wijk Aan Zee is a coastal town and Mum and Aunty Cathy used to come spend their summers here helping out the family and being near the ocean. 
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/P1010309.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/P1010343.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/P1010339.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/IMG_4394.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/P1010302.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/IMG_4356.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/day21-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/day22-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/day23-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/day24-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/day25-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/day26-min.JPG" class="image1">
 
 <h4>Day Three: 12/09/2013</h4>
 
@@ -51,12 +51,12 @@ Today we did a tour around three small towns around Amsterdam; <a target="_blank
 
 Then it was time to return to England on our extremely long flight. Can't wait to come back and see more of this beautiful flat country. Maybe make it to old Zealand some time.
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/IMG_4449.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/IMG_4440.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/IMG_4446.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/IMG_4415.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/IMG_4419.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/IMG_4443.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/day31-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/day32-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/day33-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/day34-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/day35-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/day36-min.JPG" class="image1">
 
 <a href="https://adventuresofthetravellingtwins.com/">Return to Home Page</a>
 
