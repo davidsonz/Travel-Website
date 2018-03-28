@@ -28,24 +28,24 @@ Our Christmas present from Aunty Cathy was tickets to <a target="_blank" href="h
 We caught the <a target="_blank" href="https://www.thamesclippers.com/route-time-table/prices">Thames Clipper</a> boats along the river to the O2 and had a great time. We then walked through the Greenwich foot tunnel under the river to the observatory.
 The Observatory is a very interesting place, from the maritime and time keeping history of England to the grounds themselves you will find quite a few hours of entertainment here. 
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/P1010543.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/P1010488.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/P1010504.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/P1010505.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/P1010538.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/P1010548.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/day11-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/day12-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/day13-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/day14-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/day15-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/day16-min.JPG" class="image1">
 
 <a target="_blank" href="https://www.stpauls.co.uk/">St Paul's</a>!
 
 St Paul's is a great place to check out. The inside is amazingly detailed and you can walk up to the top of the roof and get a 360 view of London.
 You are not really supposed to take photos inside St Paul's (not that that stopped us) but you can take as many as you want on the outside. 
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/P1010736.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/P1010742.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/P1010750.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/P1010754.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/P1010763.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/P1010777.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/day21-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/day22-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/day23-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/day24-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/day25-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/day26-min.JPG" class="image1">
 
 <a target="_blank" href="https://www.hrp.org.uk/tower-of-london/">The Tower of London</a>!
 
@@ -55,8 +55,8 @@ When we arrived there was no queue but by the time we got to it the queue was hu
 muesums that you can visit, they make the history interesting and it is a great time to walk around the complex. 
 After you have finished make sure to walk across Tower Bridge to get a view of it from the other side of the river.
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/P1010852.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/P1010885.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/day31-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/day32-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/tower1.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/tower2.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/tower3.jpg" class="image1">
@@ -68,9 +68,9 @@ Once again we bought our tickets for this the previous night which was just as w
 We lost Louise taking photos and were a bit worried we'd never find her again!
 The London Eye is fantastic though, beautiful views over the whole of London and a lot of fun.
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/P1010894.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/P1010911.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/P1010913.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/day41-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/day42-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/day43-min.JPG" class="image1">
 
 <a target="_blank" href="http://www.londonaquaticscentre.org/">The London Aquatics Centre</a>!
 
@@ -78,9 +78,9 @@ In fairness, this actually wasn't open the last time we were over as they had ye
 But we had to go check it out this time. 
 A very nice pool to swim in, but make sure to check your times before you go as it is only open to the public at certain times of the day.
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/P1020026.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/P1020029.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/P1020032.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/day51-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/day52-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/day53-min.JPG" class="image1">
 
 <a href="https://adventuresofthetravellingtwins.com/2013/09/03/London/">Return to London Posts</a>
 
