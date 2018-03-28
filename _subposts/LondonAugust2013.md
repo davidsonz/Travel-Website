@@ -14,11 +14,11 @@ The transport museum was well worth a visit, and for no extra charge you can upg
 
 We went to our first ever West End Show, <a target="_blank" href="http://www.atgtickets.com/shows/spamalot/playhouse-theatre/">Spamalot</a>. Made by the same people who bought us Monty Python this show was fall out of your seat funny!
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-03-London/P1010205.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-03-London/IMG_3982.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-03-London/IMG_3966.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-03-London/IMG_3970.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-03-London/IMG_3978.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-03-London/P1010217.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-03-London/day11-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-03-London/day12-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-03-London/day13-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-03-London/day14-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-03-London/day15-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-03-London/day16-min.JPG" class="image1">
 
 <a href="https://adventuresofthetravellingtwins.com/2013/09/03/London/">Return to London Posts</a>
