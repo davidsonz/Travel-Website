@@ -12,11 +12,11 @@ We cycled from the Exeter Quay to <a target="_blank" href="https://www.visitsout
 The Double Locks Pub is an institution, Mum used to go there when she was at Exeter Uni back in the day. 
 We had beautiful weather for it and even got to see a deer on the ride back. Topsham was very pretty, would be nice to have a bit more of an explore around here one day.
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-19-OutOfBoots/P1010821.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-19-OutOfBoots/P1010825.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-19-OutOfBoots/P1010832.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-19-OutOfBoots/P1010835.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-19-OutOfBoots/P1010846.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-19-OutOfBoots/P1010838.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-19-OutOfBoots/day11-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-19-OutOfBoots/day12-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-19-OutOfBoots/day13-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-19-OutOfBoots/day14-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-19-OutOfBoots/day15-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-19-OutOfBoots/day16-min.JPG" class="image1">
 
 <a href="https://adventuresofthetravellingtwins.com/2013/09/21/oddswalks/">Return to OODs Post</a>
