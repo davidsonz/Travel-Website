@@ -14,11 +14,11 @@ It was cool to have an Autumn Guy Fawkes night for once. Back in New Zealand it 
 It all seemed a bit bizzare to me but I am going to chalk this up to wierd English traditions like chasing cheese down a hill. 
 That being said we had an awesome night, and hopefully will come back again some day to enjoy the spectacle all over agin.
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-05-TarBarrels/1.jpg" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-05-TarBarrels/2.jpg" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-05-TarBarrels/3.jpg" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-05-TarBarrels/4.jpg" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-05-TarBarrels/IMG_0147.jpg" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-05-TarBarrels/IMG_0153.jpg" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-05-TarBarrels/day11-min.jpg" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-05-TarBarrels/day12-min.jpg" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-05-TarBarrels/day13-min.jpg" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-05-TarBarrels/day14-min.jpg" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-05-TarBarrels/day15-min.jpg" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-05-TarBarrels/day16-min.jpg" class="image1">
 
 <a href="https://adventuresofthetravellingtwins.com/2013/09/21/oddswalks/">Return to OODs Post</a>
