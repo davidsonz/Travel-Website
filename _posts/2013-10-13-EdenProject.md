@@ -8,7 +8,7 @@ lat: 50.359929
 lng: -4.744847
 subtitle: Our first solo adventure
 description: Rainforrests, Gardens and Cream Teas!
-titleImage: https://adventuresofthetravellingtwins.com/Photos/2013-10-13-EdenProject/P1010658.JPG
+titleImage: https://adventuresofthetravellingtwins.com/Photos/2013-10-13-EdenProject/cover-min.JPG
 ---
 
 <h4>A Splash of Summer</h4>
@@ -18,11 +18,11 @@ The Eden Project is a fantastic day trip if you are ever in the South West. Comp
 There is a Rainforrest Biome (Bio Dome) and a Mediterranean Biome. There are also extensive gardens from all over the world surrounding the Biomes, including a garden of New Zealand Flax and Grasses. 
 There is also a canteen where you can eat your own food, or buy if you so desire. All produce used at the canteen is locally harvested and seasonal. While we brought our own lunch we couldn't help but splurge on a cream tea, glad we got one between two of us as the scones were massive!
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-13-EdenProject/P1010765.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-13-EdenProject/P1010751.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-13-EdenProject/P1010730.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-13-EdenProject/P1010743.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-13-EdenProject/P1010680.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-13-EdenProject/P1010745.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-13-EdenProject/day11-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-13-EdenProject/day12-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-13-EdenProject/day13-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-13-EdenProject/day14-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-13-EdenProject/day15-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-13-EdenProject/day16-min.JPG" class="image1">
 
 <a href="https://adventuresofthetravellingtwins.com/">Return to Home Page</a>
