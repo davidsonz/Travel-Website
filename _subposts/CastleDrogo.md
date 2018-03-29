@@ -17,9 +17,9 @@ After lunch we did a quick 4 mile circular walk of the grounds before heading ba
 Louise and I taught everyone Pukeko in a Ponga Tree (the NZ version of the 12 Days of Christmas), we had leaf fights and sing offs of Christmas songs. 
 Couldn't have come up with a better Saturday.
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleDrogo/P1020780.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleDrogo/P1020781.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleDrogo/P1020792.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleDrogo/day11-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleDrogo/day12-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleDrogo/day13-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleDrogo/2.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleDrogo/3.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleDrogo/1.jpg" class="image1">
