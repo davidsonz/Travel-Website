@@ -8,7 +8,7 @@ lat: 50.577881
 lng: -2.473510
 subtitle: We are 20!
 description: Our first birthday away from home
-titleImage: https://adventuresofthetravellingtwins.com/Photos/2013-11-02-BirthdayWeekend/P1020055.JPG
+titleImage: https://adventuresofthetravellingtwins.com/Photos/2013-11-02-BirthdayWeekend/cover-min.JPG
 ---
 
 <h4>Being blown away (literally) at Chesil Beach</h4>
@@ -20,12 +20,12 @@ After a breakfast of chocolate birthday cake we went to Weymouth where our prese
 On the way back to the train we stopped at <a target="_blank" href="https://www.visit-dorset.com/things-to-do/chesil-beach-p1306903">Chesil Beach</a> on Portland Point where we were literally and figuratively blown away.
 The ocean was amazing but you definitely would not want to swim there!
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-02-BirthdayWeekend/P1020018.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-02-BirthdayWeekend/P1020031.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-02-BirthdayWeekend/P1020033.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-02-BirthdayWeekend/P1020049.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-02-BirthdayWeekend/P1020040.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-02-BirthdayWeekend/P1020042.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-02-BirthdayWeekend/day11-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-02-BirthdayWeekend/day12-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-02-BirthdayWeekend/day13-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-02-BirthdayWeekend/day14-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-02-BirthdayWeekend/day15-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-02-BirthdayWeekend/day16-min.JPG" class="image1">
 
 
 <a href="https://adventuresofthetravellingtwins.com/">Return to Home Page</a>
