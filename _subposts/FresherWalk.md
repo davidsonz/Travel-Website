@@ -12,11 +12,11 @@ We had a great day meeting new people and seeing Dartmoor. <a target="_blank" hr
 Coming to places like this makes you realise how new our home country is. 
 Definitely looking forward to more weekend adventures and making more friends along the way!
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-21-Freshers/1233499_10201723728873032_356141953_n.jpg" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-21-Freshers/P1010388.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-21-Freshers/P1010408.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-21-Freshers/P1010416.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-21-Freshers/P1010421.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-21-Freshers/P1010395.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-21-Freshers/day11-min.jpg" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-21-Freshers/day12-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-21-Freshers/day13-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-21-Freshers/day14-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-21-Freshers/day15-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-21-Freshers/day16-min.JPG" class="image1">
 
 <a href="https://adventuresofthetravellingtwins.com/2013/09/21/oddswalks/">Return to OODs Post</a>
