@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amsterdam
-number: 90
+number: 7
 date: 2013-09-10
 location: Amsterdam
 lat: 52.378464
