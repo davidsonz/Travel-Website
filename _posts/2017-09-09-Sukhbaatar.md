@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sukhbaatar
-number: 17
+number: 48
 date: 2017-09-09
 location: Sukhbaatar
 lat: 50.230389
@@ -9,5 +9,4 @@ lng: 106.206278
 subtitle: Эхний хилийн боомт (First border crossing)
 description: Hello Mongolia!
 titleImage: https://drive.google.com/uc?id=0B9XzfNSrmvT4RTRLSTRjMXQ5ZkE
-marker: https://adventuresofthetravellingtwins.com/media/train.png
 ---
