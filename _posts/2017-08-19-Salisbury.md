@@ -8,8 +8,7 @@ lat: 51.069244
 lng: -1.794611
 subtitle: Welcome to the UK!
 description: Reunion with our bestie, brunch and the Magna Carta
-titleImage: https://drive.google.com/uc?id=0B9XzfNSrmvT4bnVBajJoYW9Wbmc
-marker: https://adventuresofthetravellingtwins.com/media/family.png
+titleImage: https://adventuresofthetravellingtwins.com/Photos/2017-08-19-Salisbury/cover-min.JPG
 ---
 
 <h4>19/08/2017: Late night shenanigans as the jetlag takes hold</h4>
@@ -22,8 +21,11 @@ We arrived at Louise's and walked down to the service station to buy some dinner
 
 The next morning we headed down into Salisbury township for brunch and a walk around the Cathedral. Finally got to see the Magna Carta, which you expect to be bigger than it is but still pretty cool to see. 
 
-<img src="https://drive.google.com/uc?id=0B9XzfNSrmvT4SnVqMUk4eVduT1E" class="image1">
-<img src="https://drive.google.com/uc?id=0B9XzfNSrmvT4dU45STY4emxlS2c" class="image1">
-<img src="https://drive.google.com/uc?id=0B9XzfNSrmvT4RVpsLWczNzFXN2c" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-19-Salisbury/day11-min.jpg" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-19-Salisbury/day12-min.jpg" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-19-Salisbury/day13-min.jpg" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-19-Salisbury/day14-min.jpg" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-19-Salisbury/day15-min.jpg" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-19-Salisbury/day16-min.jpg" class="image1">
 
 <a href="https://adventuresofthetravellingtwins.com/">Return to Home Page</a>
