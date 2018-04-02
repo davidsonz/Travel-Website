@@ -8,7 +8,7 @@ lat: 59.904755
 lng: 30.285203
 subtitle: Добро пожаловать в Россию (Welcome to Russia)
 description: Catherdrals, Forts, Art and the Start of the Vodka Train!
-titleImage: https://adveturesofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/cover-min.JPG
+titleImage: https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/cover-min.JPG
 ---
 
 <h4>Day One: 28/08/2017</h4>
