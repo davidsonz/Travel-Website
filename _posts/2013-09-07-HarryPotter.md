@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Harry Potter Studios Tour
-number: 91
+number: 6
 date: 2013-09-07
 location: Harry Potter Studios Tour
 lat: 51.690278
