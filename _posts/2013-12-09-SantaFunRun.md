@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Santa Stride
-number: 76
+number: 14
 date: 2013-12-09
 location: Sturminster Newton
 lat: 50.926182
