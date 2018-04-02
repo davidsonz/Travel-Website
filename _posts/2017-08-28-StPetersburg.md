@@ -8,8 +8,7 @@ lat: 59.904755
 lng: 30.285203
 subtitle: Добро пожаловать в Россию (Welcome to Russia)
 description: Catherdrals, Forts, Art and the Start of the Vodka Train!
-titleImage: https://drive.google.com/uc?id=0B9XzfNSrmvT4SWFtOHFjY3I5ODg
-marker: https://adventuresofthetravellingtwins.com/media/train.png
+titleImage: https://adveturesofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/cover-min.JPG
 ---
 
 <h4>Day One: 28/08/2017</h4>
@@ -22,12 +21,22 @@ First stop was the <a target="_blank" href="http://www.saint-petersburg.com/virt
 
 After a day of walking around we met up with our first guide Ksenia and the other member of our Vodka train tour group Rachel. A pretty good start to the <a target="_blank" href="https://www.vodkatrain.com/journeys/the-vodkatrain-eastbound">Vodka Train</a>!
 
-<img src="https://drive.google.com/uc?id=0B9XzfNSrmvT4SDA5WWpGR2gxclk" class="image1">
-<img src="https://drive.google.com/uc?id=0B9XzfNSrmvT4NzlMX0lxQ0tROVk" class="image1">
-<img src="https://drive.google.com/uc?id=0B9XzfNSrmvT4R1NjS3JsN0V6R2s" class="image1">
-<img src="https://drive.google.com/uc?id=0B9XzfNSrmvT4MkhqeUFidWxkbjQ" class="image1">
-<img src="https://drive.google.com/uc?id=0B9XzfNSrmvT4NkpORnB4OGIxaUE" class="image1">
-<img src="https://drive.google.com/uc?id=0B9XzfNSrmvT4dFZzR1ZTVUlVbTQ" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day11-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day12-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day13-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day14-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day15-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day16-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day17-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day18-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day19-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day110-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day111-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day112-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day113-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day114-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day115-min.JPG" class="image1">
+v
 
 <h4>Day Two: 29/08/2017</h4>
 
@@ -39,12 +48,15 @@ We then went to a cute local modern art gallery where the current instalment is 
 
 For dinner we went to <a target="_blank" href="https://ginza.ru/spb/restaurant/katyusha">Katyusha</a> which was the most kitch restaurant I have ever seen, it was fill of flowered fabrics, singing waitresses and wicker furniture, but the food was very traditional Russian and delicious. 
 
-<img src="https://drive.google.com/uc?id=0B9XzfNSrmvT4d1FGc1NpUkxUa2s" class="image1">
-<img src="https://drive.google.com/uc?id=0B9XzfNSrmvT4dm9FNndaVDRueTg" class="image1">
-<img src="https://drive.google.com/uc?id=0B9XzfNSrmvT4TnZrZHFDNXByYVE" class="image1">
-<img src="https://drive.google.com/uc?id=0B9XzfNSrmvT4dU50d1RMdWh5OEE" class="image1">
-<img src="https://drive.google.com/uc?id=0B9XzfNSrmvT4NC1SNmdUclZmVkU" class="image1">
-<img src="https://drive.google.com/uc?id=0B9XzfNSrmvT4Nk80TV9HdFBmT2c" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day21-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day22-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day23-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day24-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day25-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day26-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day27-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day28-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day29-min.JPG" class="image1">
 
 <h4>Day Three: 30/08/2017</h4>
 
@@ -52,11 +64,17 @@ Our last day in St Petersburg and I put on my hat of patient sister as we spent 
 
 It is now time to depart St Petersburg and hop on our first overnight train to Moscow, we have had an absolute blast here and hope to come back some day!
 
-<img src="https://drive.google.com/uc?id=0B9XzfNSrmvT4LXpKeFZKRTQyUEU" class="image1">
-<img src="https://drive.google.com/uc?id=0B9XzfNSrmvT4eXFRdlc1VWxSd0k" class="image1">
-<img src="https://drive.google.com/uc?id=0B9XzfNSrmvT4ZmhwTWZfU25mbjA" class="image1">
-<img src="https://drive.google.com/uc?id=0B9XzfNSrmvT4eFRvV1RaTndUY0U" class="image1">
-<img src="https://drive.google.com/uc?id=0B9XzfNSrmvT4TXhKVF9GNDFLeTA" class="image1">
-<img src="https://drive.google.com/uc?id=0B9XzfNSrmvT4YkYweHk1a20yM0E" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day31-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day32-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day33-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day34-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day35-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day36-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day37-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day38-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day39-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day310-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day311-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day312-min.JPG" class="image1">
 
 <a href="https://adventuresofthetravellingtwins.com/">Return to Home Page</a>
