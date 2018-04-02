@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Winchester
-number: 89
+number: 8
 date: 2013-09-14
 location: Winchester
 lat: 51.061441
