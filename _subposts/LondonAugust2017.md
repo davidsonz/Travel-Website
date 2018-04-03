@@ -19,6 +19,6 @@ Harry Potter and the Cursed Child was amazing! We had an absolute blast through 
 
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-23-LondonHarryPotter/day21-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-23-LondonHarryPotter/cover-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-23-LondonHarryPotter/day22-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-23-LondonHarryPotter/day23-min.JPG" class="image1">
 
 <a href="https://adventuresofthetravellingtwins.com/2013/09/03/London/">Return to London Posts</a>
