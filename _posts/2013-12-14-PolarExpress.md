@@ -28,4 +28,4 @@ Despite this we had such a fun night acting like kids at Christmas!
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-14-PolarExpress/day15-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-14-PolarExpress/day16-min.JPG" class="image1">
 
-<a href="javascript:close_window();">Return to Home Page</a>
+<a href="https://adventuresofthetravellingtwins.com/">Return to Home Page</a>
