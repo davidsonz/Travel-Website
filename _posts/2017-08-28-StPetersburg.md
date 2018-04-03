@@ -13,7 +13,8 @@ titleImage: https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPeter
 
 <h4>Day One: 28/08/2017</h4>
 
-After travelling through the night we arrived in St Petersburg! The flight has definetely taught me my lesson on check actual flight times and time differences before assuming that I will get enough sleep on an overnight flight. The flight from London to Moscow was only 3 hours and then only an hour onto St Petersburg so we got a grand total of 3 hours sleep last night. Transferring through at Moscow was super confusing, after going through passport control (more nerve wracking than America) there were no signs of how to get to the domestic terminals and no one around to ask. Eventually found our way to our gate 5 minutes before boarding started! Not the most relaxing of nights!
+After travelling through the night we arrived in St Petersburg! <br/>
+The flight has definetely taught me my lesson on check actual flight times and time differences before assuming that I will get enough sleep on an overnight flight. The flight from London to Moscow was only 3 hours and then only an hour onto St Petersburg so we got a grand total of 3 hours sleep last night. Transferring through at Moscow was super confusing, after going through passport control (more nerve wracking than America) there were no signs of how to get to the domestic terminals and no one around to ask. Eventually found our way to our gate 5 minutes before boarding started! Not the most relaxing of nights!
 
 We arrived at our hostel, the <a target="_blank" href="http://baby-lemonade-hostel.hotelsinsaintpetersburg.net/en/">Baby Lemonade Hostel</a>, where luckily we are staying in dorms so were able to check in straight away at 6.30am and get some shut eye for a few hours before going out to explore St Petersburg before we meet up with the rest of the tour tonight. 
 
