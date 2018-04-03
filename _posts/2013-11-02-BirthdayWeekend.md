@@ -13,11 +13,11 @@ titleImage: https://adventuresofthetravellingtwins.com/Photos/2013-11-02-Birthda
 
 <h4>Being blown away (literally) at Chesil Beach</h4>
 
-Our birthday weekend kicked off with a night at the <a target="_blank" href="http://www.oldfirehouseexeter.co.uk/">Old Firehouse Pub</a> in Exeter (the pub that J.K.Rolling based the Leaky Cauldron off according to popular belief).
+Our birthday weekend kicked off with a night at the <a target="_blank" href="http://www.oldfirehouseexeter.co.uk/">Old Firehouse Pub</a> in Exeter (the pub that J.K.Rolling based the Leaky Cauldron off according to popular belief).<br/>
 We spent the night drinking cider and eating pizza with our new friends for our first ever birthday away from home. 
-The next day we took the train to Sherbourne to spend the day with our cousins and Aunty Cathy (who had come down from Epping for the weekend). 
-After a breakfast of chocolate birthday cake we went to Weymouth where our present was buying a proper winter jumper (Aunty Cathy had deemed that the clothes we brought with us from NZ were not going to make it through an English winter).
-On the way back to the train we stopped at <a target="_blank" href="https://www.visit-dorset.com/things-to-do/chesil-beach-p1306903">Chesil Beach</a> on Portland Point where we were literally and figuratively blown away.
+The next day we took the train to Sherbourne to spend the day with our cousins and Aunty Cathy (who had come down from Epping for the weekend). <br/>
+After a breakfast of chocolate birthday cake we went to Weymouth where our present was buying a proper winter jumper (Aunty Cathy had deemed that the clothes we brought with us from NZ were not going to make it through an English winter).<br/>
+On the way back to the train we stopped at <a target="_blank" href="https://www.visit-dorset.com/things-to-do/chesil-beach-p1306903">Chesil Beach</a> on Portland Point where we were literally and figuratively blown away.<br/>
 The ocean was amazing but you definitely would not want to swim there!
 
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-02-BirthdayWeekend/day11-min.JPG" class="image1">
