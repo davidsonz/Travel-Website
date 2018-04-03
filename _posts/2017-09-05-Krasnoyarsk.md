@@ -19,6 +19,18 @@ We bought ice creams with the other tour groups just after lunch and then joined
 
 We arrive in Irkurst tomorrow morning, and while I have really enjoyed our time on the train, I am looking forward to a bed that doesnt move. 
 
+Things we have learnt along the way:
+* You will read less than you think you will, sleep more than you think you will and spend a lot of time looking out a window.
+* While the train doesnt warn you when it is leaving, watch the locals cause they never miss the train.
+* Drinking is not allowed, a little will have a blind eye turned, a lot will have you thrown off.
+* You dont need as much food as you think, the Babushkas sell good food and you dont eat as much as you are not doing much.
+* If you drink with the Russian Army have some motion sickness tablets.
+* Be friendly and you will make friends, Russians are friendlier than they appear. 
+* Do not mess with the train ladies. Ever. Take them gifts.
+* The toilets, while old, are clean and do the job but take wet wipes and sanitizer.
+* Take battery packs, there is only one power point and it is in the hallway.
+* The train will be one of the weirdest but best experiences of your life.
+
 We have a couple of long stops today:
 * Taishet
 * Illanksya
