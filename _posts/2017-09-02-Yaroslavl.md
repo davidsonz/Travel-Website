@@ -11,6 +11,7 @@ description: Goodbye Moscow, Hello to our new home for the next four days!
 titleImage: https://adventuresofthetravellingtwins.com/Photos/2017-09-02-Yaroslavl/cover-min.jpg
 ---
 
+<h4>0-917km</h4>
 Today we started on our 5,153 km (3,202 mile) journey from Moscow to Irkurst. We have been to the supermarket and stocked up on foods that can be cooked with hot water, such as noodles and dehydrated potato, we have books, movies, battery packs and everything needed to keep us comfortable. 
 We have a friend in our cabin tonight, his name is Sasha (hardly surprising, it seems everyone in Russia is called Alex or Sasha), and he is only with us for the night as he is going home to Perm, which we will be arriving at tomorrow. 
 
