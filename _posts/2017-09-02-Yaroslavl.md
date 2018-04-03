@@ -31,3 +31,5 @@ List of entertainment consumed on the train thus far:
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-02-Yaroslavl/day14-min.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-02-Yaroslavl/day15-min.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-02-Yaroslavl/day16-min.jpg" class="image1">
+
+<a href="https://adventuresofthetravellingtwins.com/">Return to Home Page</a>
