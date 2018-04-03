@@ -4,8 +4,8 @@ title: Yaroslavl
 number: 42
 date: 2017-08-31
 location: Yaroslavl
-lat: 57.37
-lng: 39.41
+lat: 56.318327
+lng: 43.977534
 subtitle: Первый день на Транссиб (First day on the Trans Siberian)
 description: Goodbye Moscow, Hello to our new home for the next four days!
 titleImage: https://adventuresofthetravellingtwins.com/Photos/2017-09-02-Yaroslavl/cover-min.jpg
