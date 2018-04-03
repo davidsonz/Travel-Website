@@ -20,7 +20,7 @@ We have a couple of long stops today -
 * Kirov (though this one will be after we go to bed).
 
 List of entertainment consumed on the train thus far:
-* Books read - half
+* Books read - 0.5
 * Movies watched - 1
 * Naps had - 1
 * Dogs played with - 1
