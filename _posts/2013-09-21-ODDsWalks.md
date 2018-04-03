@@ -41,4 +41,7 @@ titleImage: https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleD
 <h5>12/01/2014 - Ivy Bridge Circular</h5>
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/IvyBridge"><img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-12-IvyBridge/cover-min.JPG" class="image3"></a>
 
+<h5>02/02/2014 - Chideock to Charmouth</h5>
+<a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/ChideockToCharmouth"><img src="https://adventuresofthetravellingtwins.com/Photos/2014-02-02-ChideockToCharmouth/cover-min.JPG" class="image3"></a>
+
 <a href="https://adventuresofthetravellingtwins.com/">Return to Home Page</a>
