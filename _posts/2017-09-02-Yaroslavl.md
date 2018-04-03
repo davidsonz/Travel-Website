@@ -23,12 +23,14 @@ titleImage: https://adventuresofthetravellingtwins.com/Photos/2017-09-02-Yarosla
 * Know when you are an hour outside of borders as this will be your last chance to use the bathroom.
 * Take foods that can be cooked with hot water, or snacks, as this is the only way to cook on the train.
 
-  We have a couple of long stops today - 
+
+We have a couple of long stops today - 
 * Vladimir
 * Nizhny Novgorod
 * Kirov (though this one will be after we go to bed).
 
-  List of entertainment consumed on the train thus far:
+
+List of entertainment consumed on the train thus far:
 * Books read - 0.5
 * Movies watched - 1
 * Naps had - 1
