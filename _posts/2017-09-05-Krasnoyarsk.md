@@ -36,11 +36,11 @@ New favourite foods:
 * Mystery meat (and sometimes cabbage) parcels
 * Smoked cheese snacks
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-05-Krasnoyarsk/day11-min.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-05-Krasnoyarsk/day12-min.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-05-Krasnoyarsk/day13-min.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-05-Krasnoyarsk/day14-min.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-05-Krasnoyarsk/day15-min.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-05-Krasnoyarsk/day16-min.jpg" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-05-Krasnoyarsk/day11-min.jpg" class="image1">
 
 <a href="https://adventuresofthetravellingtwins.com/">Return to Home Page</a>
