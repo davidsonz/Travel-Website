@@ -18,11 +18,11 @@ I am sure to people who live in Europe this sounds obvious, but I live in New Ze
 
 After checking into the hostel it started to rain so we had a quick wander around the canals before finding a pancake house for lunch. On our way to lunch we found the cutest garden that was hidden behind a wooden door, amazing the things you come across when travelling if you just keep your eyes open.
 
-After lunch we went to the <a target="_blank" href="http://www.amsterdamtulipmuseum.com/en/">Tulip Mueseum</a>, which was very touristy but as a person who love Tulips it was a cool place to go. <br/>
-It is also quite eye opening as many people who lived in Holland through the war had to eat Tulip bulbs to survive. <br/>
+After lunch we went to the <a target="_blank" href="http://www.amsterdamtulipmuseum.com/en/">Tulip Mueseum</a>, which was very touristy but as a person who love Tulips it was a cool place to go. 
+It is also quite eye opening as many people who lived in Holland through the war had to eat Tulip bulbs to survive.
 There is a very good book called <a target="_blank" href="http://www.nytimes.com/2007/08/12/books/review/Lappin-t.html">The Hatred of Tulips</a>, which is a fictional but accurate portrayal of the starvation that people in Holland went through in the war and the lengths it drove them to.
 
-We then went over to the <a target="_blank" href="http://www.annefrank.org/en/">Anne Frank House</a>, we didnt expect to be able to get in as we had not booked tickets (which I highly recommend you do), but luckily because of the rain people did not feel like waiting in line so there weren't many people around and we just walked in.<br/>
+We then went over to the <a target="_blank" href="http://www.annefrank.org/en/">Anne Frank House</a>, we didnt expect to be able to get in as we had not booked tickets (which I highly recommend you do), but luckily because of the rain people did not feel like waiting in line so there weren't many people around and we just walked in.
 The Anne Frank House is amazing and a must visit of Amsterdam, it is unimaginable how they lived in this space for as long as they did and stayed sane. You see the tower she could see from her window from down the canal and you realise that it all happened, its not just a horrible story. 
 
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/day11-min.JPG" class="image1">
