@@ -38,4 +38,7 @@ titleImage: https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleD
 <h5>07/12/2013 - Castle Drogo</h5>
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/CastleDrogo"><img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleDrogo/4.jpg" class="image3"></a>
 
+<h5>12/01/2014 - Ivy Bridge Circular</h5>
+<a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/IvyBridge"><img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-12-IvyBridge/cover-min.JPG" class="image3"></a>
+
 <a href="https://adventuresofthetravellingtwins.com/">Return to Home Page</a>
