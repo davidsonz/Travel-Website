@@ -13,15 +13,22 @@ titleImage: https://adventuresofthetravellingtwins.com/Photos/2017-09-02-Yarosla
 
 <h4>Trans Siberian Day One - 0-917km</h4>
 
-Today we started on our 5,153 km (3,202 mile) journey from Moscow to Irkurst. We have been to the supermarket and stocked up on foods that can be cooked with hot water, such as noodles and dehydrated potato, we have books, movies, battery packs and everything needed to keep us comfortable. 
-We have a friend in our cabin tonight, his name is Sasha (hardly surprising, it seems everyone in Russia is called Alex or Sasha), and he is only with us for the night as he is going home to Perm, which we will be arriving at tomorrow. 
+  Today we started on our 5,153 km (3,202 mile) journey from Moscow to Irkurst. We have been to the supermarket and stocked up on foods that can be cooked with hot water, such as noodles and dehydrated potato, we have books, movies, battery packs and everything needed to keep us comfortable. 
+  We have a friend in our cabin tonight, his name is Sasha (hardly surprising, it seems everyone in Russia is called Alex or Sasha). He is only with us for the night as he is going home to Perm, which we will be arriving at tomorrow. 
 
-We have a couple of long stops today - 
+  Here is the advice we have read about the train before we started; let's see if it holds up over the next four days:
+* Take a small bag to put exactly what you need for the length of your journey in, it will be hard to access your main bags.
+* Take mind fluff movies and books, you will not have the concentration for anything too heavy.
+* Know your stops times and run your watch in Moscow time, the train will not warn before it leaves.
+* Know when you are an hour outside of borders as this will be your last chance to use the bathroom.
+* Take foods that can be cooked with hot water, or snacks, as this is the only way to cook on the train.
+
+  We have a couple of long stops today - 
 * Vladimir
 * Nizhny Novgorod
 * Kirov (though this one will be after we go to bed).
 
-List of entertainment consumed on the train thus far:
+  List of entertainment consumed on the train thus far:
 * Books read - 0.5
 * Movies watched - 1
 * Naps had - 1
