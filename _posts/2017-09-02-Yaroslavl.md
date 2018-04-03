@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Yaroslavl
+title: Nizhny Novgorod
 number: 42
 date: 2017-08-31
-location: Yaroslavl
+location: Nizhny Novgorod
 lat: 56.318327
 lng: 43.977534
 subtitle: Первый день на Транссиб (First day on the Trans Siberian)
