@@ -6,12 +6,12 @@ date: 2014-01-26
 location: Cambridge
 lat: 52.204097
 lng: 0.122562
-subtitle: Pouring rain and more canals
-description: Road trip with Aunty Cathy
+subtitle: Water water everywhere
+description: Rain storms, water fountains and canals
 titleImage: https://adventuresofthetravellingtwins.com/Photos/2014-01-26-Cambridge/cover-min.JPG
 ---
 
-<h4>Markets, walks, new shoes and old buildings</h4>
+<h4>Markets, walks, new shoes and old buildings: We go for a road trip with Aunty Cathy</h4>
 
 Today we went on a road trip with Aunty Cathy to Cambridge. It is a pretty cool place to visit. 
 We had a look around the university, and a wonder around the local market, walked along the canals and got caught out in a massive rain storm. 
