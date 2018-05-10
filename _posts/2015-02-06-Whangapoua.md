@@ -22,21 +22,14 @@ We spent the week swimming, kayaking, surfing and going for walks on the beach. 
 Had to be done really, what kind of summer holiday would it be without over indulging on Tip Top Icecream!
 
 <img src="https://adventuresofthetravellingtwins.com/Photos/2015-02-06-Whangapoua/day11-min.jpg" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2015-02-06-Whangapoua/day12-min.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2015-02-06-Whangapoua/day13-min.jpg" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2015-02-06-Whangapoua/day14-min.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2015-02-06-Whangapoua/day15-min.jpg" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2015-02-06-Whangapoua/day16-min.jpg" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2015-02-06-Whangapoua/day17-min.jpg" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2015-02-06-Whangapoua/day18-min.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2015-02-06-Whangapoua/day19-min.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2015-02-06-Whangapoua/day21-min.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2015-02-06-Whangapoua/day22-min.jpg" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2015-02-06-Whangapoua/day23-min.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2015-02-06-Whangapoua/day24-min.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2015-02-06-Whangapoua/day25-min.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2015-02-06-Whangapoua/day26-min.jpg" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2015-02-06-Whangapoua/day27-min.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2015-02-06-Whangapoua/day28-min.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2015-02-06-Whangapoua/day29-min.jpg" class="image1">
 
