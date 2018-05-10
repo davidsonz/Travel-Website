@@ -13,7 +13,7 @@ titleImage: https://adventuresofthetravellingtwins.com/Photos/2017-09-05-Krasnoy
 
 <h4>Trans Siberian Day Four - 4,065-5,153km</h4>
 
-Our last night on the train. After the excitement of yesterday we were quite happy to have another day of naps, books and landscapes today. If I was feeling a bit sorry for myself this morning, our Russian army friends next door were even worse. Especially one of them, while being very ill and very hung over he was also being yelled at quite a lot by one of the train ladies this morning. We did not see much of them for the rest of their time on the train. 
+Our last night on the train. After the excitement of yesterday we were quite happy to have another day of naps, books and landscapes today. If I was feeling a bit sorry for myself this morning, our Russian army friends next door were even worse. Especially one of them, as well as being very ill and very hung over, he was also being yelled at quite by one of the train ladies this morning. We did not see much of them for the rest of their time on the train. 
 
 We bought ice creams with the other tour groups just after lunch and then joined them for a last night meal in the dinig car. We got a couple of types of pancakes and some pepsi. The dining cart was not as over priced as what I was led to believe, though the babushkas we have been buying food from for the rest of the journey are much cheaper.
 
