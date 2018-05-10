@@ -13,7 +13,11 @@ titleImage: https://adventuresofthetravellingtwins.com/Photos/2017-08-24-Whittle
 
 <h4>24/08/2017: We finally get to see the Cushing's new place</h4>
 
-The drive from London to Whittlesey was very straigh forward, literally, we just hoped on the M11 and drove in a straight line! We had a beautiful day walking around the town centre, visiting the church and the skate park, and chatting and catching up until 2am! If you are ever in the area Whittlesey is your quintessential English town and is worth a visit. 
+Today we travelled from the East End to Cambridgeshire. The drive from London to Whittlesey was very straigh forward, literally, we just hoped on the M11 and drove in a straight line! 
+
+We had a beautiful day walking around the town centre, visiting the church and the skate park, and chatting and catching up until 2am! 
+
+If you are ever in the area Whittlesey is your quintessential English town and is worth a visit. 
 
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-24-Whittlesey/day11-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-24-Whittlesey/day12-min.JPG" class="image1">
