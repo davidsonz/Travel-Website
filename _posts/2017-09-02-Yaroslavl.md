@@ -13,7 +13,8 @@ titleImage: https://adventuresofthetravellingtwins.com/Photos/2017-09-02-Yarosla
 
 <h4>Trans Siberian Day One - 0-917km</h4>
 
-  Today we started on our 5,153 km (3,202 mile) journey from Moscow to Irkurst. We have been to the supermarket and stocked up on foods that can be cooked with hot water, such as noodles and dehydrated potato, we have books, movies, battery packs and everything needed to keep us comfortable. 
+  Today we started on our 5,153 km (3,202 mile) journey from Moscow to Irkurst. We have been to the supermarket and stocked up on foods that can be cooked with hot water, such as noodles and dehydrated potato. We have books, movies, battery packs and everything needed to keep us comfortable. 
+  
   We have a friend in our cabin tonight, his name is Sasha (hardly surprising, it seems everyone in Russia is called Alex or Sasha). He is only with us for the night as he is going home to Perm, which we will be arriving at tomorrow. 
 
   Here is the advice we have read about the train before we started; let's see if it holds up over the next four days:
