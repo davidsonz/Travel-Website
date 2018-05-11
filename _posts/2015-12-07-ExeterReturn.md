@@ -15,7 +15,7 @@ titleImage: https://adventuresofthetravellingtwins.com/Photos/2015-12-07-Exeter/
 
 We are back in Exeter for the week and we are visiting all the sites we either couldn't afford or didn't have time to do last time.
 
-We are visiting the <a target+"_blank" href="https://www.visitexeter.com/things-to-do/northernhay-gardens-p153793">Northernhay Gardens</a>, 
+We are visiting the <a target="_blank" href="https://www.visitexeter.com/things-to-do/northernhay-gardens-p153793">Northernhay Gardens</a>, 
 actually going inside the <a target="_blank" href="https://www.exeter-cathedral.org.uk/">Cathedral</a>, 
 going down into the <a target="_blank" href="https://exeter.gov.uk/leisure-and-culture/our-attractions/underground-passages/">Underground Passages</a>, 
 visiting <a target="_blank" href="https://www.visitsouthdevon.co.uk/places/exmouth-p221953">Exmouth</a> by Train, 
