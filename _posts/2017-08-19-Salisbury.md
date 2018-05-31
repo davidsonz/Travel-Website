@@ -21,7 +21,7 @@ The flight was fairly stress free, if a little boring, and picking up the car fr
 
 We arrived at Louise's and walked down to the service station to buy some dinner before showers and a nap while we waited for Louise and Jess to return home from a friends wedding. The nap was much needed as we ended up chatting well into the night. We lost track of time  catching up on 2 years worth of news and gossip. 
 
-The next morning we headed down into Salisbury township for brunch and a walk around the Cathedral. Finally got to see the Magna Carta. I was expecting it to be a lot bigger than it was but still pretty cool to see. 
+The next morning we headed down into Salisbury township for brunch and a walk around the <a target="_blank" href="https://www.salisburycathedral.org.uk/">Cathedral</a>. Finally got to see the <a target="_blank" href="https://www.salisburycathedral.org.uk/magna-carta/what-magna-carta">Magna Carta</a>. I was expecting it to be a lot bigger than it was but still pretty cool to see. 
 
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-19-Salisbury/day11-min.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-19-Salisbury/day12-min.jpg" class="image1">
