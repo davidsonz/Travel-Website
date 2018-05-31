@@ -11,9 +11,9 @@ We are back in the London area and we are ticking off all the things we couldn't
 
 <a target="_blank" href="http://www.nhm.ac.uk/visit/exhibitions/ice-rink.html">Ice Skating</a>!
 
-We finally went Ice Skating in London! We went to the one at the Natural History Museum, everyone told us the Sommerset house one was the more traditional, but this was the one we wanted to do.
+We finally went Ice Skating in London! We went to the one at the Natural History Museum, everyone told us the Sommerset house one was the more traditional but this was the one we wanted to do.
 
-We were joined by Louise and Lucy for the day, Lucy was less than enthusiastic for the Ice Skating but we all survived and 
+We were joined by Louise and Lucy for the day. Lucy was less than enthusiastic for the Ice Skating but we all survived and 
 headed to <a target="_blank" href="https://www.choccywoccydoodah.com/">Choccywoccydoodah</a> for Hot Chosolates and Brownies afterwards.
 
 <img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/iceskate1.jpg" class="image1">
@@ -27,9 +27,9 @@ headed to <a target="_blank" href="https://www.choccywoccydoodah.com/">Choccywoc
 
 Our Christmas present from Aunty Cathy was tickets to <a target="_blank" href="https://www.disneyonice.com/nz/en-nz/100-years-of-magic">Disney on Ice</a> at the <a target="_blank" href="https://www.theo2.co.uk/">O2</a> on Boxing Day so on the way we hit up the Greenwich Observatory.
 
-We caught the <a target="_blank" href="https://www.thamesclippers.com/route-time-table/prices">Thames Clipper</a> boats along the river to the O2 and had a great time. We then walked through the Greenwich foot tunnel under the river to the observatory.
+We caught the <a target="_blank" href="https://www.thamesclippers.com/route-time-table/prices">Thames Clipper</a> boats along the river to the O2 and then walked through the Greenwich foot tunnel under the river to the observatory.
 
-The Observatory is a very interesting place, from the maritime and time keeping history of England to the grounds themselves you will find quite a few hours of entertainment here. 
+The Observatory is a very interesting place. From the maritime and time keeping history of England to the grounds themselves you will find quite a few hours of entertainment here. 
 
 <img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/day11-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/day12-min.JPG" class="image1">
@@ -77,7 +77,7 @@ The London Eye is fantastic, beautiful views over the whole of London and a lot 
 
 <a target="_blank" href="http://www.londonaquaticscentre.org/">The London Aquatics Centre</a>!
 
-In fairness, this actually wasn't open the last time we were over as they had yet to open the Pool for the London Olympic 2012 Games to the Public. But we still had to go check it out this time. 
+In fairness, this actually wasn't open the last time we were over as they had yet to open the Pool for the London Olympic 2012 Games to the Public. We still had to go check it out this time. 
 
 A very nice pool to swim in, but make sure to check your times before you go as it is only open to the public at certain times of the day.
 
