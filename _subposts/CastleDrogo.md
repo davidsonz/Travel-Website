@@ -11,12 +11,10 @@ Today was our last OODs walk before the Christmas break so we decided to do some
 
 We headed to Dartmoor, to the newest Castle in England, <a target="_blank" href="https://www.nationaltrust.org.uk/castle-drogo">Castle Drogo</a>.
 
-As opposed to the normal tour of a Castle you get, this one was a little bit different. Because the castle was not built with the damp of Dartmoor in mind, when we were there they were taking off the outer layer of brick, cleaning it, placing better water proofing and insulation underneath and then replacing the brick.
-We got to go up the scaffolding to see the progress of what they were doing, and got to wear super sexy high vis vests and safety helmets to do so. It meant that the Castle was in a big white tent, which admittedly spoiled some of the views out the windows, but was very interesting. 
-We also did the generic tour of the building and rooms and learnt about the history of the family that lived there. 
+The tour of this Castle was a little different to the normal tour of a Castle you get. This is because the castle was not built with the damp of Dartmoor in mind so they are now in the process of taking off the outer layer of brick, cleaning it, placing better water proofing and insulation underneath and then replacing the brick. We got to go up the scaffolding to see the progress of what they were doing, and got to wear super sexy high vis vests and safety helmets to do so. It meant that the Castle was in a big white tent, which admittedly spoiled some of the views out the windows, but was very interesting. We also did the generic tour of the building and rooms and learnt about the history of the family that lived there. 
 
-After lunch we did a quick 4 mile circular walk of the grounds before heading back to Exeter. We had a great time for our last walk before Christmas.
-Louise and I taught everyone Pukeko in a Ponga Tree (the NZ version of the 12 Days of Christmas), we had leaf fights and sing offs of Christmas songs. 
+After lunch we did a quick 4 mile circular walk of the grounds before heading back to Exeter. We had a great time for our last walk before Christmas. Louise and I taught everyone Pukeko in a Ponga Tree (the NZ version of the 12 Days of Christmas), we had leaf fights and sing offs of Christmas songs. 
+
 Couldn't have come up with a better Saturday.
 
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleDrogo/day11-min.JPG" class="image1">
