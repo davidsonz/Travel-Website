@@ -8,6 +8,7 @@ description: The British Museum, Science Museum and the LHC
 <h4>A Museum Day Nerding out with our friends</h4>
 
 We headed into London today with one mission: Hit the Museums! 
+
 Louise and I are determinded to see as many of the London Museums as possible before we leave and today we tick off two of the biggest; 
 The <a target="_blank" href="http://www.britishmuseum.org/">British Museum</a> and the <a target="_blank" href="https://www.sciencemuseum.org.uk/">Science Museum</a>.
 
