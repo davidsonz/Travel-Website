@@ -9,7 +9,7 @@ description: The end of Freshers week and our first OODs Walk
 
 After surviving our first week in Exeter and Freshers week (with the flu and two exploded ear drums) we are heading out into the fresh air and to explore some of the beautiful country side around our new home. 
 
-We had a great day meeting new people and seeing Dartmoor. <a target="_blank" href="https://www.visitdartmoor.co.uk/explore-dartmoor/central-dartmoor/postbridge">Postbridge</a> was mind boggling, to walk across a bridge that is older than the time the Europeans have been in New Zealand and four centuries older than the signing of the Treaty of Waitangi is going to take some getting used to.
+We had a great day meeting new people and seeing Dartmoor. <a target="_blank" href="https://www.visitdartmoor.co.uk/explore-dartmoor/central-dartmoor/postbridge">Postbridge</a> was mind boggling. Its not very often you walk across a bridge that is older than the time the Europeans have been in New Zealand and four centuries older than the signing of the Treaty of Waitangi.
 Coming to places like this makes you realise how new our home country is. 
 
 Definitely looking forward to more weekend adventures and making more friends along the way!
