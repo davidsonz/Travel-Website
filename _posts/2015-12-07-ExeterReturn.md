@@ -19,15 +19,16 @@ We are visiting the <a target="_blank" href="https://www.visitexeter.com/things-
 actually going inside the <a target="_blank" href="https://www.exeter-cathedral.org.uk/">Cathedral</a>, 
 going down into the <a target="_blank" href="https://exeter.gov.uk/leisure-and-culture/our-attractions/underground-passages/">Underground Passages</a>, 
 visiting <a target="_blank" href="https://www.visitsouthdevon.co.uk/places/exmouth-p221953">Exmouth</a> by Train, 
-and did the <a target="_blank" href="https://exeter.gov.uk/leisure-and-culture/walking-in-exeter/exeter-green-circle-walks/overview/"> Green Circle walk</a>.
+and doing the <a target="_blank" href="https://exeter.gov.uk/leisure-and-culture/walking-in-exeter/exeter-green-circle-walks/overview/"> Green Circle walk</a>.
 
-Exeter is so full of history. From the Underground Passages, that were created first by the Romans and then built upon as more settlers came to the area, to the Guildhall, which has stood for 600 years. 
+Exeter is so full of history. <br>
+From the Underground Passages, that were created first by the Romans and then built upon as more settlers came to the area, to the Guildhall, which has stood for 600 years. 
+
 It wasn't the best season to be walking around gardens, going to the beach and doing a walk of all of Exeter's green spaces but at least it didn't rain too much.
 
-We also went down to Cornwall for the day to visit <a target="_blank" href="https://www.nationaltrust.org.uk/lanhydrock">Lanhydrock</a>, one of the stately homes in this part of the country. 
-Lanhydrock is also one of the buildings they use to film Poldark but unfortunately none of the actors were there when we were. We had a great time exploring the grounds and the house. 
-A lot of the house was gutted by fire a few decades ago but one of the wings is still n pristine condition with the corridor ceiling depicting scenes from the bible in intricate plaster work. 
-The house was even all done up for a Victorian Christmas including a Christmas Lunch option at the afe on site.
+We also went down to Cornwall for the day to visit <a target="_blank" href="https://www.nationaltrust.org.uk/lanhydrock">Lanhydrock</a>, one of the stately homes in this part of the country. <br>
+Lanhydrock is also one of the buildings they use to film Poldark but unfortunately none of the actors were there when we were. We had a great time exploring the grounds and the house. <br>
+A lot of the house was gutted by fire a few decades ago but one of the wings is still n pristine condition with the corridor ceiling depicting scenes from the bible in intricate plaster work. The house was even all done up for a Victorian Christmas including a Christmas Lunch option at the afe on site.
 
 It was a lot of fun returning to Exeter and doing all the things we wished we could have done to years ago. 
 
