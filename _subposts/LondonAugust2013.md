@@ -5,7 +5,7 @@ subtitle: Our first ever day out in London
 description: There are a lot of people here!
 ---
 
-<h4>West End Shows, Museums, and a Heat Wave</h4>
+<h4>03/09/2013: West End Shows, Museums, and a Heat Wave</h4>
 
 We finally got our first proper day in London and it was amazing!
 
