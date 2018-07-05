@@ -5,7 +5,7 @@ subtitle: People soup!
 description: When we find out how busy a beach in the UK on a summer bank holiday gets
 ---
 
-<h4>We are not in NZ any more</h4>
+<h4>27/08/2013: We are not in NZ any more</h4>
 
 Today we were at <a target="_blank" href="https://www.nationaltrust.org.uk/studland-bay">Studland Bay</a> for the August Bank Holiday, and apparently so was the rest of England! I couldn't believe how many people were at the beach, in NZ when its that busy we just go to the next beach, apparently not an option here. 
 
