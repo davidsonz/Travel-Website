@@ -5,7 +5,7 @@ subtitle: OODs Christmas Walk
 description: limbing scaffolding, exploring a castle and a pre Christmas Walk. 
 ---
 
-<h4>A 4 mile walk around the grounds and a tour of Castle Drogo</h4>
+<h4>07/12/2013: A 4 mile walk around the grounds and a tour of Castle Drogo</h4>
 
 Today was our last OODs walk before the Christmas break so we decided to do something a little different. 
 
