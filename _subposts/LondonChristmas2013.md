@@ -5,7 +5,7 @@ subtitle: Christmas is here!
 description: Christmas lights and Christmas markets
 ---
 
-<h4>Christmas and Harry Potter - The perfect combination</h4>
+<h4>21/12/2013: Christmas and Harry Potter - The perfect combination</h4>
 
 Our first winter Christmas and we have gone for an explore in London with Louise and Lucy!
 
