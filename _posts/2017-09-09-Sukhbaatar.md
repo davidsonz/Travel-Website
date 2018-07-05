@@ -11,7 +11,7 @@ description: Hello Mongolia!
 titleImage: https://adventuresofthetravellingtwins.com/Photos/2017-09-09-Sukhbaatar/cover-min.jpg
 ---
 
-<h4>From the Transiberian to the Trans Mongolian - 5,153-6,304km</h4>
+<h4>09/09/2017: From the Transiberian to the Trans Mongolian - 5,153-6,304km</h4>
 
 Today we boarded our next train, this one is a Mongolian Train that will take us from Irkurst to Ulaanbaatar. 
 
