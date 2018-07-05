@@ -5,7 +5,7 @@ subtitle: Kiwis join forces
 description: The Couchman Contingent has arrived
 ---
 
-<h4>Finally some familiar faces</h4>
+<h4>03/01/2013: Finally some familiar faces</h4>
 
 We headed into London today to meet up with the Couchmans who are here for the week as part of their holiday.
 
