@@ -28,7 +28,7 @@ It wasn't the best season to be walking around gardens, going to the beach and d
 
 We also went down to Cornwall for the day to visit <a target="_blank" href="https://www.nationaltrust.org.uk/lanhydrock">Lanhydrock</a>, one of the stately homes in this part of the country. <br>
 Lanhydrock is also one of the buildings they use to film Poldark but unfortunately none of the actors were there when we were. We had a great time exploring the grounds and the house. <br>
-A lot of the house was gutted by fire a few decades ago but one of the wings is still n pristine condition with the corridor ceiling depicting scenes from the bible in intricate plaster work. The house was even all done up for a Victorian Christmas including a Christmas Lunch option at the afe on site.
+A lot of the house was gutted by fire a few decades ago but one of the wings is still in pristine condition with the corridor ceiling depicting scenes from the bible in intricate plaster work. The house was even all done up for a Victorian Christmas including a Christmas Lunch option at the are on site.
 
 It was a lot of fun returning to Exeter and doing all the things we wished we could have done to years ago. 
 
