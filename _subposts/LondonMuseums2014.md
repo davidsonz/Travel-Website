@@ -5,7 +5,7 @@ subtitle: Museum Day
 description: The British Museum, Science Museum and the LHC
 ---
 
-<h4>A Museum Day Nerding out with our friends</h4>
+<h4>30/12/2013: A Museum Day Nerding out with our friends</h4>
 
 We headed into London today with one mission: Hit the Museums! 
 
