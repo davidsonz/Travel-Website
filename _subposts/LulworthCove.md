@@ -5,7 +5,7 @@ subtitle: Two beaches in one day!
 description: Weymouth, Lulworth Cove and Durdle Door
 ---
 
-<h4>First day of our family beach holiday!</h4>
+<h4>26/08/2013: First day of our family beach holiday!</h4>
 
 After trying Weymouth this morning (it was a bit too cold for our poor Kiwi souls) we headed to <a target="_blank" href="https://www.visit-dorset.com/things-to-do/lulworth-cove-p807263">Lulworth Cove</a> this afternoon where it was much nicer weather! 
 
