@@ -13,7 +13,7 @@ titleImage: https://adventuresofthetravellingtwins.com/Photos/2017-02-06-Waikere
 
 <h4>06/02/2017: Day One</h4>
 
-Pete is in NZ! After a reunion and a day in Auckland we headed down to Rotorua for a night to break up the drive before heading to Lake Waikeremoana to complete one of New Zealand's four day Great Walks. 
+Pete is in NZ! After a reunion and a day in Auckland we headed down to Rotorua for a night to break up the drive before heading to <a target="_blank" href="https://www.doc.govt.nz/parks-and-recreation/places-to-go/east-coast/places/te-urewera/things-to-do/tracks/lake-waikaremoana-great-walk/">Lake Waikeremoana</a> to complete one of New Zealand's four day <a target="_blank" href="https://www.doc.govt.nz/great-walks">Great Walks</a>. 
 
 This morning we were up early to drive the three hours from Rotorua to Lake Waikeremoana. The distance does not appear much on the map but a large majority of the road is unsealed and thus your speed in restricted. When we finally got to the lake we were taken by boat to the Water Taxi Stop on the far side of the lake to begin our four day hike.
 
