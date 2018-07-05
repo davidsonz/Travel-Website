@@ -5,7 +5,7 @@ subtitle: River side walks, friends and sunburn
 description: The sun finally comes out for our summer holiday
 ---
 
-<h4>Sunshine, laughs and good food!</h4>
+<h4>21/08/2017: Sunshine, laughs and good food!</h4>
 
 We found the sunshine again on our drive from the coast to Bristol! After finding everyone we headed down to the river for a walk and some drinks in the sunshine before dinner. We are so lucky to have friends that will take a day off work and travel into Bristol for the day just to see us while we are in the country! 
 
