@@ -5,7 +5,7 @@ subtitle: Postbridge to Warren House Inn
 description: The end of Freshers week and our first OODs Walk
 ---
 
-<h4>6 miles from Postbridge to Warren House Pub</h4>
+<h4>21/09/2013: 6 miles from Postbridge to Warren House Pub</h4>
 
 After surviving our first week in Exeter and Freshers week (with the flu and two exploded ear drums) we are heading out into the fresh air and to explore some of the beautiful country side around our new home. 
 
