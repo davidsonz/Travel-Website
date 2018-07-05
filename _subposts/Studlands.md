@@ -18,4 +18,4 @@ Our cousin also decided to completely freak us out with stories of fish that liv
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-27-Studland/day15-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-27-Studland/day16-min.JPG" class="image1">
 
-https://adventuresofthetravellingtwins.com/2013/08/24/familysummerholiday/
+<a href="https://adventuresofthetravellingtwins.com/2013/08/24/familysummerholiday/">Return to Summer Holiday Page</a>
