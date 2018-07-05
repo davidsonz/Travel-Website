@@ -5,7 +5,7 @@ subtitle: Proper beach day!
 description: Surfing, Sun and Fish and Chips
 ---
 
-<h4>It finally feels like a summer holiday!</h4>
+<h4>29/08/2013: It finally feels like a summer holiday!</h4>
 
 After a week on the coast we finally got a proper beach day!
 
