@@ -11,7 +11,7 @@ description: Louise and I run 5 miles in a Santa Suit!
 titleImage: https://adventuresofthetravellingtwins.com/Photos/2013-12-09-SantaFunRun/cover-min.JPG
 ---
 
-<h4>A day out with all the Santas in the world</h4>
+<h4>09/12/2013: A day out with all the Santas in the world</h4>
 
 Today Louise and I partook in the Charity 5 mile <a target="_blank" href="http://stursantastride.co.uk/">Santa Stride</a> in Sturminster Newton. 
 
