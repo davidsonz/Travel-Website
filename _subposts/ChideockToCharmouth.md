@@ -5,7 +5,7 @@ subtitle: And the Golden Cap
 description: Our last walk
 ---
 
-<h4>6 miles from Chideock to Charmouth</h4>
+<h4>02/02/2014: 6 miles from Chideock to Charmouth</h4>
 
 Today we walked the 6 miles from <a target="_blank" href="https://www.southwestcoastpath.org.uk/walksdb/693/">Chideock to Charmouth</a> via the Golden Cap. 
 
