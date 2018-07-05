@@ -2,7 +2,7 @@
 layout: post
 title: South Island Skiing
 number: 22
-date: 2014-02-08
+date: 2014-09-14
 location: South Island Skiing
 lat: -43.157265
 lng: 171.668458
@@ -11,7 +11,7 @@ description: Two weeks around the South Island
 titleImage: https://adventuresofthetravellingtwins.com/Photos/2014-09-01-SouthIsland/cover-min.JPG
 ---
 
-<h4>South Island here we come!</h4>
+<h4>14/09/2014: South Island here we come!</h4>
 
 We are back in NZ and it is time to go skiing!
 
