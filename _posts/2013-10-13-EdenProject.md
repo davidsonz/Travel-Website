@@ -11,7 +11,7 @@ description: Rainforrests, Gardens and Cream Teas!
 titleImage: https://adventuresofthetravellingtwins.com/Photos/2013-10-13-EdenProject/cover-min.JPG
 ---
 
-<h4>A Splash of Summer</h4>
+<h4>13/10/2013: A Splash of Summer</h4>
 
 Today Louise and I caught the train along the Dawlish Coast to the <a target="_blank" href="http://www.edenproject.com/">Eden Project</a> in Cornwall. 
 
