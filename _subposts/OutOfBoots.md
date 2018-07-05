@@ -5,7 +5,7 @@ subtitle: Exeter Quay to Topsham via Double Locks Pub
 description: Time to hang up the boots and go cycling
 ---
 
-<h4>9 mile cycle along the River Exe</h4>
+<h4>19/10/2013: 9 mile cycle along the River Exe</h4>
 
 Today was the yearly Out of Boots Saturday so instead of walking we were cycling.
 
