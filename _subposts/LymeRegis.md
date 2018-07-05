@@ -5,7 +5,7 @@ subtitle: Blast from the past!
 description: We revisit some childhood memories
 ---
 
-<h4>The old family summer holiday stomping ground</h4>
+<h4>28/08/2013: The old family summer holiday stomping ground</h4>
 
 After hearing about Mum and Aunty Cathy's stories of their summer holidays at <a target="_blank" href="http://www.lymeregis.org/">Lyme Regis</a> as children all week we finally got to visit. 
 
