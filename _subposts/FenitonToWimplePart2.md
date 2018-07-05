@@ -5,7 +5,7 @@ subtitle: OODs Reunion Walk
 description: Louise and I have returned to Exeter
 ---
 
-<h4>10 Miles from Feniton to Wimple</h4>
+<h4>13/12/2015: 10 Miles from Feniton to Wimple</h4>
 
 Today we walked the 10 miles from Feniton to Wimple for the second time for an OODs Reunion walk as Louise and I are back in Exeter for the week for a visit.
 
