@@ -38,7 +38,6 @@ After a day of walking around we met up with our first guide Ksenia and the othe
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day113-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day114-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day115-min.JPG" class="image1">
-v
 
 <h4>29/08/2017: Day Two</h4>
 
