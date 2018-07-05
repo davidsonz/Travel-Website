@@ -11,7 +11,7 @@ description: Catherdrals, Forts, Art and the Start of the Vodka Train!
 titleImage: https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/cover-min.JPG
 ---
 
-<h4>Day One: 28/08/2017</h4>
+<h4>28/08/2017: Day One</h4>
 
 After travelling through the night we arrived in St Petersburg!
 
@@ -40,7 +40,7 @@ After a day of walking around we met up with our first guide Ksenia and the othe
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day115-min.JPG" class="image1">
 v
 
-<h4>Day Two: 29/08/2017</h4>
+<h4>29/08/2017: Day Two</h4>
 
 Day two in St Petersburg and we headed to the <a target="_blank" href="http://www.saint-petersburg.com/museums/peter-paul-fortress/">Peter and Paul Fortress</a>. 
 
@@ -61,7 +61,7 @@ For dinner we went to <a target="_blank" href="https://ginza.ru/spb/restaurant/k
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day28-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day29-min.JPG" class="image1">
 
-<h4>Day Three: 30/08/2017</h4>
+<h4>30/08/2017: Day Three</h4>
 
 Our last day in St Petersburg and I put on my hat of patient sister as we spent the entire day in the <a target="_blank" href="http://hermitage--www.hermitagemuseum.org/wps/portal/hermitage/?lng=en">Hermitage Museum</a>. 
 
