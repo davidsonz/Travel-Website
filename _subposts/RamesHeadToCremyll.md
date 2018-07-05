@@ -5,7 +5,7 @@ subtitle: The Cornish Coast Part 2
 description: Wind, Rain, Caves and Banter
 ---
 
-<h4> 8 miles from Rames Head to Cremyll </h4>
+<h4>26/10/2013: 8 miles from Rames Head to Cremyll </h4>
 
 Today was our second walk along the <a target="_blank" href="http://www.cornwallinfocus.co.uk/walking/kingsand.php">Cornish Coastline</a>, but the Southern Coast this time. 
 
