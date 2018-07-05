@@ -2,7 +2,7 @@
 layout: post
 title: Nizhny Novgorod
 number: 42
-date: 2017-08-31
+date: 2017-09-02
 location: Nizhny Novgorod
 lat: 56.318327
 lng: 43.977534
@@ -11,7 +11,7 @@ description: Goodbye Moscow, Hello to our new home for the next four days!
 titleImage: https://adventuresofthetravellingtwins.com/Photos/2017-09-02-Yaroslavl/cover-min.jpg
 ---
 
-<h4>Trans Siberian Day One - 0-917km</h4>
+<h4>02/09/2017: Trans Siberian Day One - 0-917km</h4>
 
   Today we started on our 5,153 km (3,202 mile) journey from Moscow to Irkurst. We have been to the supermarket and stocked up on foods that can be cooked with hot water, such as noodles and dehydrated potato. We have books, movies, battery packs and everything needed to keep us comfortable. 
   
