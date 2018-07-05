@@ -5,7 +5,7 @@ subtitle: A slightly late Very Berry Christmas
 description: We hang out with Dana for a few days 
 ---
 
-<h4>26/12/2015: Our exploits in London during our 2015 trip to the UK</h4>
+<h4>23/12/2015: Our exploits in London during our 2015 trip to the UK</h4>
 
 We are back in the London area and we are ticking off all the things we couldn't afford to do two years ago.
 
