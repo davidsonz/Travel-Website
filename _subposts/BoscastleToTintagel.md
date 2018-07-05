@@ -5,7 +5,7 @@ subtitle: The Cornish Coast
 description: A seaside walk and Arthurian Legend
 ---
 
-<h4>5 miles from Boscastle to Tintagel</h4>
+<h4>28/09/2013: 5 miles from Boscastle to Tintagel</h4>
 
 Today's walk was a lot more effort that the flat rolling plain that is Dartmoor but the views were well worth it. I can see why this is one of the most popular walks of the year. 
 
