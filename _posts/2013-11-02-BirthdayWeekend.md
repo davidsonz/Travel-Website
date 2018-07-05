@@ -11,7 +11,7 @@ description: Our first birthday away from home
 titleImage: https://adventuresofthetravellingtwins.com/Photos/2013-11-02-BirthdayWeekend/cover-min.JPG
 ---
 
-<h4>Being blown away (literally) at Chesil Beach</h4>
+<h4>01/11/2013: Being blown away (literally) at Chesil Beach</h4>
 
 Our birthday weekend kicked off with a night at the <a target="_blank" href="http://www.oldfirehouseexeter.co.uk/">Old Firehouse Pub</a> in Exeter. According to popular belief this is the pub that J.K.Rolling based the Leaky Cauldron on. We spent the night drinking cider and eating pizza with our new friends for our first ever birthday away from home. 
 
