@@ -5,7 +5,7 @@ subtitle: The Somerset Coast
 description: On a good day we can see Wales
 ---
 
-<h4>7 miles from Crowcombe to West Quantoxhead</h4>
+<h4>05/10/2013: 7 miles from Crowcombe to West Quantoxhead</h4>
 
 Today we completed a beautiful walk near the Somerset Coast through farm land from Crowcombe to <a target="_blank" href="https://www.quantockonline.co.uk/quantocks/villages/westquantoxhead/westquantox1.html">West Quantoxhead</a>. 
 
