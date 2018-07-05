@@ -11,7 +11,7 @@ description: We spend the day at the only beach bar in the UK.
 titleImage: https://adventuresofthetravellingtwins.com/Photos/2013-09-01-Perranporth/cover-min.JPG
 ---
 
-<h4>01/09/2013 - A proper pub experience</h4>
+<h4>01/09/2013: A proper pub experience</h4>
 
 After driving from the Dorset Coast to Cornwall we have arrived at the beautiful <a target="_blank" href="http://www.perranporthinfo.co.uk/">Perranporth</a>! We are staying with Mum and Dad's friends who have known them since the beginning of Mum and Dad.
 
