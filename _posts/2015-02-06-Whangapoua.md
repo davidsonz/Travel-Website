@@ -11,7 +11,7 @@ description: A week at the beach here we come
 titleImage: https://adventuresofthetravellingtwins.com/Photos/2015-02-06-Whangapoua/cover-min.JPG
 ---
 
-<h4>We're all going on a Summer Holiday</h4>
+<h4>06/02/2015: We're all going on a Summer Holiday</h4>
 
 It's time for our yearly migration to the beach for a week!
 
