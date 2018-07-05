@@ -5,7 +5,7 @@ subtitle: A walk through Dartmoor
 description: A very Autumnal walk in Devon
 ---
 
-<h4>7.5 Miles from Sticklepath to Okehampton</h4>
+<h4>16/11/2018: 7.5 Miles from Sticklepath to Okehampton</h4>
 
 Today we walked 7.5 miles through Dartmoor from Sticklepath to Okehampton. 
 
