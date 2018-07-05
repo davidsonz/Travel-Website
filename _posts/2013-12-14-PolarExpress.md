@@ -17,7 +17,7 @@ Tonight Louise and I caught the bus to Okehampton to go on the <a target="_blank
 It had taken a bit of begging and budgeting but Louise eventually let us get tickets to go.
 
 We had a lot of fun. There was singing, hot chocolate, a funny conductor and Santa. <br>
-We got a few weird looks at eing the only adults without children on the train until we mentioned that we were from New Zealand and didnt have anything like this back home. After that everyone warmed up and were asking us all sorts of questions about home. <br>
+We got a few weird looks at being the only adults without children on the train until we mentioned that we were from New Zealand and didnt have anything like this back home. After that everyone warmed up and were asking us all sorts of questions about home. <br>
 Towards the end of the train ride Santa came around and gave out bells just like in the movie! We still have our on our tree every year.
 
 Unfortunately we missed the bus by 10 minutes and ended up stranded in Okehampton until just before midnight waiting for the last bus back to Exeter. It was very cold and nothing was open so we just played eye spy at the bus stop for 2 hours. Getting stranded in Okehampton seems to be a reoccuring theme. 
