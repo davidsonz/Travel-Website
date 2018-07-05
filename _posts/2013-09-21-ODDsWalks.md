@@ -11,40 +11,40 @@ description: Posts from all our OODs walks while studying in Exeter
 titleImage: https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleDrogo/4.jpg
 ---
 
-<h5>21/09/2013 - Freshers Walk</h5>
+<h5>21/09/2013: Freshers Walk</h5>
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/FresherWalk"><img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-21-Freshers/cover-min.JPG" class="image3"></a>
 
-<h5>28/09/2013 - Boscastle to Tintagel</h5>
+<h5>28/09/2013: Boscastle to Tintagel</h5>
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/BoscastleToTintagel"><img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-02-BoscastleToTintagel/cover-min.JPG" class="image3"></a>
 
-<h5>05/10/2013 - Crowcombe to West Quantoxhead</h5>
+<h5>05/10/2013: Crowcombe to West Quantoxhead</h5>
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/CrowcombeToWestQuantoxhead"><img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-05-CrowcombeToWestQuantoxhead/cover-min.JPG" class="image3"></a>
 
-<h5>19/10/2013 - Out Of Boots</h5>
+<h5>19/10/2013: Out Of Boots</h5>
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/OutOfBoots"><img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-19-OutOfBoots/cover-min.JPG" class="image3"></a>
 
-<h5>26/10/2013 - Rames Head to Cremyll</h5>
+<h5>26/10/2013: Rames Head to Cremyll</h5>
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/RamesHeadToCremyll"><img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-26-RamesHeadToCremyll/cover-min.JPG" class="image3"></a>
 
-<h5>05/11/2013 - Tar Barrels</h5>
+<h5>05/11/2013: Tar Barrels</h5>
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/TarBarrels"><img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-05-TarBarrels/cover-min.JPG" class="image3"></a>
 
-<h5>16/11/2013 - Sticklepath to Okehampton</h5>
+<h5>16/11/2013: Sticklepath to Okehampton</h5>
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/SticklepathToOkehampton"><img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-16-SticklepathToOkehampton/cover-min.JPG" class="image3"></a>
 
-<h5>23/11/2013 -  Feniton to Wimple</h5>
+<h5>23/11/2013:  Feniton to Wimple</h5>
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/FenitonToWimple"><img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-23-FenitonToWimple/cover-min.jpg" class="image3"></a>
 
-<h5>07/12/2013 - Castle Drogo</h5>
+<h5>07/12/2013: Castle Drogo</h5>
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/CastleDrogo"><img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleDrogo/4.jpg" class="image3"></a>
 
-<h5>12/01/2014 - Ivy Bridge Circular</h5>
+<h5>12/01/2014: Ivy Bridge Circular</h5>
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/IvyBridge"><img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-12-IvyBridge/cover-min.JPG" class="image3"></a>
 
-<h5>02/02/2014 - Chideock to Charmouth</h5>
+<h5>02/02/2014: Chideock to Charmouth</h5>
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/ChideockToCharmouth"><img src="https://adventuresofthetravellingtwins.com/Photos/2014-02-02-ChideockToCharmouth/cover-min.JPG" class="image3"></a>
 
-<h5>13/12/2015 -  Feniton to Wimple Part 2</h5>
+<h5>13/12/2015:  Feniton to Wimple Part 2</h5>
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/FenitonToWimplePart2"><img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-13-FenitonToWimplePart2/cover-min.jpg" class="image3"></a>
 
 <a href="https://adventuresofthetravellingtwins.com/">Return to Home Page</a>
