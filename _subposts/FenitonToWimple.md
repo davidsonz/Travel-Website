@@ -5,7 +5,7 @@ subtitle: Our best, and longest, walk yet
 description: Beautiful Saturday walk with Friends
 ---
 
-<h4>10 Miles from Feniton to Wimple</h4>
+<h4>23/11/2013: 10 Miles from Feniton to Wimple</h4>
 
 Today we caught the train from Exeter St David's to Honiton Station and then walked the 10 miles from Feniton to Wimple. 
 
