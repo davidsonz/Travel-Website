@@ -5,7 +5,7 @@ subtitle: An adventure in the Dartmoor
 description: Claudia and Louise join us for our last walk of term
 ---
 
-<h4>8 miles around the Ivy Bridge circular</h4>
+<h4>12/01/2014: 8 miles around the Ivy Bridge circular</h4>
 
 Today we headed off to do a cicular walk through the Dartmoor to the <a target="_blank" href="http://pinns.co.uk/devon/ivybridge.html">Ivy Bridge</a> and back. 
 
