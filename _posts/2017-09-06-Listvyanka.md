@@ -53,9 +53,6 @@ As we were walking back along the lake front to the hotel the sun started to set
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-06-Listvyanka/day24-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-06-Listvyanka/day25-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-06-Listvyanka/day26-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-06-Listvyanka/day27-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-06-Listvyanka/day28-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-06-Listvyanka/day29-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-06-Listvyanka/day210-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-06-Listvyanka/day211-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-06-Listvyanka/day212-min.JPG" class="image1">
