@@ -59,8 +59,8 @@ It is good to note that because there are only a couple of trains leaving Ulaanb
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-11-TejPark/day215-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/day116-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/genghis.jpg" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/AF30FE1D-B2E7-4172-8A46-F11C4D21A2A0.jpeg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/nails2.jpg" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/AF30FE1D-B2E7-4172-8A46-F11C4D21A2A0.jpeg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/food.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/day117-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/nails1.jpg" class="image1">
