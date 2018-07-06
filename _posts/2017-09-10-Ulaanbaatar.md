@@ -25,9 +25,9 @@ We went to check out the Zaisan Monument, a monument to commemerate the Soviets 
 
 We finished off our first day in Mongolia with a trip to the night markets and a local bar for cocktails. Tomorrow we head to the Gorkhi Terelj National Park, where we will be staying in a Ger Camp for two nights. 
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/670CF10F-9168-4AB7-9402-2E32529574EE.jpeg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/day11-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/day13-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/670CF10F-9168-4AB7-9402-2E32529574EE.jpeg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/day14-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/day15-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/day16-min.JPG" class="image1">
@@ -57,12 +57,13 @@ It is good to note that because there are only a couple of trains leaving Ulaanb
 
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-11-TejPark/day214-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-11-TejPark/day215-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/day116-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/day117-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/food.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/nails1.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/nails2.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/genghis.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/AF30FE1D-B2E7-4172-8A46-F11C4D21A2A0.jpeg" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/day116-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/day117-min.JPG" class="image1">
+<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/food.jpg" class="image1">
+
 
 <a href="https://adventuresofthetravellingtwins.com/">Return to Home Page</a>
