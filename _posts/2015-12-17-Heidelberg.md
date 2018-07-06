@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cologne
+title: Heidelberg
 number: 29
 date: 2015-12-17
 location: Heidelberg
