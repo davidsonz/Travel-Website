@@ -84,4 +84,6 @@ A very nice pool to swim in, but make sure to check your times before you go as 
 <img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/day52-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/day53-min.JPG" class="image1">
 
-<input type="button" value="Return to London Posts" onclick="self.close()">
+<div class="wrapper">
+  <input type="button" class="button" value="Return to London Page" onclick="self.close()">
+</div>
