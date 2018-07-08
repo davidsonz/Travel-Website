@@ -17,4 +17,4 @@ titleImage: https://adventuresofthetravellingtwins.com/Photos/2013-09-07-HarryPo
 <h5>20/12/2013: Return to Hogwarts!</h5>
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/HarryPotterLouise"><img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-20-HarryPotterPart2/cover-min.JPG" class="image3"></a>
 
-<a href="https://adventuresofthetravellingtwins.com/">Return to Home Page</a>
+<input type="button" value="Return to Home Page" onclick="self.close()">
