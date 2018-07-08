@@ -21,4 +21,6 @@ Definitely looking forward to more weekend adventures and making more friends al
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-21-Freshers/day15-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-21-Freshers/day16-min.JPG" class="image1">
 
-<input type="button" value="Return to OODs Post" onclick="self.close()">
+<div class="wrapper">
+  <input type="button" class="button" value="Return to OODs Post" onclick="self.close()">
+</div>
