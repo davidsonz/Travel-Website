@@ -22,4 +22,6 @@ OODs is definitely a great way to meet wonderful people and see the most of the 
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-26-RamesHeadToCremyll/day15-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-26-RamesHeadToCremyll/day16-min.JPG" class="image1">
 
-<input type="button" value="Return to OODs Post" onclick="self.close()">
+<div class="wrapper">
+  <input type="button" class="button" value="Return to OODs Post" onclick="self.close()">
+</div>
