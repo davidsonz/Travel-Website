@@ -7,7 +7,7 @@ description: When we find out how busy a beach in the UK on a summer bank holida
 
 <h4>27/08/2013: We are not in NZ any more</h4>
 
-Today we were at <a target="_blank" href="https://www.nationaltrust.org.uk/studland-bay">Studland Bay</a> for the August Bank Holiday, and apparently so was the rest of England! I couldn't believe how many people were at the beach, in NZ when its that busy we just go to the next beach, apparently not an option here. 
+Today we were at <a target="_blank" href="https://www.nationaltrust.org.uk/studland-bay">Studland Bay</a> for the August Bank Holiday, and apparently so was the rest of England! I couldn't believe how many people were at the beach, in NZ when it's that busy we just go to the next beach, apparently not an option here. 
 
 Our cousin also decided to completely freak us out with stories of fish that live in the sand that stab you and inject you with a painful toxin, suffice to say that Louise and I spent a lot of the day floating.
 
@@ -18,4 +18,4 @@ Our cousin also decided to completely freak us out with stories of fish that liv
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-27-Studland/day15-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-27-Studland/day16-min.JPG" class="image1">
 
-<a href="https://adventuresofthetravellingtwins.com/2013/08/24/familysummerholiday/">Return to Summer Holiday Page</a>
+<input type="button" value="Return to Summer Holiday Page" onclick="self.close()">
