@@ -21,4 +21,4 @@ We went to our first ever West End Show, <a target="_blank" href="http://www.atg
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-03-London/day15-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-03-London/day16-min.JPG" class="image1">
 
-<a href="https://adventuresofthetravellingtwins.com/2013/09/03/London/">Return to London Posts</a>
+<input type="button" value="Return to London Posts" onclick="self.close()">
