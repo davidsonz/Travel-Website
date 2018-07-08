@@ -17,4 +17,6 @@ There were owls, tractors, tea, a blow up pub and rain. It all felt like a prope
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-24-DorsetFair/day15-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-24-DorsetFair/day16-min.JPG" class="image1">
 
-<input type="button" value="Return to Summer Holiday Page" onclick="self.close()">
+<div class="wrapper">
+  <input type="button" class="button" value="Return to Summer Holiday Page" onclick="self.close()">
+</div>
