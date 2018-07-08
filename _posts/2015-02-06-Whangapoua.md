@@ -31,4 +31,6 @@ Had to be done really, what kind of summer holiday would it be without over indu
 <img src="https://adventuresofthetravellingtwins.com/Photos/2015-02-06-Whangapoua/day28-min.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2015-02-06-Whangapoua/day29-min.jpg" class="image1">
 
-<input type="button" value="Return to Home Page" onclick="self.close()">
+<div class="wrapper">
+  <input type="button" class="button" value="Return to Home Page" onclick="self.close()">
+</div>
