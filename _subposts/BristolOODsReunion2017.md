@@ -19,4 +19,6 @@ We found the sunshine again on our drive from the coast to Bristol! After findin
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-21-Bristol/day18-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-21-Bristol/day19-min.JPG" class="image1">
 
-<input type="button" value="Return to Bristol Page" onclick="self.close()">
+<div class="wrapper">
+  <input type="button" class="button" value="Return to Bristol Page" onclick="self.close()">
+</div>
