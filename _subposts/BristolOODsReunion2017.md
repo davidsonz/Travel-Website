@@ -1,7 +1,7 @@
 ---
 layout: subpost
 title: OODs Reunion
-subtitle: River side walks, friends and sunburn
+subtitle: Riverside walks, friends and sunburn
 description: The sun finally comes out for our summer holiday
 ---
 
@@ -19,4 +19,4 @@ We found the sunshine again on our drive from the coast to Bristol! After findin
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-21-Bristol/day18-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-21-Bristol/day19-min.JPG" class="image1">
 
-<a href="https://adventuresofthetravellingtwins.com/2013/09/02/Bristol/">Return to Bristol Page</a>
+<input type="button" value="Return to Bristol Page" onclick="self.close()">
