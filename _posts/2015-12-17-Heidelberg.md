@@ -73,4 +73,6 @@ Our flight was then delayed by another couple of hours but we met some interesti
 
 Finally time to head back to England, Germany it's been great!
 
-<input type="button" value="Return to Home Page" onclick="self.close()">
+<div class="wrapper">
+  <input type="button" class="button" value="Return to Home Page" onclick="self.close()">
+</div>
