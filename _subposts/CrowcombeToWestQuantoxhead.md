@@ -21,4 +21,6 @@ The day lived up to the OODs motto "On a good day we can see Wales". When we got
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-05-CrowcombeToWestQuantoxhead/day15-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-05-CrowcombeToWestQuantoxhead/day16-min.JPG" class="image1">
 
-<input type="button" value="Return to OODs Post" onclick="self.close()">
+<div class="wrapper">
+  <input type="button" class="button" value="Return to OODs Post" onclick="self.close()">
+</div>
