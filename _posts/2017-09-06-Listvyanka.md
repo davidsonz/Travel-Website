@@ -66,4 +66,6 @@ As we were walking back along the lake front to the hotel the sun started to set
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-06-Listvyanka/day220-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-06-Listvyanka/day221-min.JPG" class="image1">
 
-<input type="button" value="Return to Home Page" onclick="self.close()">
+<div class="wrapper">
+  <input type="button" class="button" value="Return to Home Page" onclick="self.close()">
+</div>
