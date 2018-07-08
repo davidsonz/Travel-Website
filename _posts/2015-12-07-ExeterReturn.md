@@ -44,4 +44,6 @@ It was a lot of fun returning to Exeter and doing all the things we wished we co
 <img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-12-Exmouth/day12-min.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-12-Exmouth/day14-min.jpg" class="image1">
 
-<input type="button" value="Return to Home Page" onclick="self.close()">
+<div class="wrapper">
+  <input type="button" class="button" value="Return to Home Page" onclick="self.close()">
+</div>
