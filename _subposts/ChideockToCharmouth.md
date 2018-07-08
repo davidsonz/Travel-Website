@@ -13,7 +13,7 @@ Today was Louise and my last OODs walk (or official one anyway) as we head off t
 
 All our friends turned out for the last walk, including another kiwi, Isabelle who is on exchange in London and came down for a visit. 
 
-Being part of OODs has been one of the best parts of our time at Exeter, if you ever get the chance to join I couldnt recommend more. 
+Being part of OODs has been one of the best parts of our time at Exeter, if you ever get the chance to join I couldn't recommend more. 
 
 <img src="https://adventuresofthetravellingtwins.com/Photos/2014-02-02-ChideockToCharmouth/day11-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2014-02-02-ChideockToCharmouth/day12-min.JPG" class="image1">
@@ -22,4 +22,4 @@ Being part of OODs has been one of the best parts of our time at Exeter, if you 
 <img src="https://adventuresofthetravellingtwins.com/Photos/2014-02-02-ChideockToCharmouth/day15-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2014-02-02-ChideockToCharmouth/day16-min.JPG" class="image1">
 
-<a href="https://adventuresofthetravellingtwins.com/2013/09/21/oddswalks/">Return to OODs Post</a>
+<input type="button" value="Return to OODs Post" onclick="self.close()">
