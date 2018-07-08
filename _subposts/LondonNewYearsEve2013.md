@@ -22,4 +22,7 @@ We had the last New Year's Eve in London when it was free entry, it is now ticke
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-31-NewYearsEve/day15-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-31-NewYearsEve/day16-min.JPG" class="image1">
 
-<input type="button" value="Return to London Posts" onclick="self.close()">
+<div class="wrapper">
+  <input type="button" class="button" value="Return to London Page" onclick="self.close()">
+</div>
+
