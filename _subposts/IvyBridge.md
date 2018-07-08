@@ -18,4 +18,6 @@ We were joined by Claudia (who is over visiting from Germany) and Louise R on th
 <img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-12-IvyBridge/day15-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-12-IvyBridge/day16-min.JPG" class="image1">
 
-<input type="button" value="Return to OODs Post" onclick="self.close()">
+<div class="wrapper">
+  <input type="button" class="button" value="Return to OODs Post" onclick="self.close()">
+</div>
