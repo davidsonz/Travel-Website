@@ -21,4 +21,4 @@ Bizarre to be in this place of both history and legend, I am starting to underst
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-02-BoscastleToTintagel/day15-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-02-BoscastleToTintagel/day16-min.JPG" class="image1">
 
-<a href="https://adventuresofthetravellingtwins.com/2013/09/21/oddswalks/">Return to OODs Post</a>
+<input type="button" value="Return to OODs Post" onclick="self.close()">
