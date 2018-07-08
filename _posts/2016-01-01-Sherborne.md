@@ -21,4 +21,6 @@ It is a very beautiful Abbey, in a very quaint English town, and is well worth a
 <img src="https://adventuresofthetravellingtwins.com/Photos/2016-01-01-Sheffield/day12-min.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2016-01-01-Sheffield/day13-min.jpg" class="image1">
 
-<input type="button" value="Return to Home Page" onclick="self.close()">
+<div class="wrapper">
+  <input type="button" class="button" value="Return to Home Page" onclick="self.close()">
+</div>
