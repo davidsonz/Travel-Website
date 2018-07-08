@@ -2,7 +2,7 @@
 layout: subpost
 title: Castle Drogo
 subtitle: OODs Christmas Walk
-description: limbing scaffolding, exploring a castle and a pre Christmas Walk. 
+description:  Climbing scaffolding, exploring a castle and a pre-Christmas Walk. 
 ---
 
 <h4>07/12/2013: A 4 mile walk around the grounds and a tour of Castle Drogo</h4>
@@ -15,7 +15,7 @@ The tour of this Castle was a little different to the normal tour of a Castle yo
 
 After lunch we did a quick 4 mile circular walk of the grounds before heading back to Exeter. We had a great time for our last walk before Christmas. Louise and I taught everyone Pukeko in a Ponga Tree (the NZ version of the 12 Days of Christmas), we had leaf fights and sing offs of Christmas songs. 
 
-Couldn't have come up with a better Saturday.
+I couldn't have come up with a better Saturday.
 
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleDrogo/day11-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleDrogo/day12-min.JPG" class="image1">
@@ -24,4 +24,4 @@ Couldn't have come up with a better Saturday.
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleDrogo/3.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleDrogo/1.jpg" class="image1">
 
-<a href="https://adventuresofthetravellingtwins.com/2013/09/21/oddswalks/">Return to OODs Post</a>
+<input type="button" value="Return to OODs Post" onclick="self.close()">
