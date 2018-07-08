@@ -13,11 +13,11 @@ titleImage: https://adventuresofthetravellingtwins.com/Photos/2013-09-14-Winches
 
 <h4>14/09/2013: Our last days of Holiday</h4>
 
-Its our last few days of freedom with Mum before she drops us in our new home and returns to New Zealand.
+It's our last few days of freedom with Mum before she drops us in our new home and returns to New Zealand.
 
-We are staying with her friends new Winchester for a couple of nights on the way down. They live in a cute little town in the cutest little thatch cottage. It is strange to stay in a house that is older than the treaty of Waitangi or the length of time Europeans have been in New Zealand! 
+We are staying with her friend's new Winchester for a couple of nights on the way down. They live in a cute little town in the cutest little thatch cottage. It is strange to stay in a house that is older than the treaty of Waitangi or the length of time Europeans have been in New Zealand! 
 
-We had a very relaxing couple of days visiting the <a target="_blank" href="http://www.winchester-cathedral.org.uk/">Winchester Cathedral</a> and the <a target="_blank" href="https://www.jane-austens-house-museum.org.uk/visit-us">Jane Austen House</a>. It is all very quaint and feels very British. The Jane Austen House is well worth a visit as it is a good representation of life back in those times and is a interesting in sight into the life that she led and the characters that she wrote about. 
+We had a very relaxing couple of days visiting the <a target="_blank" href="http://www.winchester-cathedral.org.uk/">Winchester Cathedral</a> and the <a target="_blank" href="https://www.jane-austens-house-museum.org.uk/visit-us">Jane Austen House</a>. It is all very quaint and feels very British. The Jane Austen House is well worth a visit as it is a good representation of life back in those times and is an interesting insight into the life that she led and the characters that she wrote about. 
 
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-14-Winchester/day11-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-14-Winchester/day12-min.JPG" class="image1">
@@ -26,4 +26,4 @@ We had a very relaxing couple of days visiting the <a target="_blank" href="http
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-14-Winchester/day15-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-14-Winchester/day16-min.JPG" class="image1">
 
-<a href="https://adventuresofthetravellingtwins.com/">Return to Home Page</a>
+<input type="button" value="Return to Home Page" onclick="self.close()"> 
