@@ -30,4 +30,6 @@ The next morning we headed down into Salisbury township for brunch and a walk ar
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-19-Salisbury/day15-min.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-19-Salisbury/day16-min.jpg" class="image1">
 
-<input type="button" value="Return to Home Page" onclick="self.close()">
+<div class="wrapper">
+  <input type="button" class="button" value="Return to Home Page" onclick="self.close()">
+</div>
