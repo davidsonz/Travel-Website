@@ -27,4 +27,6 @@ titleImage: https://adventuresofthetravellingtwins.com/Photos/2013-08-28-LymeReg
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/Weymouth"><img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-29-Weymouth/cover-min.JPG" class="image3"></a>
 
 
-<input type="button" value="Return to Home Page" onclick="self.close()">
+<div class="wrapper">
+  <input type="button" class="button" value="Return to Home Page" onclick="self.close()">
+</div>
