@@ -19,4 +19,7 @@ Louise (twin) and I even got to open the doors to the Great Hall. We won the con
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-20-HarryPotterPart2/day15-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-20-HarryPotterPart2/day16-min.JPG" class="image1">
 
-<input type="button" value="Return to Harry Potter Studio Tour Posts" onclick="self.close()">
+<div class="wrapper">
+  <input type="button" class="button" value="Return to Harry Potter Studio Tour Page" onclick="self.close()">
+</div>
+
