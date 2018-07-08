@@ -18,4 +18,7 @@ Louise and I had the most amazing day seeing all the set, learning duelling pose
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-07-HarryPotter/day15-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-07-HarryPotter/day16-min.jpg" class="image1">
 
-<input type="button" value="Return to Harry Potter Studio Tour Posts" onclick="self.close()">
+<div class="wrapper">
+  <input type="button" class="button" value="Return to Harry Potter Studio Tour Page" onclick="self.close()">
+</div>
+
