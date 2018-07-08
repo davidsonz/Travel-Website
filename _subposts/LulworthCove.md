@@ -20,4 +20,7 @@ The Jurassic Coast is an extremely beautiful part of the UK, and the rock format
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-26-LulworthCove/day15-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-26-LulworthCove/day16-min.JPG" class="image1">
 
-<input type="button" value="Return to Summer Holiday Page" onclick="self.close()">
+<div class="wrapper">
+  <input type="button" class="button" value="Return to Summer Holiday Page" onclick="self.close()">
+</div>
+
