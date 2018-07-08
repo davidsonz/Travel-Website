@@ -20,4 +20,7 @@ It has been such a good week on the South Coast, I look forward to doing it agai
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-29-Weymouth/day15-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-29-Weymouth/day16-min.JPG" class="image1">
 
-<input type="button" value="Return to Summer Holiday Page" onclick="self.close()">
+<div class="wrapper">
+  <input type="button" class="button" value="Return to Summer Holiday Page" onclick="self.close()">
+</div>
+
