@@ -6,24 +6,24 @@ date: 2017-09-05
 location: Krasnoyarsk
 lat: 56.020510
 lng: 92.887699
-subtitle: последний день на Транссибе (Last day on the Trans Siberian)
+subtitle: последний день на Транссибе (Last day on the Trans-Siberian)
 description: Movies, Ice Creams and we find the Aussies!
 titleImage: https://adventuresofthetravellingtwins.com/Photos/2017-09-05-Krasnoyarsk/cover-min.jpg
 ---
 
-<h4>05/09/2017: Trans Siberian Day Four - 4,065-5,153km</h4>
+<h4>05/09/2017: Trans-Siberian Day Four - 4,065-5,153km</h4>
 
-Our last night on the train. After the excitement of yesterday we were quite happy to have another day of naps, books and landscapes today. If I was feeling a bit sorry for myself this morning, our Russian army friends next door were even worse. Especially one of them, as well as being very ill and very hung over, he was also being yelled at quite by one of the train ladies this morning. We did not see much of them for the rest of their time on the train. 
+It's our last night on the train. After the excitement of yesterday we were quite happy to have another day of naps, books and landscapes today. If I was feeling a bit sorry for myself this morning, our Russian army friends next door were even worse. Especially one of them, as well as being very ill and very hung over, he was also being yelled at quite by one of the train ladies this morning. We did not see much of them for the rest of their time on the train. 
 
-We bought ice creams with the other tour groups just after lunch and then joined them for a last night meal in the dinig car. We got a couple of types of pancakes and some pepsi. The dining cart was not as over priced as what I was led to believe, though the babushkas we have been buying food from for the rest of the journey are much cheaper.
+We bought ice creams with the other tour groups just after lunch and then joined them for a last night meal in the dining car. We got a couple of types of pancakes and some Pepsi. The dining cart was not as overpriced as what I was led to believe, though the babushkas we have been buying food from for the rest of the journey are much cheaper.
 
-We arrive in Irkurst tomorrow morning, and while I have really enjoyed our time on the train, I am looking forward to a bed that doesnt move. 
+We arrive in Irkurst tomorrow morning, and while I have really enjoyed our time on the train, I am looking forward to a bed that doesn't move. 
 
 Things we have learnt along the way:
 * You will read less than you think you will, sleep more than you think you will and spend a lot of time looking out a window.
-* While the train doesnt warn you when it is leaving, watch the locals cause they never miss the train.
+* While the train doesn't warn you when it is leaving, watch the locals cause they never miss the train.
 * Drinking is not allowed, a little will have a blind eye turned, a lot will have you thrown off.
-* You dont need as much food as you think, the Babushkas sell good food and you dont eat as much as you are not doing much.
+* You don't need as much food as you think, the Babushkas sell good food and you don't eat as much as you are not doing much.
 * If you drink with the Russian Army have some motion sickness tablets.
 * Be friendly and you will make friends, Russians are friendlier than they appear. 
 * Do not mess with the train ladies. Ever. Take them gifts.
@@ -55,4 +55,4 @@ New favourite foods:
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-05-Krasnoyarsk/day16-min.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-05-Krasnoyarsk/day11-min.jpg" class="image1">
 
-<a href="https://adventuresofthetravellingtwins.com/">Return to Home Page</a>
+<input type="button" value="Return to Home Page" onclick="self.close()">
