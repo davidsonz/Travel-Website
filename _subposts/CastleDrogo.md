@@ -24,4 +24,6 @@ I couldn't have come up with a better Saturday.
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleDrogo/3.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleDrogo/1.jpg" class="image1">
 
-<input type="button" value="Return to OODs Post" onclick="self.close()">
+<div class="wrapper">
+  <input type="button" class="button" value="Return to OODs Post" onclick="self.close()">
+</div>
