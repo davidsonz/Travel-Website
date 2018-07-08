@@ -33,4 +33,6 @@ And so it ends, the life changing trip that was the Trans-Siberian. I couldn't r
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-17-GreatWall/day18-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-17-GreatWall/day19-min.JPG" class="image1">
 
-<input type="button" value="Return to Home Page" onclick="self.close()">
+<div class="wrapper">
+  <input type="button" class="button" value="Return to Home Page" onclick="self.close()">
+</div>
