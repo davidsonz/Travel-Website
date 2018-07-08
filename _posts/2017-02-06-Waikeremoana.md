@@ -17,7 +17,7 @@ Pete is in NZ! After a reunion and a day in Auckland we headed down to Rotorua f
 
 This morning we were up early to drive the three hours from Rotorua to Lake Waikeremoana. The distance does not appear much on the map but a large majority of the road is unsealed and thus your speed in restricted. When we finally got to the lake we were taken by boat to the Water Taxi Stop on the far side of the lake to begin our four day hike.
 
-Day one we walked the 5.5km to Waiharuru Hut where we would be staying for the night. The first day is a short walk becuase of the time that it takes to get to the start of the walk. Dinner was a very nice Spag Bol followed with chocolate and cards before we went to get a good nights sleep in prep for the longest day of walking tomorrow. 
+Day one we walked the 5.5km to Waiharuru Hut where we would be staying for the night. The first day is a short walk because of the time that it takes to get to the start of the walk. Dinner was a very nice Spag Bol followed with chocolate and cards before we went to get a good night's sleep in prep for the longest day of walking tomorrow. 
 
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-02-06-Waikeremoana/day11-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-02-06-Waikeremoana/day12-min.JPG" class="image1">
@@ -28,11 +28,11 @@ Day one we walked the 5.5km to Waiharuru Hut where we would be staying for the n
 
 <h4>07/02/2017: Day Two</h4>
 
-Today is Waitangi Day, the anniversary of the signing of the Treaty of Waitangi (the founding document of NZ as it is now). Similar to the 4th of July in America. So to celebrate we are on Day Two of the Lake Waikeremoana walk, and the longest day. Today we will walk 18.5km and 8 hours to the Waiopaoa Hut. 
+Today is Waitangi Day, the anniversary of the signing of the Treaty of Waitangi (the founding document of NZ as it is now); similar to the 4th of July in America. So to celebrate we are on Day Two of the Lake Waikeremoana walk, and the longest day. Today we will walk 18.5km and 8 hours to the Waiopaoa Hut. 
 
 Today's walk is fairly flat for the most part as we are just following the lake edge around to the bottom of the Panekire Bluffs, which we will climb tomorrow. It is a long hot day of walking so stops included wading into the river and lots of water. Lake Waikeremoana is incredibly pure so you can fill your drink bottles from the Lake as you walk. 
 
-Once we arrived at Waiopoa Hut it was time for a swim in the nice cool lake to ease our aching feet before a quick dinner of rissotto. Another night of cards and chocolate and we were well ready for bed. Looking forward to some Spectacular Scenes (as Pete calls them) tomorrow as we climb the bluffs.
+Once we arrived at Waiopoa Hut it was time for a swim in the nice cool lake to ease our aching feet before a quick dinner of risotto. Another night of cards and chocolate and we were well ready for bed. Looking forward to some Spectacular Scenes (as Pete calls them) tomorrow as we climb the bluffs.
 
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-02-06-Waikeremoana/day21-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-02-06-Waikeremoana/day22-min.JPG" class="image1">
@@ -43,11 +43,11 @@ Once we arrived at Waiopoa Hut it was time for a swim in the nice cool lake to e
 
 <h4>08/02/2017: Day Three</h4>
 
-Today our distance is small but the effort is large, we will spend the next few hours climbing up to the top of the Panekire Bluffs where tonights hut is. We are walking 7.6km today but ascending 1000m. Luckily most of the walk is in the bush as it is a very hot day and we are leaving the nice cool lake behind.
+Today our distance is small but the effort is large, we will spend the next few hours climbing up to the top of the Panekire Bluffs where tonight's hut is. We are walking 7.6km today but ascending 1000m. Luckily most of the walk is in the bush as it is a very hot day and we are leaving the nice cool lake behind.
 
 We had a bit of a sleep in this morning. Many people in the hut are walking the opposite way around the Lake to us so they were off early to complete the longest day. After a bit of a later start we made our way up the Bluffs. The views were amazing and it was a real treat to show off our beautiful country to Pete. 
 
-We arrived at the Panekire Hut in time for a late lunch before spending the afternoon relaxing in the sunshine and having a nap. You can walk day three and four in one quite easily, but as we have to drive back to Auckland we decided it was better to split the walk up. Its our last night on the walk and I dont think anyone will have trouble sleeping tonight. 
+We arrived at the Panekire Hut in time for a late lunch before spending the afternoon relaxing in the sunshine and having a nap. You can walk day three and four in one quite easily, but as we have to drive back to Auckland we decided it was better to split the walk up. It's our last night on the walk and I don't think anyone will have trouble sleeping tonight. 
 
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-02-06-Waikeremoana/day31-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-02-06-Waikeremoana/day32-min.JPG" class="image1">
@@ -71,5 +71,5 @@ Then it was time to head off. We are dropping Pete off in Rotorua where he picks
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-02-06-Waikeremoana/day45-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-02-06-Waikeremoana/day46-min.JPG" class="image1">
 
-<a href="https://adventuresofthetravellingtwins.com/">Return to Home Page</a>
+<input type="button" value="Return to Home Page" onclick="self.close()">
 
