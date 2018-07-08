@@ -18,4 +18,7 @@ Our cousin also decided to completely freak us out with stories of fish that liv
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-27-Studland/day15-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-27-Studland/day16-min.JPG" class="image1">
 
-<input type="button" value="Return to Summer Holiday Page" onclick="self.close()">
+<div class="wrapper">
+  <input type="button" class="button" value="Return to Summer Holiday Page" onclick="self.close()">
+</div>
+
