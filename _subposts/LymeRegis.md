@@ -18,4 +18,4 @@ I am still getting used to this pebble beach thing, but at least it keeps the wa
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-28-LymeRegis/day15-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-08-28-LymeRegis/day16-min.JPG" class="image1">
 
-<a href="https://adventuresofthetravellingtwins.com/2013/08/24/familysummerholiday/">Return to Summer Holiday Page</a>
+<input type="button" value="Return to Summer Holiday Page" onclick="self.close()">
