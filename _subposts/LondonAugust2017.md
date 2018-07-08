@@ -15,7 +15,7 @@ Once we checked in we hightailed it into central London to do some shopping befo
 
 <h4>23/08/2017: Harry Potter!</h4>
 
-Harry Potter and the Cursed Child was amazing! We had an absolute blast through the whole thing, it was magic come to life on stage with no green screen or special effects. We were on the edge of our seats the whole time! And no spoilers, as they say #keepthesecret
+Harry Potter and the Cursed Child was amazing! We had an absolute blast through the whole thing; it was magic come to life on stage with no green screen or special effects. We were on the edge of our seats the whole time! And no spoilers, as they say #keepthesecret
 
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-23-LondonHarryPotter/day21-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-23-LondonHarryPotter/cover-min.JPG" class="image1">
