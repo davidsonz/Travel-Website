@@ -20,4 +20,4 @@ Our new stash arrived today as well so everyone was in their new OODs get up. Lo
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-23-FenitonToWimple/day15-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-23-FenitonToWimple/day16-min.JPG" class="image1">
 
-<a href="https://adventuresofthetravellingtwins.com/2013/09/21/oddswalks/">Return to OODs Post</a>
+<input type="button" value="Return to OODs Post" onclick="self.close()">
