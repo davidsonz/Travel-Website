@@ -58,8 +58,6 @@ Then it was time to return to England. Can't wait to come back and see more of t
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/day35-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-10-Amsterdam/day36-min.JPG" class="image1">
 
-<input type="button" value="Return to Home Page" onclick="self.close()">
-
-
-
-
+<div class="wrapper">
+  <input type="button" class="button" value="Return to Home Page" onclick="self.close()">
+</div>
