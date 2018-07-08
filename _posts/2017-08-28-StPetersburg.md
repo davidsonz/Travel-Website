@@ -81,4 +81,6 @@ It is now time to depart St Petersburg and hop on our first overnight train to M
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day311-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day312-min.JPG" class="image1">
 
-<input type="button" value="Return to Home Page" onclick="self.close()">
+<div class="wrapper">
+  <input type="button" class="button" value="Return to Home Page" onclick="self.close()">
+</div>
