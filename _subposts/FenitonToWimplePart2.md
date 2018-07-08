@@ -23,4 +23,6 @@ Feniton to Wimple, to me, is the perfect English Countryside walk. You train the
 <img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-13-FenitonToWimplePart2/day18-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-13-FenitonToWimplePart2/day19-min.JPG" class="image1">
 
-<input type="button" value="Return to OODs Post" onclick="self.close()">
+<div class="wrapper">
+  <input type="button" class="button" value="Return to OODs Post" onclick="self.close()">
+</div>
