@@ -24,4 +24,4 @@ It was a beautiful day for it and we had a lot of fun. However, as we had had th
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-09-SantaFunRun/day15-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-09-SantaFunRun/day16-min.JPG" class="image1">
 
-<a href="https://adventuresofthetravellingtwins.com/">Return to Home Page</a>
+<input type="button" value="Return to Home Page" onclick="self.close()"> 
