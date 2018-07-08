@@ -31,4 +31,6 @@ We had such fun acting like kids at Christmas!
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-14-PolarExpress/day15-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-14-PolarExpress/day16-min.JPG" class="image1">
 
-<input type="button" value="Return to Home Page" onclick="self.close()"> 
+<div class="wrapper">
+  <input type="button" class="button" value="Return to Home Page" onclick="self.close()">
+</div>
