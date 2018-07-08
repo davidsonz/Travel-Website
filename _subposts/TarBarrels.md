@@ -22,4 +22,6 @@ It all seemed a bit bizarre to me but I am going to chalk this up to weird Engli
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-05-TarBarrels/day15-min.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-05-TarBarrels/day16-min.jpg" class="image1">
 
-<input type="button" value="Return to OODs Post" onclick="self.close()">
+<div class="wrapper">
+  <input type="button" class="button" value="Return to OODs Post" onclick="self.close()">
+</div>
