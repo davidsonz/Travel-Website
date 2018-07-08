@@ -23,4 +23,4 @@ It is a pretty cool place to visit. We had a look around the university, and a w
 <img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-26-Cambridge/day15-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-26-Cambridge/day16-min.JPG" class="image1">
 
-<a href="https://adventuresofthetravellingtwins.com/">Return to Home Page</a>
+<input type="button" value="Return to Home Page" onclick="self.close()">
