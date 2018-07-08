@@ -26,4 +26,6 @@ If you are ever in the area Whittlesey is your quintessential English town and i
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-24-Whittlesey/day15-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-24-Whittlesey/day16-min.JPG" class="image1">
 
-<input type="button" value="Return to Home Page" onclick="self.close()">
+<div class="wrapper">
+  <input type="button" class="button" value="Return to Home Page" onclick="self.close()">
+</div>
