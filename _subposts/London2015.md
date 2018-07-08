@@ -11,10 +11,9 @@ We are back in the London area and we are ticking off all the things we couldn't
 
 <a target="_blank" href="http://www.nhm.ac.uk/visit/exhibitions/ice-rink.html">Ice Skating</a>!
 
-We finally went Ice Skating in London! We went to the one at the Natural History Museum, everyone told us the Sommerset house one was the more traditional but this was the one we wanted to do.
+We finally went Ice Skating in London! We went to the one at the Natural History Museum, everyone told us the Somerset house one was the more traditional but this was the one we wanted to do.
 
-We were joined by Louise and Lucy for the day. Lucy was less than enthusiastic for the Ice Skating but we all survived and 
-headed to <a target="_blank" href="https://www.choccywoccydoodah.com/">Choccywoccydoodah</a> for Hot Chosolates and Brownies afterwards.
+We were joined by Louise and Lucy for the day. Lucy was less than enthusiastic for the Ice Skating but we all survived and headed to <a target="_blank" href="https://www.choccywoccydoodah.com/">Choccywoccydoodah</a> for Hot Chocolates and Brownies afterwards.
 
 <img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/iceskate1.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/iceskate2.jpg" class="image1">
@@ -55,7 +54,7 @@ You are not really supposed to take photos inside St Paul's (not that that stopp
 The Tower of London is very good, but get there early before the crowds start building and make a beeline for the Crown Jewels section. 
 We bought our tickets online the night before so got to skip the queue, collect our tickets and head straight in. Our mistake was to do the Crown Jewels last. When we arrived there was no queue but by the time we got to it the queue was huge. Well worth the wait though. 
 
-The Tower of London is one of the more alive muesums that you can visit, they make the history interesting and it is a great time to walk around the complex. 
+The Tower of London is one of the more captivating museums that you can visit, they make the history interesting and it is a great time to walk around the complex. 
 
 After you have finished make sure to walk across Tower Bridge to get a view of it from the other side of the river.
 
@@ -85,6 +84,4 @@ A very nice pool to swim in, but make sure to check your times before you go as 
 <img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/day52-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-26-LondonChristmas2015/day53-min.JPG" class="image1">
 
-<a href="https://adventuresofthetravellingtwins.com/2013/09/03/London/">Return to London Posts</a>
-
-
+<input type="button" value="Return to London Posts" onclick="self.close()">
