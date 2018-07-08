@@ -89,4 +89,6 @@ Now it is time to head back to real life.
 <img src="https://adventuresofthetravellingtwins.com/Photos/2014-09-01-SouthIsland/ferry2-min.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2014-09-01-SouthIsland/ferry3-min.jpg" class="image1">
 
-<input type="button" value="Return to Home Page" onclick="self.close()">
+<div class="wrapper">
+  <input type="button" class="button" value="Return to Home Page" onclick="self.close()">
+</div>
