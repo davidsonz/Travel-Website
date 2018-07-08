@@ -55,4 +55,6 @@ New favourite foods:
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-05-Krasnoyarsk/day16-min.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-05-Krasnoyarsk/day11-min.jpg" class="image1">
 
-<input type="button" value="Return to Home Page" onclick="self.close()">
+<div class="wrapper">
+  <input type="button" class="button" value="Return to Home Page" onclick="self.close()">
+</div>
