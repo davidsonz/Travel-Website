@@ -21,4 +21,7 @@ It was so nice to be around family again, we had such a good day and found some 
 <img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-03-CouchmanLondon/day15-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-03-CouchmanLondon/day16-min.JPG" class="image1">
 
-<input type="button" value="Return to London Posts" onclick="self.close()">
+<div class="wrapper">
+  <input type="button" class="button" value="Return to London Page" onclick="self.close()">
+</div>
+
