@@ -27,4 +27,6 @@ There is also a canteen where you can eat your own food or buy if you so desire.
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-13-EdenProject/day15-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-13-EdenProject/day16-min.JPG" class="image1">
 
-<input type="button" value="Return to Home Page" onclick="self.close()"> 
+<div class="wrapper">
+  <input type="button" class="button" value="Return to Home Page" onclick="self.close()">
+</div>
