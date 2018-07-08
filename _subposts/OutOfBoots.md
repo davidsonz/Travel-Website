@@ -18,4 +18,4 @@ We cycled from the Exeter Quay to <a target="_blank" href="https://www.visitsout
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-19-OutOfBoots/day15-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-19-OutOfBoots/day16-min.JPG" class="image1">
 
-<a href="https://adventuresofthetravellingtwins.com/2013/09/21/oddswalks/">Return to OODs Post</a>
+<input type="button" value="Return to OODs Post" onclick="self.close()">
