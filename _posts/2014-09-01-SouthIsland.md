@@ -25,7 +25,7 @@ I absolutely love this mountain as it is mostly locals that ski here. There is o
 It is a well maintained mountain and on a good season you can ski across lakes and down to the road to meet your car.
 
 You cannot stay on the mountain but instead stay in St Arnaud, a 20km drive away. We stay at the <a target="_blank" href="http://www.alpinelodge.co.nz/">Alpine Lodge</a>.
-I highly recommend it, there are options of self contained units or bunk rooms, the staff are extremely helpful and friendly and the restaurant is good.
+I highly recommend it, there are options of self-contained units or bunk rooms, the staff are extremely helpful and friendly and the restaurant is good.
 The Lodge is also a short walk from the end of Lake Rotoiti and one of the most iconic views in NZ. 
 
 <img src="https://adventuresofthetravellingtwins.com/Photos/2014-09-01-SouthIsland/rainbow1-min.jpg" class="image1">
@@ -35,9 +35,9 @@ The Lodge is also a short walk from the end of Lake Rotoiti and one of the most 
 <img src="https://adventuresofthetravellingtwins.com/Photos/2014-09-01-SouthIsland/rainbow5-min.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2014-09-01-SouthIsland/rainbow6-min.jpg" class="image1">
 
-<h4>Mt Cheeseman, Canturbury</h4>
+<h4>Mt Cheeseman, Canterbury</h4>
 
-Our second stop was <a target="_blank" href="http://www.mtcheeseman.co.nz/">Mt Cheeseman</a> in Caturbury. This is a super old school country ski field with only two T-Bars.
+Our second stop was <a target="_blank" href="http://www.mtcheeseman.co.nz/">Mt Cheeseman</a> in Canterbury. This is a super old school country ski field with only two T-Bars.
 That being said it is a super cool spot to stay. There is an old military style bunk house to stay at on the mountain. 
 It is a communal type set up with a main living area where both Staff and Guests spend their time when not on the Mountain. If you are staying at the lodge then all meals are provided in the cost of staying there.
 The views across the Canterbury plains are amazing and well worth the drive up the hill. 
@@ -63,7 +63,7 @@ It is still a very well maintained mountain, and there are good runs to be had i
 
 The two mountains in Wanaka, <a target="_blank" href="https://www.treblecone.com/">Treble Cone</a> and <a target="_blank" href="https://www.cardrona.com/winter/">Cardrona</a>, are both very good ski fields. 
 I much prefer them to the ski fields in Queenstown. Wanaka is also a bit quieter to stay in that Queenstown as there is less partying and more of a chilled out vibe. 
-Treble Cone is definitely the mountain for the more experienced skier, with only two chair lifts that are both very long and access each side of the mountain there are less green slopes avaliable. 
+Treble Cone is definitely the mountain for the more experienced skier, with only two chair lifts that are both very long and access each side of the mountain there are less green slopes available. 
 Cardrona has many lifts and many sections of the mountain for all abilities, and a very good terrain park.
 
 <img src="https://adventuresofthetravellingtwins.com/Photos/2014-09-01-SouthIsland/wanaka1-min.jpg" class="image1">
@@ -89,4 +89,4 @@ Now it is time to head back to real life.
 <img src="https://adventuresofthetravellingtwins.com/Photos/2014-09-01-SouthIsland/ferry2-min.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2014-09-01-SouthIsland/ferry3-min.jpg" class="image1">
 
-<a href="https://adventuresofthetravellingtwins.com/">Return to Home Page</a>
+<input type="button" value="Return to Home Page" onclick="self.close()">
