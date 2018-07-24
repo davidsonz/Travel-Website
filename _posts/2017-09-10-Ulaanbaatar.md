@@ -61,7 +61,7 @@ It is good to note that because there are only a couple of trains leaving Ulaanb
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/genghis.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/nails2.jpg" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/AF30FE1D-B2E7-4172-8A46-F11C4D21A2A0.jpeg" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/food.jpg" class="image1">
+<img src="https://lh3.googleusercontent.com/Ku4olt6laYCx3Dy05ldhdUVOpqcVKzjmsPJeRnDMmr0q9wRCjFI5SnvDJfwy0eAw1j8AzPP_A6Uwb4JoufaFMCJEWY8Qr7wTyqqm_KV6rUDmF7MllVITTtrFEMfCpmR08owjhrJQlA=w2400" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/day117-min.JPG" class="image1">
 <img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-10-Ulaanbaatar/nails1.jpg" class="image1">
 
