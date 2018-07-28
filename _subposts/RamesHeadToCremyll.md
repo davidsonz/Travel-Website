@@ -15,12 +15,12 @@ We still had a wonderful time. We had lunch in old caves in the cliffs, got to k
 
 OODs is definitely a great way to meet wonderful people and see the most of the gorgeous countryside we find ourselves living in.
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-26-RamesHeadToCremyll/day11-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-26-RamesHeadToCremyll/day12-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-26-RamesHeadToCremyll/day13-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-26-RamesHeadToCremyll/day14-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-26-RamesHeadToCremyll/day15-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-26-RamesHeadToCremyll/day16-min.JPG" class="image1">
+<img src="https://lh3.googleusercontent.com/x7bmJ3yDySuDZsxlWFbEeBnvzgXOaxDeFjD8ykPkdQ1URK5HO8JbeqGxDpGG0Y_a470I0HTAuCdxeTUBfA0e3SNdukuU3VF3V80DMCzzA2OVpQ3WOLa8d8xJhHiBL1ULM5NbLDa2HwA=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/tzl3pKPy7jgKKtpkkTNCTzF8ppCxnZ9dYhLGJ4UaQEgMjU-5rTUKCPQxVQ-5NIrUwABAVjv18NTrCfiD3im6LEKpOCZK2j0S_zbX2XD5qxpBBpjfymQRA46PVR-3kaSXmWr9NVWtMuE=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/9-XPR4908j8YIH9CFbfxxQWT76JUsfMG3pVe70568g120HVjLzqE9XBXdS5gufdN-FAuKlmMvPGW6z0HHJOdrGsv3vcMoaD7wHWNB2KC6VMoBJBAuOsnJlb_EDLNZzvZuCLtjd6A45o=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/odr2vyx8DqELDfRRFuPGwXaD1h0G4Iue2Vm4AdDGEvWA5oNFytLx8keJWvCWofOtgZh8ZoImXLZLl4XODqbAIobkuV3-zVb2VqD84kkXXHk0H9rGOQ33n66yuiI8izXQhR5hLJOjp3Y=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/qOYKe_44PsbHt_ryJdJa2yC1ewHNIQu7Ba2obSvRfvYw7YEbYjL9DotrlJWIl7lX7f1X5djAzILYriBK_FILgsDmQCJ3mXdZ3wdVCyApsqWTaO35mkenSqJqqA5sqKJMKJtWZQ27HVY=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/z4VdKM1JwFIUupBISNJtm93B5jJNrFKK7szeo9aal0PB0GuspU7Tt2udAMGMBDEhVNn4QswNTxs7Bis-thwyQLNbPlvVaCbOu7DxHBNQ26jm-AKnXSprng68eL_8A_yONik2J55ssDU=w2400" class="image1">
 
 <div class="wrapper">
   <input type="button" class="button" value="Return to OODs Post" onclick="self.close()">
