@@ -14,12 +14,12 @@ Coming to places like this makes you realise how new our home country is.
 
 Definitely looking forward to more weekend adventures and making more friends along the way!
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-21-Freshers/day11-min.jpg" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-21-Freshers/day12-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-21-Freshers/day13-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-21-Freshers/day14-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-21-Freshers/day15-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-21-Freshers/day16-min.JPG" class="image1">
+<img src="https://lh3.googleusercontent.com/ynsqgHnpnCUiJprwDqoVE1ossvJFnEHRQWbg_B6Xgl75EkOKjQTua2WCzI3C1WY7jYsyO6YwvfiTdn4v4KMOQqFS_6xXMDF68Sc3w4VqpXdcMx85e4q-xifrFHKGtwwclDUHuXYV66w=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/QH_PCxiadMqMBsjg2V7Njx-QIAkyYetFE4RQIoFtzbRx2XWDZk3-XiUnMMDN_vjzX4RqeuvR2GAP97gQvQ-VYLLNkzil1RJnBxjB63vBrC2uA1wOEru1Vi3Qvd6lej2jxXg5jX4y348=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/G_2uuurX_G0tKyMgoTwzDDcps8QtQymJlyeJDs2293h6wcFj0suwmDiQApSk_2Aj4-r_oKaxRrejRFxHBWHem33ZVPn-QdMSob41tgcHBD2WrQ3WfCh_vrJUlEdUK6LqfzmNI45fngE=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/1Vg6G3jH71P63aRz3oyyJ_5CnGZFlLCOTcXRG--K3mypY-LlTTEe6YZzOrIIugzdiUToBhJs05fKw8aDMkWDEywV75VfTjXZG53kRb4aBdtMnEy5lvpgP3zdYa1WRJ9NKmAyNpT5O8U=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/TqumsZ6b-CTwf8houmQJdHgRi4C90kFHN5i4LfliEe70MfzutZB8USP9faGnncpBM3nZYxNVywtogOTWLI_oLhL2GhgRmoz2rSOay-7N0A3Qizgep4mFQgcIu3wHqTDryC7perWrLBU=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/kxLpV_Z0hCPmgxLWMHIjLBw0dqjg3v-jCgIiSYjuRH6ydUEDBdiWscUkF6R3yJWUTPdZI1sFh3UwtRDBtZsv3xFGzCyLtdNDKsGekvqjvAslrSfQ-Z9R3pMzzKsFFT6R4v_YZm_Z_lY=w2400" class="image1">
 
 <div class="wrapper">
   <input type="button" class="button" value="Return to OODs Post" onclick="self.close()">
