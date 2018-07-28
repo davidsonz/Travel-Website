@@ -24,7 +24,7 @@ titleImage: https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleD
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/OutOfBoots"><img src="https://lh3.googleusercontent.com/Ex0K_Ue431wDi6W_T1p7ljQYnR-SdgwOb7_b7nxDjtboIGjt4dAhpacTMi7VmsRPn3GKn_JAKqx-ReiUKUJQsWSFT92N7WUn-TUi3WxDrVQ2CVbropplZ0nTlZJFpMbkiSq9A7D4kIY=w2400" class="image3"></a>
 
 <h5>26/10/2013: Rames Head to Cremyll</h5>
-<a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/RamesHeadToCremyll"><img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-26-RamesHeadToCremyll/cover-min.JPG" class="image3"></a>
+<a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/RamesHeadToCremyll"><img src="https://lh3.googleusercontent.com/8gU4earcQGu7O8s6QkuwSnxlzg7nzuC2tlIvib8zKRMKjYNpAz0k8RP39zUxybuczibjfFkbhrxcywhxGCxb1d4sOeVl94TZ_izwIzOZosimVIiT5sMDPWza1yWlDNexaAx2TDPbYXI=w2400" class="image3"></a>
 
 <h5>05/11/2013: Tar Barrels</h5>
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/TarBarrels"><img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-05-TarBarrels/cover-min.JPG" class="image3"></a>
