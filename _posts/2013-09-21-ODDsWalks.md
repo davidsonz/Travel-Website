@@ -12,13 +12,13 @@ titleImage: https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleD
 ---
 
 <h5>21/09/2013: Freshers Walk</h5>
-<a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/FresherWalk"><img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-21-Freshers/cover-min.JPG" class="image3"></a>
+<a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/FresherWalk"><img src="https://lh3.googleusercontent.com/joHxznUAQIesKZrrVma9bbM1Y3VOL4-RX7l78SPE1bwTa9kU3bZ6IN53Z1EGkyH4BvLFM60U22crMbH5vaGyTDnHcxchOLhF1OadwbG7-GUDecv8_7XubcHzFiYy12WrsTdSLSlxFnE=w2400" class="image3"></a>
 
 <h5>28/09/2013: Boscastle to Tintagel</h5>
-<a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/BoscastleToTintagel"><img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-02-BoscastleToTintagel/cover-min.JPG" class="image3"></a>
+<a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/BoscastleToTintagel"><img src="https://lh3.googleusercontent.com/65xIlLziGF7nI4eOs-IwysFdfUAzzoMrZ7_AWwW9QafKtOe3FdsX4j9RZgY1T8AdyMtzuQg_SAz9Hu9ZeAYd53N2_p3cZBlPekktti4DYrOSLGXxZ-Yg5G3dAYcrJ6MfmWLdez-5EMU=w2400" class="image3"></a>
 
 <h5>05/10/2013: Crowcombe to West Quantoxhead</h5>
-<a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/CrowcombeToWestQuantoxhead"><img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-05-CrowcombeToWestQuantoxhead/cover-min.JPG" class="image3"></a>
+<a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/CrowcombeToWestQuantoxhead"><img src="https://lh3.googleusercontent.com/hakr6gi0Tp5ilEZVA7IAiqmEmmjkdWwpb_Sehi6TAHCfVZg_YA5c5Xca2AESo57ZTUpqpTpCU5wC9CO-shh1wrBX3NE89dYRsX4f54QtDi9Oviv7qKmPIi0O-FSjE8dKVITnDEvB3NM=w2400" class="image3"></a>
 
 <h5>19/10/2013: Out Of Boots</h5>
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/OutOfBoots"><img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-19-OutOfBoots/cover-min.JPG" class="image3"></a>
