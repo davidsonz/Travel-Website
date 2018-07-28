@@ -21,7 +21,7 @@ titleImage: https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleD
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/CrowcombeToWestQuantoxhead"><img src="https://lh3.googleusercontent.com/hakr6gi0Tp5ilEZVA7IAiqmEmmjkdWwpb_Sehi6TAHCfVZg_YA5c5Xca2AESo57ZTUpqpTpCU5wC9CO-shh1wrBX3NE89dYRsX4f54QtDi9Oviv7qKmPIi0O-FSjE8dKVITnDEvB3NM=w2400" class="image3"></a>
 
 <h5>19/10/2013: Out Of Boots</h5>
-<a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/OutOfBoots"><img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-19-OutOfBoots/cover-min.JPG" class="image3"></a>
+<a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/OutOfBoots"><img src="https://lh3.googleusercontent.com/Ex0K_Ue431wDi6W_T1p7ljQYnR-SdgwOb7_b7nxDjtboIGjt4dAhpacTMi7VmsRPn3GKn_JAKqx-ReiUKUJQsWSFT92N7WUn-TUi3WxDrVQ2CVbropplZ0nTlZJFpMbkiSq9A7D4kIY=w2400" class="image3"></a>
 
 <h5>26/10/2013: Rames Head to Cremyll</h5>
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/RamesHeadToCremyll"><img src="https://adventuresofthetravellingtwins.com/Photos/2013-10-26-RamesHeadToCremyll/cover-min.JPG" class="image3"></a>
