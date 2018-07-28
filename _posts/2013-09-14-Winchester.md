@@ -8,7 +8,7 @@ lat: 51.061441
 lng: -1.311866
 subtitle: We begin our journey to Exeter
 description: Cathedrals, Jane Austen, and Houses older than New Zealand
-titleImage: https://adventuresofthetravellingtwins.com/Photos/2013-09-14-Winchester/cover-min.JPG
+titleImage: https://lh3.googleusercontent.com/bnZdzcJxRpZDlTd71phaP_3_eTYiP2Yq-GEcmXyd1AJcQqxPIPIP9a6VD38Wo6L_HYli4yxIF8FghMN679xLsmp5JF6m3a16z93pP5DTe2PSXf9aspDopxULGCf4mvtciCdRC_ptgDs=w2400
 ---
 
 <h4>14/09/2013: Our last days of Holiday</h4>
@@ -19,12 +19,12 @@ We are staying with her friend's new Winchester for a couple of nights on the wa
 
 We had a very relaxing couple of days visiting the <a target="_blank" href="http://www.winchester-cathedral.org.uk/">Winchester Cathedral</a> and the <a target="_blank" href="https://www.jane-austens-house-museum.org.uk/visit-us">Jane Austen House</a>. It is all very quaint and feels very British. The Jane Austen House is well worth a visit as it is a good representation of life back in those times and is an interesting insight into the life that she led and the characters that she wrote about. 
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-14-Winchester/day11-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-14-Winchester/day12-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-14-Winchester/day13-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-14-Winchester/day14-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-14-Winchester/day15-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-09-14-Winchester/day16-min.JPG" class="image1">
+<img src="https://lh3.googleusercontent.com/Ol6MpDMwnYCWqMZiaBMzQiDrgmJ-I3wPMaWxQvPsrnASMVz77fnEXfMIG7pwBqJJylLd4eC1jm_FXcIAFsBvwl5_-ttVvcYrjGCc4iiLsU9xegYButT1B6XZR07CJNjEyQ7MQPdKBbg=w2400" class="image1">
+<img src="asMYjfbXpp5LTVtJO1By_y6bAvHdnf0SMVfBma4uDvxMat0BoEd5AyFlQjcg1sBNRzZWbxNxtKLmtpdXDgZj_6as2lA6GyJnpLlufxTp9IrqHrTjoCz0oCM80GvwvIu0hyRQDmufHsQ" class="image1">
+<img src="https://lh3.googleusercontent.com/v5XIOXGPU6ZQBVCJxV6B5iY7jFicwdA1SrZkTSZQii_IvGx2JI2g2uplKlE7AptNlHieHbjVyYIKoBehy4s1XJ6IkR7aG9r2aOUyc7xrRCX8MlfSvXnqaAKvrjnDAYTpiga3V_-BZyI=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/teH0xa4qKQA6dmZMESaMBVrbMsulm140DellU4YZKdhKhTKjmtIynYCxPmc2yJZDG0Osqy-C6_0cmNQ3EKpFs_Jhu-4hJy5eYLl87DipPImPeaeIM8UKhRxz51NXGLsGExFdsGJQj08=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/PLvAUxeFXj6L5Tp0CuH8dmneJos21cU7qwdyatKS9gQC1ydYWdqrTqPy8PDBPeZmFF5ktACztTH-rcx_Bk1y94G6NmjGdF81Pvm-R05CSzDCcfAJ_fwBtuwUswhwUXN6X-zkZIs_Vr8=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/JpR1GMbP0Npdb5eLv5n-zkwHoyCg-FDnXOrvpAOLavDes1wSuP_WIo9azLxiGSU1JSUHkOAkUkKwFyhsIWXdUK_9g0KFilKLNshBMqweEsF_sfLoQJ7xuHSvDmYNqZghJZFfmpGQ1NY=w2400" class="image1">
 
 <div class="wrapper">
   <input type="button" class="button" value="Return to Home Page" onclick="self.close()">
