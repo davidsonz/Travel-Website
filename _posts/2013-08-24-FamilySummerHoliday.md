@@ -12,7 +12,7 @@ titleImage: https://lh3.googleusercontent.com/pD7g9KRJF8mGvpdXAFZl9BcgHOVEWfF1g_
 ---
 
 <h5>24/08/2013: The Stock Gaylard Oak Fair</h5>
-<a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/DorsetFair"><img src="https://photos.app.goo.gl/HEHpVTko7tnS9hZ3A" class="image3"></a>
+<a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/DorsetFair"><img src="https://lh3.googleusercontent.com/n-uG0S7lad8eoj91_ozGaRNUtQbDwAybnO8TLJzc3c3WDL4GBoQ9oQsQP8CVb4Q55jwepmmpoZKRH7EFmnHPDe8glJ7pXxxk5q-uaBQYGrRoe6UrwnBNOOK8uObNwQFbgf0mJ3rFutw=w2400" class="image3"></a>
 
 <h5>26/08/2013: Weymouth and Lulworth Cove</h5>
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/LulworthCove"><img src="https://lh3.googleusercontent.com/xMP8r9eV7YVn52SXxHIy6nijgJk6EGvKRM1syuHcUrFR1hWZglCns0I5x4ZB9AkDNxXHCPZISlqxH7dQOFIWBkS5RCQphlfrB0DMWY3_XCm28R3Iskbfskqoe0QmMIxumnt3yoDC1B8=w2400" class="image3"></a>
