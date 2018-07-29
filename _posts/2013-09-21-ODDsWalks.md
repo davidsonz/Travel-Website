@@ -30,7 +30,7 @@ titleImage: https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleD
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/TarBarrels"><img src="https://lh3.googleusercontent.com/dYSOJdoC64r5vVGbMRakSVPSVQHu3bfs3xqjSqYmwbOP5mCYsfo0yTFWfpggJxjU0yEAiuQZgP1C6ahzjGedorN_ih3aG8NBcDgIItaQZbp0z_8USMfolHWKTz7ggxMndpKK5rGm3Q0=w2400" class="image3"></a>
 
 <h5>16/11/2013: Sticklepath to Okehampton</h5>
-<a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/SticklepathToOkehampton"><img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-16-SticklepathToOkehampton/cover-min.JPG" class="image3"></a>
+<a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/SticklepathToOkehampton"><img src="https://lh3.googleusercontent.com/GLq0OmDY4RB1JUGnEVo1-A4vjED70-1WCmDcCTnxVrv0c-6dp0bk2Ems4z7zNlrPeXFjw0deeLd46lRg1rop3Y4azVi-u91xeVMDqxf_KPtpFxGvwfM7jgeX-buyv50HCYXO_aDZDJM=w2400" class="image3"></a>
 
 <h5>23/11/2013:  Feniton to Wimple</h5>
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/FenitonToWimple"><img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-23-FenitonToWimple/cover-min.jpg" class="image3"></a>
