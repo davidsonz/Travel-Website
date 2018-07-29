@@ -15,7 +15,7 @@ titleImage: https://lh3.googleusercontent.com/rEUSeAgDbExCHdTQJSXAFYRTV4q0zIJwKu
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/HarryPotterMum"><img src="https://lh3.googleusercontent.com/oJoU64EmzW8sGl6E3Q7yULhaf0LzkBnvScdexlmGBoubsTGXKY3eaPjsU270hPa1lMvlJGCfgpNnIwzlR-l3x8QtoAv_4RhjoUJr78SVUMouO_R4h194O9ISuVKxavCMIMfNqOyn3ng=w2400" class="image3"></a>
 
 <h5>20/12/2013: Return to Hogwarts!</h5>
-<a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/HarryPotterLouise"><img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-20-HarryPotterPart2/cover-min.JPG" class="image3"></a>
+<a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/HarryPotterLouise"><img src="https://lh3.googleusercontent.com/X2_7Q5sdxkkAX0c8qe8i9Lg20eQE_YDqm4V_kArgtBTD1cuPYZEc0me0LZY2VLcAhFW_hp1kkv_w8XI2NZ6OLy7yJx74sE1jSFk0rs23AnvAWuxBdSqipTJUNqwNgx8924c1lG1dNbE=w2400" class="image3"></a>
 
 <div class="wrapper">
   <input type="button" class="button" value="Return to Home Page" onclick="self.close()">
