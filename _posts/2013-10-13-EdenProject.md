@@ -26,6 +26,9 @@ There is also a canteen where you can eat your own food or buy if you so desire.
 <img src="https://lh3.googleusercontent.com/94YI3vt4wcKJJ4mE-SUMljMe7kV6d1JMUCDAhyBYK4tT-igVHLWLgJbf4E4ItS7Rb-PbYOYQIuLjr65POcLzWKqZEjtBYw7iR-R9b4LVbai6SvPtXgavuSNDZdpPa5QY0N6M_1oK8yk=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/utOZ9C5zit-M7DmlBlUsyWNM47-gL8kIu34SRj-E1e5RhBkTK0kmtjMBiWrQVASFDAnoQ3zPHdZGsmCZX2RromuIRTUxdf7poUgEe5znen8QC5imn1BfXyWBoIWQPsw6OZ1XgGC9n8E=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/rZ9-LyWOQIwdkcTOakL8U5jW1kei0A7zlvyIpLmQb-OfC-vjGaeNrVLFw9NmtTOicSwNuPgsr4FqA1ZUK29hjYU8_lAa5b3I5Q_j2Ysi5nXoXiWZAdJc7xCOiXDcQng-UbwAbSV7NSU=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/W8ZcvBKHGs7CLIZDuhpFfySj-gDspFzPJqBkiQc_HoZK4k-qEzSJ7ZQwG_dK0GBEZ_gMp82vAj56fSGjgn1Euu_Q17XjHs8XsfqyA-DFBFCgEeVm76hzdvVwg22cORatAiYpKpwBEeY=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/kGfZh2ZmFz4Z-52RUp9Ze35i-l7cSMi3wxGNZs7hgYWT-hq7hWscBG6yLp3nvVDhVS8yZzAKQiPxF9aIEXEmsYAKBvm2_RkfhUaWRQkJkiDTQQM8TSvhtaFGSTtTv-1-W6YIYotFUAQ=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/Y3lnMsgJZecIHQ-rnu62rmFoHKwuuceMMKfA8zXEuLlvzPCPMvs7l4AJJAvz8H2SxWObFe2731XIJLGpBLeIITYMY_HP6pl6RdBrjTkjux197hgJIg3vMtiGf_EwaJCv3TGsHIUthWk=w2400" class="image1">
 
 <div class="wrapper">
   <input type="button" class="button" value="Return to Home Page" onclick="self.close()">
