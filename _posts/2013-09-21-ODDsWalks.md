@@ -33,7 +33,7 @@ titleImage: https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleD
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/SticklepathToOkehampton"><img src="https://lh3.googleusercontent.com/GLq0OmDY4RB1JUGnEVo1-A4vjED70-1WCmDcCTnxVrv0c-6dp0bk2Ems4z7zNlrPeXFjw0deeLd46lRg1rop3Y4azVi-u91xeVMDqxf_KPtpFxGvwfM7jgeX-buyv50HCYXO_aDZDJM=w2400" class="image3"></a>
 
 <h5>23/11/2013:  Feniton to Wimple</h5>
-<a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/FenitonToWimple"><img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-23-FenitonToWimple/cover-min.jpg" class="image3"></a>
+<a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/FenitonToWimple"><img src="https://lh3.googleusercontent.com/vQoqxRDL1TykBC7oGTRnnA_8ifCHI_hu23-eaOjgZMOeK5RRbKw4oyIBKszq3yP1X9jrs58xUxyhJStkmz_I1SxPjMDvJhc5lVngdqFw6YH3XjZJbgZhVy6afSioSkDfP_jsoq7Bqxo=w2400" class="image3"></a>
 
 <h5>07/12/2013: Castle Drogo</h5>
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/CastleDrogo"><img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleDrogo/4.jpg" class="image3"></a>
