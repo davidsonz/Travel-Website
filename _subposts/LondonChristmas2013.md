@@ -21,7 +21,7 @@ Of course, we had to stop by King's Cross and try to get onto the Platform. We'r
 <img src="https://lh3.googleusercontent.com/iTq7gcf9lO9yKVM2BUmICJZDw48KnDu_aKToi92GEGQvzTfGAdK6lrif65oW7qRxrN80wVXL-YfMlsu-NM12K-U_OseCQOFFg-VpPPDZ9e49gh2KUTpUJaPGe2zuPpRujWsLbgwX_P0=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/xMgc0nxMSGQqg9nWmFm2eqlEmwgWu6Bt7cNnOh3QWID33HNr8c7qF-duT86wqJj5EUZs7VjFxgy2YWelxA32yRIX22lm8fmP8_ov0mKSNmgjTE9yTL_LrXG-4YCCi5IBoSrmncPMOVc=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/KJ1WOoOh2eEsIHbmd7-bFtyC1RCLq6JhtPfeGq_w3ceeTyrAbIngI-YIV1ca9KeNQNwt6qpvjoOT7oJhF0N-6GTAlwPcdcnMCDMK2Tq4ia2Z30IrmrMHO_4zTI4oKsGKfgtBvAcrw9I=w2400" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-21-LondonChristmas/day16-min.jpg" class="image1">
+<img src="https://lh3.googleusercontent.com/QqFFZE1U5PVNiHJQFbmvSYkl4rLpSWKGh0GsO3AygKcjKmQWwjz_5gWiiSuNXm7SFmtA9Fe_uIFD3cEI4PqwHFvfwUklXQvNPEqbFwyq7U034reHsdz7AWKVxbtMqzjirRdcrwJmJXQ=w2400" class="image1">
 
 <div class="wrapper">
   <input type="button" class="button" value="Return to London Page" onclick="self.close()">
