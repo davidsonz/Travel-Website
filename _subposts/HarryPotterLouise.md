@@ -10,7 +10,7 @@ description: Louise, Louise and I head to Hogwarts for Christmas
 Happy Yule!
 
 WIth a very small amount of arm twisting, Louise and I decided that we simply needed to see Harry Potter Studios Tour in both summer and done up for winter. This time it's all done up for Christmas! We had a great time at the Studios with Louise; we did wand lessons and drank butterbeer<br>
-Louise (twin) and I even got to open the doors to the Great Hall. We won the contest of who had travelled that furthest, we just claimed New Zealand instead of Exeter, much to the disfortune of a group of Australians standing right next to us.
+Louise (twin) and I even got to open the doors to the Great Hall. We won the contest of who had travelled that furthest, we just claimed New Zealand instead of Exeter, much to the misfortune of a group of Australians standing right next to us.
 
 <img src="https://lh3.googleusercontent.com/Y3YCiVsT0b1PDq1ECx8VlJQhVyIqshOP0pd4S9vYDCa2Ji3pjV9vfVd6J__75PHpLXLXlHPe9edGo-SMJ67As5M3_iHtdD1W_jpbLCuaQknwehawkuqzX7ilZohLKxwP_LgIllVM3wQ=w2400" class="image1"> 
 <img src="https://lh3.googleusercontent.com/h2Fq2VYPMNwSrsIsJwRftiv2XniK2wjft8Q4bweFn53I2oTjaPOFdebQnO0Iq5ausl6uEXRiDl9boOsk7I4oLvDR6fDGOneR-HGmxmqAXtcJ5EmAQJRoK2hZTisw_qg2YHgK1ouuoXA=w2400" class="image1">
