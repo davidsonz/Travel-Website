@@ -8,7 +8,7 @@ lat: 50.595589
 lng: -3.905610
 subtitle: A collection of our OODs walks
 description: Posts from all our OODs walks while studying in Exeter
-titleImage: https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleDrogo/4.jpg
+titleImage: https://lh3.googleusercontent.com/cE_i6RnAp983L13NiTfQssjsUI493UP8emvB9Lue1LuK7K54kyjAgC0BMWZlXhaAgx7xt8hfUFIymQVWUkpDPEjb-lhP01HPEBFoe-trAyTHFNoqW62sVWiDTnFehZTwa3UJD7vLhkk=w2400
 ---
 
 <h5>21/09/2013: Freshers Walk</h5>
@@ -36,7 +36,7 @@ titleImage: https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleD
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/FenitonToWimple"><img src="https://lh3.googleusercontent.com/vQoqxRDL1TykBC7oGTRnnA_8ifCHI_hu23-eaOjgZMOeK5RRbKw4oyIBKszq3yP1X9jrs58xUxyhJStkmz_I1SxPjMDvJhc5lVngdqFw6YH3XjZJbgZhVy6afSioSkDfP_jsoq7Bqxo=w2400" class="image3"></a>
 
 <h5>07/12/2013: Castle Drogo</h5>
-<a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/CastleDrogo"><img src="https://adventuresofthetravellingtwins.com/Photos/2013-12-07-CastleDrogo/4.jpg" class="image3"></a>
+<a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/CastleDrogo"><img src="https://lh3.googleusercontent.com/cE_i6RnAp983L13NiTfQssjsUI493UP8emvB9Lue1LuK7K54kyjAgC0BMWZlXhaAgx7xt8hfUFIymQVWUkpDPEjb-lhP01HPEBFoe-trAyTHFNoqW62sVWiDTnFehZTwa3UJD7vLhkk=w2400" class="image3"></a>
 
 <h5>12/01/2014: Ivy Bridge Circular</h5>
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/IvyBridge"><img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-12-IvyBridge/cover-min.JPG" class="image3"></a>
