@@ -13,12 +13,12 @@ It was a beautiful day for a walk, sunny and just cool enough to be comfortable.
 
 Our new stash arrived today as well so everyone was in their new OODs get up. Louise and I are now officially the OODs NZ Branch. 
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-23-FenitonToWimple/day11-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-23-FenitonToWimple/day12-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-23-FenitonToWimple/day13-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-23-FenitonToWimple/day14-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-23-FenitonToWimple/day15-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2013-11-23-FenitonToWimple/day16-min.JPG" class="image1">
+<img src="https://lh3.googleusercontent.com/6N_srrXtZd9DttxOSGJRVfcX5f39etR7pRifjaJLkmOxnALRyjjUKW0jg-FkIeeGKXIpqh_xTWgSK_kle8npDMaOaS5fygimxYCtd6amD5I4YP4LxFOu149_MyN_nMqzHNCeMpMUFu8=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/cyDJJYJoO3YpwSCDhiAmixR0sXZhAAuSZ75M4xccJO88hLBPwyzp5JPBjUPJlWDuC9_Q4SEEcheGTJx3QXfZVCAbxO2Z6HXNcMNUk3MKenIFcDuwWRGw4-nmtcHt2FBSAMPjbMaXKfc=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/YcmOk5hn02qLGvV8OWe7hJO40-tTy2uUonGajbFhCz_EfYslmRT79_2eM5t0ZAHDifMKNYyFH_uVp-Cubq8nJSgh8QpDtdqhqjDa5B1Txefm7ObFueo_spe0P-EIentUnfbV9LhZ1uQ=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/dBPwHaunORB3eQcogIs3ap5uw3983m9IJ5nVmpQD2Cn0xUGIy5H2fgUe0pnMefuWTHXm3GQ-eMGoCxe-OQXiEJXUX2dD1JffrbSMiAZqYLdPWaksRtJTvMTVT6jbkXFqD40WKgbNghw=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/d161vDiswaqG1U0OF4NcCtvDL2zoXOp0X81akRldNhXJPH4xPYYIACEbo_luGUH1IwqC6K1rfShJuamf8qI9BstsnB0JLKiJJpDgiYfwaGJ_7FcpImJy_ZLWW87VjJQUiuztVxYvMdA=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/TDU_-r0q0zXOSWwMNfZVjAqCf55LXd4ZkqQbhm_o3jpytmE_wqcztDI8t7oix6CSUo76hysNCkpIqVjfRDYAzVitiGEY2_qEQ6fQaKl8cnj2lLL7ZveSGF1vNWDQW7NPZvdzMP-AFtE=w2400" class="image1">
 
 <div class="wrapper">
   <input type="button" class="button" value="Return to OODs Post" onclick="self.close()">
