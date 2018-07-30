@@ -14,12 +14,15 @@ the <a target="_blank" href="https://www.bl.uk/">British Library</a> and walking
 
 It was so nice to be around family again, we had such a good day and found some awesome new spots in London that Alec and Barb knew about from when they used to live here. 
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-03-CouchmanLondon/day11-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-03-CouchmanLondon/cover-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-03-CouchmanLondon/day13-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-03-CouchmanLondon/day14-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-03-CouchmanLondon/day15-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-03-CouchmanLondon/day16-min.JPG" class="image1">
+<img src="https://lh3.googleusercontent.com/_ct2XXpvkhC2TkFgeJYrnpnujCIdk2z4nKOUd4voHcN0irUinvtLA3e78TxaUa8A1PPCj2AP_X0Z4Xa1xZQ_CqxNePsyZNUHsfqF6E9UVOfCCVBn0pvQtVYh5EyEXZ-2nBBCGNSmn4Y=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/qznDWogQmpgySsl2lXIm7nKy5UEZsr_3buvCRkLQuOmpDa2TyGXqISPON56dK3_QLxwkrEduhsVU0ahKiwz-VBqpoTwMnLO-tT4-COcy5_msS1KTcdHKe3vXFouB8yt4aO7rj4FsmJ8=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/k1-CSEwe6MmmKqaO3DeriOjo3a63xE3BD8W-eK4BmZ_7yNIb_DIOQpS4DE1ylgx3KZeEwSdoy4PIV-Ct-RlgqO3zm-yMGOGZO79t4qI7H1jxQlAAW_jMpOEBDvCpyFVFQ5r8djJPYjc=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/3YeKFb9k4GoOfcTHzDBks0ysZsfGKjnn6DjRjZW_vGdVH5dhdZLwjVvMmvPbfjWnQWqVsrq27tp8RBwtNZnmR0SI6457sJa9CQekn7IRQfaHfdSb7VS5wS_dRO9M4o9XBiYTdLWoc0I=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/DI0ODlICyvhpZeBw2TdcLMUY_glAjLnc8R76nVzUpLez-VA6hPupsmYfOpek4SX1Zi8v_IVQL0aegd6cLk8hjFdUE-QIlFmcbIhe56Gk6yjVSK-oHOe9vZQUbsxuL-B4VH6lf2SY0Lk=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/Wl4SQ3osOnE3DnYkgWleYf-i0f1onBUsAYTTNfwhtEnhkPko4PyNsy0Fe5XDRW_jd_0i1v5qil1LGfnAwwgvU3tmsOE2oxUnGjyc4tPN1vBX6tyRODOQWEXB_pwkBREteSExw8xI3hY=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/upYaL1kPtN4zF3P646b9ytQdTIAxdwE6W69avxsnqVroGbVmkLx7EfspcB6n2BzffalOvDYiJx-sMxAIu3m5Gz3sCKVtx-QgDZ4857mFJvHUkob_mjQty_SgUuRoU88D49tEmNjlFl8=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/g_SIVOm7uCDGXp8citMEifigzMRXKQcpffW_Tcn_vTGs6joaGuHdex9DvqfOrRqcuPeISYti1vp70Kl8K_WaG8bIym5LzniOkKxDOO0CODN1BXu2czRImG_w15nQijOePQfO-_dDiKY=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/osfoxPVVsAXUzudWQrcK24Cidnb9rSGl7dLLqJ71xUjBW_U5Pes-D5BGKkNnAEd_zrm73wBEeLJjhYPBQ3H_LQjSWgTBbRxXmPV90lbj9_5e3asx2GrHsOvX16gZWLcSOM6NV3uzJRo=w2400" class="image1">
 
 <div class="wrapper">
   <input type="button" class="button" value="Return to London Page" onclick="self.close()">
