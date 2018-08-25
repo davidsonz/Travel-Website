@@ -42,7 +42,7 @@ titleImage: https://lh3.googleusercontent.com/cE_i6RnAp983L13NiTfQssjsUI493UP8em
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/IvyBridge"><img src="https://lh3.googleusercontent.com/4xpTkyuWyJuHmxbzhEAS1aT4LK9r5XNMNpLSkbN83pouj4x4TMkliV46yZXHUuYZALCp2RsWKCGGynri86bfvC7BLZw7i0iszH2NK0Aa5MMhNZ5ixp7KlwkuFJTZirf0lYTpYle92No=w2400" class="image3"></a>
 
 <h5>02/02/2014: Chideock to Charmouth</h5>
-<a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/ChideockToCharmouth"><img src="https://adventuresofthetravellingtwins.com/Photos/2014-02-02-ChideockToCharmouth/cover-min.JPG" class="image3"></a>
+<a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/ChideockToCharmouth"><img src="https://lh3.googleusercontent.com/ME5aONoa98AKHige-MI813D1zYVTEVWKGkFPCMEDGCPJqY__DQaogvtZJk7gxgWFTp-5szXyhQcFOcQU7D7Lh2RJ9_J78wP6xGslnC9sW4znhCSDjAAdWPVqZBmSIwC9jL5f4zBJaQU=w2400" class="image3"></a>
 
 <h5>13/12/2015:  Feniton to Wimple Part 2</h5>
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/FenitonToWimplePart2"><img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-13-FenitonToWimplePart2/cover-min.jpg" class="image3"></a>
