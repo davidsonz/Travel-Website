@@ -39,7 +39,7 @@ titleImage: https://lh3.googleusercontent.com/cE_i6RnAp983L13NiTfQssjsUI493UP8em
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/CastleDrogo"><img src="https://lh3.googleusercontent.com/cE_i6RnAp983L13NiTfQssjsUI493UP8emvB9Lue1LuK7K54kyjAgC0BMWZlXhaAgx7xt8hfUFIymQVWUkpDPEjb-lhP01HPEBFoe-trAyTHFNoqW62sVWiDTnFehZTwa3UJD7vLhkk=w2400" class="image3"></a>
 
 <h5>12/01/2014: Ivy Bridge Circular</h5>
-<a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/IvyBridge"><img src="https://adventuresofthetravellingtwins.com/Photos/2014-01-12-IvyBridge/cover-min.JPG" class="image3"></a>
+<a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/IvyBridge"><img src="https://lh3.googleusercontent.com/4xpTkyuWyJuHmxbzhEAS1aT4LK9r5XNMNpLSkbN83pouj4x4TMkliV46yZXHUuYZALCp2RsWKCGGynri86bfvC7BLZw7i0iszH2NK0Aa5MMhNZ5ixp7KlwkuFJTZirf0lYTpYle92No=w2400" class="image3"></a>
 
 <h5>02/02/2014: Chideock to Charmouth</h5>
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/ChideockToCharmouth"><img src="https://adventuresofthetravellingtwins.com/Photos/2014-02-02-ChideockToCharmouth/cover-min.JPG" class="image3"></a>
