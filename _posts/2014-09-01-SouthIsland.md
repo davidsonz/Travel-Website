@@ -8,7 +8,7 @@ lat: -43.157265
 lng: 171.668458
 subtitle: Winter Road Trip
 description: Two weeks around the South Island
-titleImage: https://adventuresofthetravellingtwins.com/Photos/2014-09-01-SouthIsland/cover-min.JPG
+titleImage: https://lh3.googleusercontent.com/YrABMPo00qybW8qu8ZeM4PK-9LMTLpzgZcYlAF5cHJ7gcSfs5xeYkxzFuxmFp_vz_ewRuGwjNMuDA-710JLXOAnn072kGwf2o2OUNRfjm4ZMOYTHCtDz7W3Fz4qnuvQMH1U246q5k58=w2400
 ---
 
 <h4>14/09/2014: South Island here we come!</h4>
