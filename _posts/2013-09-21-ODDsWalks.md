@@ -45,7 +45,7 @@ titleImage: https://lh3.googleusercontent.com/cE_i6RnAp983L13NiTfQssjsUI493UP8em
 <a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/ChideockToCharmouth"><img src="https://lh3.googleusercontent.com/ME5aONoa98AKHige-MI813D1zYVTEVWKGkFPCMEDGCPJqY__DQaogvtZJk7gxgWFTp-5szXyhQcFOcQU7D7Lh2RJ9_J78wP6xGslnC9sW4znhCSDjAAdWPVqZBmSIwC9jL5f4zBJaQU=w2400" class="image3"></a>
 
 <h5>13/12/2015:  Feniton to Wimple Part 2</h5>
-<a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/FenitonToWimplePart2"><img src="https://adventuresofthetravellingtwins.com/Photos/2015-12-13-FenitonToWimplePart2/cover-min.jpg" class="image3"></a>
+<a target="_blank" href="https://adventuresofthetravellingtwins.com/subposts/FenitonToWimplePart2"><img src="https://lh3.googleusercontent.com/hPRFZ8xBfm1y6BTdt3gmqfccSn3STri-9o6ybmwrp8rHYi_TNNncYoXjVVndugMZkovEnllA0ZJ6CMG6kUsHBuOVW0E62P_HBIdeLYeF6Ss_eJTKJ6dDFCfVICTR6IINCGyJF1R5Vrw=w2400" class="image3"></a>
 
 <div class="wrapper">
   <input type="button" class="button" value="Return to Home Page" onclick="self.close()">
