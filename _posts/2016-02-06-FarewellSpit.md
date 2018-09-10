@@ -18,7 +18,7 @@ It is the northern most point of the South Island, rugged, isolated and beautifu
 
 Here is what we got up to for the week.
 
-<h4>Beaches and Cliff Tops<h4>
+<h4>Beaches and Cliff Tops</h4>
 
 Home to some of the most beautiful beaches and Cliff Top walks I have ever seen, but be careful as the currents around the Spit can be strong. Only swim if you are confident in your abilities and have a buddy.
 
@@ -29,7 +29,7 @@ Home to some of the most beautiful beaches and Cliff Top walks I have ever seen,
 <img src="https://lh3.googleusercontent.com/ME_bamVCP1CdD2FuGZYbmj1vmZ8rvGc5NBTkfGL44YKtblMINwMSACV3ghBX1hG9BtZDQivSbVzDjjxu1azVZzrHcpq7rkwWgL40UK-z3AIFkXUTwQgV0fSZH48gM6eWJXBX-kFUDEE=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/cOdGf5KeiEOm30wFsCxpeJMzsax3R7MfSd33pUQ7aOwomSA0BdAxjUjSn_wPOd7gVARz-qGnKsJlWRujSRdJLJZF2Ize9FnHN0VLtJR3bUB9ApnP4JAuJMaUdCzdZaPiCSzjKWY-yg0=w2400" class="image1">
 
-<h4>Wildlife<h4>
+<h4>Wildlife</h4>
 
 Many native fur seals breed in the area and the local rock pools make a great place for mum to leave her babies as she goes off to hunt. They will play and swim right at your feet!
 
@@ -37,7 +37,7 @@ Many native fur seals breed in the area and the local rock pools make a great pl
 <img src="https://lh3.googleusercontent.com/1gf9WRu_MYL4gQ1rCXTjKprmGUv2rjO2uZ06wHq0vQe16vnW8_y1_nInSRm7iOPETmUv8KaOmq8f5n_xqEbDMNzTHxCxNIh08-y1J-wjh8fILSs7mCz4oPcuHwC0oQDlP5zYIS9Apao=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/0CD_3_B53l7bUYoRswJnEYuymFv1IBDfjGOJnPiTrtihAYhJcXUkfB1QTbuGJsTK2f3cRV35Xl7-n_onCuZKbjTnm716iUm1Xct9_nawp28Eq4Yjxjj-b-OLU838FpRU5F9xUlRHtCM=w2400" class="image1">
 
-<h4>Fishing<h4>
+<h4>Fishing</h4>
 
 We spent a day at <a target+"_blank" href="http://www.anatokisalmon.co.nz/">Anatoki Fresh Water Salmon Farm</a> where we caught our own supper  and got to eat it fresh!
 
@@ -45,7 +45,7 @@ We spent a day at <a target+"_blank" href="http://www.anatokisalmon.co.nz/">Anat
 <img src="https://lh3.googleusercontent.com/PgmkYwt_w4Np8XwcjG_hkhOQxbgIvafJkxZj43WvosI00999pOsKDDxfnKXLhg61X9_K7hfn2EnhThqS9ypnk0MPbYMzQbia1qntt8_ZylprZeDctzt6XPOQjfJTT-TQdiJCsDTZs-0=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/Pa5FPiMgcBPN44diEKwoEvP4RiE6l095BI5cH5egNZpzcsz1E5GK_GL5XV5CcPpYTrdexib_UCasZ_6TPb9uLVzHxNoxJ20Ff5P1JEoL8aNaNqtdJQbD_RjZ8U_M97j-FpCBeK47Slk=w2400" class="image1">
 
-<h4>Horse Riding<h4>
+<h4>Horse Riding</h4>
 
 In a beautiful part of the country with no roads, the best way to see the views is on horse back. Which is exactly what we did with a half day trek with 
 <a target="_blank" href="http://www.hackfarm.co.nz/">Hack Farm</a>. They have rides for all abilites and I highly recommend checking them out.
