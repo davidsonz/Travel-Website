@@ -6,8 +6,8 @@ date: 2014-09-14
 location: South Island Skiing
 lat: -43.157265
 lng: 171.668458
-subtitle: The aim - to ski as many mountains as we can
-description: Two weeks around the South Island
+subtitle: Skiing our way round the country
+description: The aim - to ski as many mountains as we can
 titleImage: https://lh3.googleusercontent.com/YrABMPo00qybW8qu8ZeM4PK-9LMTLpzgZcYlAF5cHJ7gcSfs5xeYkxzFuxmFp_vz_ewRuGwjNMuDA-710JLXOAnn072kGwf2o2OUNRfjm4ZMOYTHCtDz7W3Fz4qnuvQMH1U246q5k58=w2400
 ---
 
