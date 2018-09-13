@@ -39,7 +39,7 @@ Many native fur seals breed in the area and the local rock pools make a great pl
 
 <h4>Fishing</h4>
 
-We spent a day at <a target+"_blank" href="http://www.anatokisalmon.co.nz/">Anatoki Fresh Water Salmon Farm</a> where we caught our own supper  and got to eat it fresh!
+We spent a day at <a target="_blank" href="http://www.anatokisalmon.co.nz/">Anatoki Fresh Water Salmon Farm</a> where we caught our own supper  and got to eat it fresh!
 
 <img src="https://lh3.googleusercontent.com/49sNIzP43plGmVEINnVli9wigU7hUqAy3f0KGrM9TFa18S08LqUjyeYaTNBYwXj48lMSAXMS3lmi5_OXQw2f9MUdA6ZUfr6ukNku1RtxYXfy7rDj7dcNGmws1SPeGBXQcr7EkXb4B24=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/PgmkYwt_w4Np8XwcjG_hkhOQxbgIvafJkxZj43WvosI00999pOsKDDxfnKXLhg61X9_K7hfn2EnhThqS9ypnk0MPbYMzQbia1qntt8_ZylprZeDctzt6XPOQjfJTT-TQdiJCsDTZs-0=w2400" class="image1">
