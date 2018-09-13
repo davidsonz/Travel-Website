@@ -37,9 +37,9 @@ The Lodge is also a short walk from the end of Lake Rotoiti and one of the most 
 <img src="https://lh3.googleusercontent.com/VFiTQUb5nLsT5a7ThfwsB3KuF10i0iH3kGJxd65DtT8pAEr8NFsW2EHdvF0gAPNuynC2SRKSgO6vX9ZRqatC8-xtHa6PwAt9HKNfVEyOUTKtVlD0cv-zB6Sp5XgNYQ7nKimIswIUXiE=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/5UNRaDAAI8I_xSBAmIPBs8JHtDtaWEYZWogZLDtOsm2VT8Rvaw-078f5xqhZXlk7vDaGduyA3BFsQ7-cbWFwoExvNSpVRHyXC72gUZj8nAlhXYSmrVnjc_f87_ZKeXF8kVXokHVrgQc=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/C_CTr6_nXNDtjITtogDNM7EJS3_DxPZbwQeMsUiX7S5xDq6g6FMlXeKpO_2ptK7H5o3qF-f3IaBIL81ggGwhngkd0Nz89sE9rt4xdQVJuo8DI40QJ2MrU1W_2JBmN8P4VUSzegXe5e8=w2400" class="image1">
-<img src="https://lh3.googleusercontent.com/kiJZuWigMB1XyylS0shtB9vNSKjk2xksf-ixzKvYJlpNxWq9-EbzMom4VbaI_atJnF-yt8Ea6MZ1bmQ-gjBTms91R4p78rcuAFOoqcKRqp_cFEUU-ci7Ap8VBSMmkgKdFVCMnXl1s6o=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/kTuE0W2MJxl89-XFq3CmVBd8Su3mXPhwgbIdPrwxKEiCElu7jNCM_wDETcVQsRN0VjDh9hZImTjKGZpCfSguTHbccR0ujEsO5HvUWCjWmEwAxravDU5HWNQ7AWq_6bm--xKpJkxjfXM=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/CgEJJOATlQJLzPX-lDkSDE0U-P8Elk-_urg-EaGHDInPw8GAgtmnjvd10JWgPC0IVWSc4OKsBomsYINMbmtU-alMES63pyw94yjuNKorzWsc0i-iu6OweGEydaBbdtincLROGghDK2Y=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/kiJZuWigMB1XyylS0shtB9vNSKjk2xksf-ixzKvYJlpNxWq9-EbzMom4VbaI_atJnF-yt8Ea6MZ1bmQ-gjBTms91R4p78rcuAFOoqcKRqp_cFEUU-ci7Ap8VBSMmkgKdFVCMnXl1s6o=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/vgnY_iRQT_A8WtldS8GCsj9gwp23YRlm1x5L1eyPA91CfxdGj12Wa10MxagLA7G7uF0ouzdQxN3reX00wtHjIaR62QWq-QbX1OUzic2Cgo_uNdtAkIOoDnjeXEhwRDUo7ClUX2YFNds=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/U3CvHOYMWAoyPxUa5XIksjTWj8NVef6e_JF3MVsWhmp5oLyb5wfpB-KrtHmOJYlb_HcicqTjOYobR1VRwHvnaC2nPx_mlDX4V8OVMOfcpOQJ4OG8yOoYAxyfTKwxsXLCNxqEBmBM6mc=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/ZsA4g5KfLEFf2BsWz1upk4NgJwyxFOtYyeDFR6LTo8PRsaARGg7ndeJWYqAl1UiiAiyj8MBq3AdXpGy1--OyhqyEPpXis8Hl7XqjW2S_YvdqvKCQHk1A5_Q91dDo79F2Jzs9u2Up7q4=w2400" class="image1">
@@ -56,9 +56,9 @@ To access the field it is a 2-3 hour hike up the mountain with all your gear bef
 <img src="https://lh3.googleusercontent.com/PIEMeai8wIHlG1uTTOpatEM51cjj851DDYpj5lYrnDc6FUZoXk0v4GaE_HlB1Bm3edpmI00kOlJpqkV45eCwaBmTG_uzbp9i_JhRAi84uwRzdHZAxQkUE9QOYQU6m3OFCNPhzA6kkt4=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/uZzKHak9TuHeL8KfkN_wPXayAv9pa5YEBC9fcChEhMlpJw_JBZ-XNOcbZ4BmHeRzCGPNuPPB2-B0kwyWLjSdGgoIYqcoU-tKlL0Hu_Xina77S0D0Ux4lb2kN69NxEG0PPDjNa52DyUg=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/dMRKTJZVZ70Je9_X0gm0o0a14ra5ZzPNdSPri_H-qy1a5_-Vtsq2wTYJ9mYLusn-2RS2PguWYT6nEvljtTMxodOi7uZE48w5-dM8KnoJw9TDwcdU39Ubqp074A7uMVNfHFxbTci15Ik=w2400" class="image1">
-<img src="https://lh3.googleusercontent.com/BOtFCg8LI4fyVb3BCoUI3NycMjH1618amAjFGKRZRXN0_hnDhvxZYOmuEUEBUp2pjKrJoNInGWNmjCzi0849Jl1Vej1l130sz3p1Cy55i7zZH8mVSHBf-NTt50ZpEhGP3Wb1eA6c_3k=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/9Oxzb3RGNh4OekwcHFUWhLen4lk9-OthchQUVJ8g6DvsBQc_63lVVm2gMGvHKawjiXw0E-s4gB6vYOV7YlZ0XOqdihd4p7LPTCSyS3TxDZ693s1L6DE1Ag9tZKvaY69Jp7nxNJ_q6S4=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/PRXuX0BoB9TQoQ36gaaglyGf5xlaQcmI_esClnW6V9eRGCZLmb4zKr8P7zj6tfHBgzooF5ETJktyHIwNCJAgNJqUVigWXa8z6od9HD5_a8O9sXjtDzHiMZF4WcGwKPofZR_94gJWRug=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/BOtFCg8LI4fyVb3BCoUI3NycMjH1618amAjFGKRZRXN0_hnDhvxZYOmuEUEBUp2pjKrJoNInGWNmjCzi0849Jl1Vej1l130sz3p1Cy55i7zZH8mVSHBf-NTt50ZpEhGP3Wb1eA6c_3k=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/AV4eEE-7Is67x26PIM1u00tJKpDwUEY-eYdI_0s24begweixW0ZLx168BhlbBMhAWiOTj3XB44EkArPKYrs6c_olB6e_R8bwTfFEQ896VUs4UiWV8n1F_YbYkVDvbO_uI-PmohMJd08=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/A1B7Mq4i4noaPgYhFXL-NPh_PrBhb1ASoT1cBQAaAOKJnfLt3L-yjKRgrkFXyMOdEkID2joBNonDGCIDAkr1U32F1umJ_ufJ8MGwQntoWGRRNzgx_3Kl68uI-uZNs7J6WqkvBltOIyM=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/9jhGe0aDa4EzP0aPy50PI4FPoPr8o8RXK4eHTFtDRogBgi7_4JCSThhMeGSTG1no9hsUTaUaHHcW7z-ZO_bD25Y6MT7XHmH9LwN5O6yIYijFJJ6mBBSnAs2a1WrNaGjP00thNVgbAhY=w2400" class="image1">
@@ -134,10 +134,10 @@ Cardrona Statistics:
 <img src="https://lh3.googleusercontent.com/-M42U2PfeNWf-rD5cjTu34lUTpOMP6PR0uWVAHUAT9CdaPNOfiEgbtneCkjZhGBOGdmyiU7L03kP4zxswxbJHA3rcxO8AAONSNndfYn-W-OyP5Ki_-Khgc2xiE0g8xJhWtLKSApsp14=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/XNlfwZxHcOrYXkvJhtJ3j6Dqal6j_u18P4AR-eeMr9Phs_8vBmjoH8jjrV4lEjQsg6vJ0rRV_c2y4tveAt03eAsE_LqJrlxrBBvcozAbZKuUWuruPQhVkFGDCSJJXKBkhMZiMhUQXdY=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/e9tXrfhrEnrBXdXjr86Jtxd181ARRtQwOpMYIXwVJOjZmrv7SUVFjIzJEu98U-6zFJneTCQRQwOZ1-lEupj-hc4UKxx2KPAe13h5RrganuKXpKx0KGHREFPJ1fvVWaJX14r9DXWVKGk=w2400" class="image1">
-<img src="https://lh3.googleusercontent.com/VdoRLYPpu89wfssyDpFyM1Lf9kXGDyIvzM8-8Y7gyr7EXQVm6nJgxg7KkDOFQzoKpGSZGwgHNXQ_bAG3JiU-s08CyfNiVPViT6O061BmCIeBNGrQfhhaKl9nmafNnHKErPMXgZKIpTQ=w2400" class="image4">
 <img src="https://lh3.googleusercontent.com/ohQuxrkrz0bvW57paEMJ0CfiUZ16JXfDhskqROcWWS9jtDixtyYE_1ptbUMwKpsn0XhTzKM-ZWZiaXR6IsYYdSTkIl5CIhW5dCcv-yQNcWFwO9RN5Guy-6LrPuBsqDsB3ht8sMJJsxw=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/0UWGv9HgFhZbZdMzgsk1gQm7nTTCVHHnHQ054pvgXhO4gYtpWs078dSfcujrSp4AaZeg--74B12iHkcQYt--9yHIXexSzM1NoEENT8TcQsFxWcPuplw4e8sVLycxuV7AawhkFPQ2cKw=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/khExMWKkzl9QNDljNdhmTkFkcBmagQfrMecpHe7-aKRkDo1395AG7dP1VAtSajfZ6nXDmDpehTWmLpTBjnzMKOidV4Wf6l27laISgszUH_FZ67nTRbgnYmFiFgm_yesXvAb9NJwg2JE=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/VdoRLYPpu89wfssyDpFyM1Lf9kXGDyIvzM8-8Y7gyr7EXQVm6nJgxg7KkDOFQzoKpGSZGwgHNXQ_bAG3JiU-s08CyfNiVPViT6O061BmCIeBNGrQfhhaKl9nmafNnHKErPMXgZKIpTQ=w2400" class="image4">
 
 Now it is time to head back to real life.
 
