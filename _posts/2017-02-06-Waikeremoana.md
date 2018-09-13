@@ -35,7 +35,7 @@ Today's walk is fairly flat for the most part as we are just following the lake 
 Once we arrived at Waiopoa Hut it was time for a swim in the nice cool lake to ease our aching feet before a quick dinner of risotto. Another night of cards and chocolate and we were well ready for bed. Looking forward to some Spectacular Scenes (as Pete calls them) tomorrow as we climb the bluffs.
 
 <img src="https://lh3.googleusercontent.com/_uyzStkrKz5QiXFaijQMASkHq3jJXs0DajQffQFm2K8d0XVbDEdAAFxMfum5AcnAXUqcYQNskZdsNZQzb1wQpC1fURnqAattD1qFehsG_ZZ5QzMjJi-b0Ca1ynol1yGMtIY__ba38gY=w2400" class="image1">
-<img src="https://lh3.googleusercontent.com/-3dhbt0h7DdGpSumRRdMtgOdngEV3J8RP6lnjD44nFH8U-k13uVBFY_WXNy2k3wKGnVKPhw3MZhAAnuRYpmmv_iHxNglxgIW0otM26fCG5njFVMXF6IdpO88eS-gZ3w_v9MTKVx4obM=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/wjnpBWSvuFaE38tuw4jn5uIuFFc3WLtjSxBqfzab_2f5kur4ujD24f_4pXoP5KNudlPyb7FfXbldRr3L-LyOvrtBf2pmz-bisc4u38D5VoemNIRd1qSo9dUWATo7hKUR2yT4cSyRB24=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/7r9TNdm_axMwTcnd7xEZ5nnowe8ZUVFyRKwzKUv8qMi4EsIXFSgCZ8HXFzbVzDQ5UozN63Y-ZeyRBirnsGKG-sqY5GRQs6mB-ujniBQfXHBDIP3WL0ApWkezoftV05cV47EAcf26B98=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/Bn7SbgI0J_uSG6zxFI32fcZSS1NbcO--5E97kQ_kci0T6JU2VLFwhsrsDOunqTOGlGZt75Cc7RKFfu6v1XQjLbN6fCTw9utSgOLYh6EsQpYylcrGpHvPTTds2ZU-AzYO6mQ5smkpD_8=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/ew_mB3VchXARa9z8Y6V-ReQdBAGPByaimDP44XbB44UprXyLf3kE1Snn9GUbzkjq9TVCUsvLOwXT1zjErRK57siS3k1kssKFi6dWhGmRve7PynRLjoU9bS5k-8hN9BAZKGdHwWjB-uE=w2400" class="image1">
