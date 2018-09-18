@@ -8,7 +8,7 @@ lat: 59.904755
 lng: 30.285203
 subtitle: Добро пожаловать в Россию (Welcome to Russia)
 description: Cathedrals, Forts, Art and the Start of the Vodka Train!
-titleImage: https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/cover-min.JPG
+titleImage: https://lh3.googleusercontent.com/AUchG9dJMHFBiGte-3C6FOFf017Dj_XXetTtkQie6pl6QZCIpxZBqwkr14fgySH6yw29rRJoyN6rsDwHHl_DsHbmV2hLEU0BVk2G0WS8sKpJdFrCuCyGM-RSXycpp7ari5WwBZgpEUE=w2400
 ---
 
 <h4>28/08/2017: Day One</h4>
@@ -23,21 +23,21 @@ First stop was the <a target="_blank" href="http://www.saint-petersburg.com/virt
 
 After a day of walking around we met up with our first guide Ksenia and the other member of our Vodka train tour group Rachel. A pretty good start to the <a target="_blank" href="https://www.vodkatrain.com/journeys/the-vodkatrain-eastbound">Vodka Train</a>!
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day11-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day12-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day13-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day14-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day15-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day16-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day17-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day18-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day19-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day110-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day111-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day112-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day113-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day114-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day115-min.JPG" class="image1">
+<img src="https://lh3.googleusercontent.com/Tq3jWHENF2wIcyVrKewVgMeqJpDcqocMAA1pyRuxOYGkqpqLawS9npbxdatSQcqwkGYQRihcU7_zAWiVUcI89psZI4yBbowvZHpihWtJn5Y6I1rnrtoeuNhx_T5-x86dKK7IktEAKfI=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/uEuMg-Fxz0tegCnr0qSAQTwdN7YF4khCkNkstjz-QSyGkqTz9qTy4ncANgosHAl4K_mzC9TeW-hn5Pz7sMiNYwHYv4Dvfc-6zV1oVLlppdfHulH_ybqCDBADjMOIoBqAxvV3AvNe5gM=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/Cxe7NKJpUcpDCNy7wpvcIAd4wLY3UK9cZpt0zkogjJwT_2Vn1xQ2NhMrKT0Z8KCeKXmKLWvYVj8X_wzpusdzMasPMAX8Mhm_kETHDzNAdLBs9Pb0pvr7CIy33scSXd5p990Xh3OjC_o=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/YS7sMwkE40014CSwTX5liPQFCH82hI7TeRNhN4MFf-cCuRLU6TThI59p3GcscVtqJhzyKQtum3j1KDL_03LH8ZS49qpl1lMr70whx6hrivgXYb1DvtbIspeEpgoWSUkda0CREWRO_6c=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/lgkxvwDPPWxxkPIieZsl7p09MJm1kTcEdJEU8BtWVw9sMwetzI2C0gpX9iVnvCS8IdxZokGAmAc-TPgy2Msd8ELaDtKvCRLV2DGFpZQd-YcOcdeMHJhaQVXbjfvEghegaUNrhzKQUc8=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/Z8P8Biyc_hHNt06pSiZ0Ndnkl_nNGH25WmcE7qq69tE6aJbWUHdTB00ZavESahTx4SPeVVxz-9Zs1e1cDZrF3uCoZWLYGRnW9y_MgHPCO_o5kPCBRb4V1SatN34P--CpOP0jX5WXPZI=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/BRkQ10s93Uk3a_vtWd2ngWvNjJlXfHqmGOQsn9BSUlAJn4_gWZa7HJdd6xqv_Lx0vwhCrdcpO2721HdGUJkP9zoHWOr5jYKbdjw9grsMgZVXmbW3k_NrOxGK-WPdsIT8b5J7EsIPnB8=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/w6cxmhY5S5x5JXQw8yLbY7513vaIS09srr9r0vzZhwtOdU7XOOGRMD-d86Ei1iaJeqbtjeRQCsw-sTIvus5Dhp8r2_xsrJPhdHiz5-Z6t7aW0qUs80BqgpSFo1DKWcBB0LG3jy43djk=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/tPo5M81ZWwra6sAFVBgs8EU8WkzdpnhB1868h3TapFdYl1jjFBHNEe5xibqO2L1Ub8Cvo9RCttuawH4DoiQ9QxZQvWO2j9CY3iT8NFoFPIzIyo5loJ24RCf97qXeCvPP3Bp1Y2oZT7A=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/5S3C_Lz6ynXBHAfSmbg5K2mrhMUq2T_fEdmPgoMtV3xCtIJNVPZO1rPlgQBaspVx7258V-71RcTiWVlKaFu6G9tfYsO0kBndVRZCo2zrl7z5kPOyzXyzKA1BePcPaM16GzuMSU5YIwk=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/jHjGBzslNXiDZCr8OJnB_HisGUgbrOg_c9ymiUNvjtKAa5YHUsXblfwuq085IroLZ6X1JuIXmvijb5ZgJWie8x3Irr1uONAjpV0NLnMvlqhok4IgBc9GDvpirHekki1U3VWkkCd2Z5w=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/N5fZjx60e0mQfK0vGrlWJTu2M9C_VVjjjg2cOn8MDMNZUIuejtDDCg2MxpvagGnWPKRCgOb90OspwfCWWhOFTfTlVK83hPlBuuY7MBfHnB6wdOy6BJCIP14HteW6oauWkVZJ0IVkNKk=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/sf0KYnoAFdepm8knZuGZ5sv8m-Awp5KItb42h9EudF7OUiXaxyJYc4mwk9Oca5Mq4j_0wu0IzoQKjFHR0flmy1Dc6LyQ8JsUJiagq5NXThvVhPLK8BWa2IQ59EhEenxnWi0CrF85LjA=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/UCzUjgjj_n_baORG9T1v3rYXdt3LraiV8qxDbQUWRPDRlNUsEBsPGsadoHjqN-YUZ7Gb-bUdx7H-FFF8ruksdEi9wV2Z0rxo0ZnM34NY63ghVDgnBxCABC5FHygmYdakq4iHZeHQ5UE=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/-2lStpfSuQJUGzC00lFjV3FCN1Hz4yHjpQ1kfiBUsdCYaSyB36pWmOwaQMkr14DlZV3HLGZ4S88MXRMPPi51UUmzh2Y2lDGt-yH4n0KdAEKru3Uk2FVw0kXqAID40Q6L_JaKkJ7ROx0=w2400" class="image1">
 
 <h4>29/08/2017: Day Two</h4>
 
