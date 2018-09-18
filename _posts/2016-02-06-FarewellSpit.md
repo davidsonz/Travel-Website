@@ -20,7 +20,7 @@ Here is what we got up to for the week.
 
 <h4>Beaches and Cliff Tops</h4>
 
-Home to some of the most beautiful beaches and Cliff Top walks I have ever seen, but be careful as the currents around the Spit can be strong. Only swim if you are confident in your abilities and have a buddy.
+Home to some of the most Beautiful Beaches and Cliff Top walks I have ever seen. Be careful at the beaches as the currents around the Spit can be strong. Only swim if you are confident in your abilities and have a buddy.
 
 <img src="https://lh3.googleusercontent.com/VsAlCB2L12M1M5DrNk4jvkWhcqxGrNyrEqUJx6UhQ9ACxYBlVXmRroMNHVZU4HB8PXV-9Tk5zxOOIZrJKC2rG6-4cBF_vCtS39xGUQAWDAD3m-qW9w9ppwbXgcEmcidbMZwYt9BOlcc=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/SwE94OGl8EJfRRNg2KF8OmCLaq5oA2gZ4j4DoJBYvRmN1O9C_E4eDGVyLcpoJ6L_H2goBv8IM0LR2rk90nnILYUizx3l0aoy8tZ6i18ZrIyA-GLTn7dsIaGfRkI6PB7AZcjJkETMDh8=w2400" class="image1">
@@ -31,7 +31,7 @@ Home to some of the most beautiful beaches and Cliff Top walks I have ever seen,
 
 <h4>Wildlife</h4>
 
-Many native fur seals breed in the area and the local rock pools make a great place for mum to leave her babies as she goes off to hunt. They will play and swim right at your feet!
+Many native fur seals breed in the area and the local rock pools make a great place for mum to leave her babies as she goes off to hunt. They will play and swim right at your feet! Dont get too close though, their teeth are sharp even at this age.
 
 <img src="https://lh3.googleusercontent.com/pdSGCzvwWqz6ylCvl_QLn3VbsBipwr0jENySeITDAlOv0OOlVuwtNerGE9GpY2TdutS2IRl4sD52iPLOtyQaAt0d3eqoXXoFVF9cy_3n47KNf1XDBzljFJowkM7gqHPpkknTszZTGLQ=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/1gf9WRu_MYL4gQ1rCXTjKprmGUv2rjO2uZ06wHq0vQe16vnW8_y1_nInSRm7iOPETmUv8KaOmq8f5n_xqEbDMNzTHxCxNIh08-y1J-wjh8fILSs7mCz4oPcuHwC0oQDlP5zYIS9Apao=w2400" class="image1">
@@ -39,7 +39,7 @@ Many native fur seals breed in the area and the local rock pools make a great pl
 
 <h4>Fishing</h4>
 
-We spent a day at <a target="_blank" href="http://www.anatokisalmon.co.nz/">Anatoki Fresh Water Salmon Farm</a> where we caught our own supper  and got to eat it fresh!
+We spent a day at <a target="_blank" href="http://www.anatokisalmon.co.nz/">Anatoki Fresh Water Salmon Farm</a> where we caught our own supper. You can chose how they prepare the fish for you, including getting it sashimi so you can eat it fresh!
 
 <img src="https://lh3.googleusercontent.com/49sNIzP43plGmVEINnVli9wigU7hUqAy3f0KGrM9TFa18S08LqUjyeYaTNBYwXj48lMSAXMS3lmi5_OXQw2f9MUdA6ZUfr6ukNku1RtxYXfy7rDj7dcNGmws1SPeGBXQcr7EkXb4B24=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/PgmkYwt_w4Np8XwcjG_hkhOQxbgIvafJkxZj43WvosI00999pOsKDDxfnKXLhg61X9_K7hfn2EnhThqS9ypnk0MPbYMzQbia1qntt8_ZylprZeDctzt6XPOQjfJTT-TQdiJCsDTZs-0=w2400" class="image1">
@@ -70,7 +70,7 @@ A super interesting tour with a visit to the light house, and a run up and down 
 <h4>Pupu Springs</h4>
 
 Reckoned to be the purest water in New Zealand the <a target="_blank" href="https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/takaka-area/te-waikoropupu-springs/">Pupu Springs</a> are wonderous and well worth a stop if you are in the area.
-The waters are Tapu or sacred so there is no touch or drinking from the water, looking only unfortunately.
+The waters are Tapu or sacred so there is no touching or drinking from the water, looking only unfortunately.
 
 <img src="https://lh3.googleusercontent.com/cRQt5ATpiXOVysAXn6oNil67LW2IJ7Tu9oNh8RNXoUqosNZletwMNIXhdUEWaNZ-7NYCjZWlzrJfcyBnNdp8zFtbZ2pnjoHInw-SFHGDkL3UpabFaUBXhY8SOQUMOBigRzT77D_1464=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/v_u4B3kwG4YFqFmRAhPxTsV8hmrddWPRxIKO9FZ8C95tcMDUn74R2RezpTwhdETyF0zsraNnk-yzULJRMLtGlSLGAuQgokDunwxiSBmgkvNojHyucHFieY_A2kIrpdfKDFdscrMOUjc=w2400" class="image1">
