@@ -50,15 +50,15 @@ We then went to a cute local modern art gallery where the current instalment is 
 
 For dinner we went to <a target="_blank" href="https://ginza.ru/spb/restaurant/katyusha">Katyusha</a> which was the most kitch restaurant I have ever seen, it was fill of flowered fabrics, singing waitresses and wicker furniture, but the food was very traditional Russian and delicious. 
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day21-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day22-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day23-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day24-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day25-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day26-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day27-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day28-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day29-min.JPG" class="image1">
+<img src="https://lh3.googleusercontent.com/JdUmflh6-N1jjyuxU7I7tRRs9a_nrwr_olAzS5PtWikWwQIp6WwvVBNxgFQTxW7RQzwBj3EmU2yJQAJiMXSsEmIxKiA6MUb6uvCOUki0_oq1OG6CmApy08o3dMj_hF_vlA2alerMsbk=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/6gNdBopAzy5q4nGVoYmjvWJNfpnaCNAkIQrQOpE03LO38BOjVwvJN6P3LZYtl50ThvVLi0g9w8G5t49ZiTY5DrsbMbz6Rq44kmWYfr3l9oXxPjPTzk6pA_iM2pRh3VQl1KulaNkbmFA=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/E9cnE57Y-W5AzURKw7XqbnmBfOOLumTgdVvSVUT9ClIWw2fQNuKwg3gMVB0orcFzAzZ9M4ZVUv-zNRL10_YnmLu-44GIdMoOSE_P7FGr61etce4aJ43gvlaC8YrbIBRB2FqFsx1qdfo=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/BNKIckwqAmEfmFDmf-IsmlY8UN_lTGjbOA3saEPt3yKKQ7pwvRjYVQjD2cYqmmz-0efLHqFfhdlKSQRnZ0JyUwPS2EjeinKnSdAN3FyWol0OVD4ARVXMy2_gj97MRq8ylhuly9qwfa8=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/UgbI-G9OECkEsf3UkitrasZG2OOVgAMnMUctgKOYAZAIalmmyEIW3uMKu9jbigZbdQ_YQlc9I1y2wbrpz2xyZtGdCUY2Hm9bPTWh89i9BNZbN9-wvBtfHIgQgPSViCughCNEkJTXr8o=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/c6MxNYA5M16MzgoI4vAssgesHY5b9rnz3QNHhpTb--XquhvTxROhPq2cUCm4t4eZQ_YskuJe_n7nu_AeJavpWtdBUAo9PoD9bX5JL53wQltCueFSUsIgJw4cVecQAVOKqR-kJHDz6ZM=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/99JzBH3yMCcw0kWwUi9SCJTDKxvWJrMwDDFhsvRZMCUaiPoaIrAoS1_Md4VLZGwNb_51ldb-3aIq2zEcQb6HaXNn85PNhnzLiw-n6ju_X0FjBUzExRsq2YUJb23ZcKbJmR8JjqoYgn0=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/h2dHAt0x_mpfO4YV1WuZ2v2A0VvEGxmw6-br7TmvrEt9ftUDPv-z8PfMhHsjZBWjABLYQUXhosqljV5bKT47yhSdQcEAZF3j5IfuAsklWkL0i1fISwjFFxAMJmXTltCRsNnT9L4IzDk=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/zuSv6AT8uE0Y8kwd9_t8gBEAZGgKwzVT_U6RL7be0d0KSnEFCbS8D7GTMGl3w8333zBzn-iVvS7VVWf5T4FrC2DXRG3U4s8PDNEbxQjllCRXz1xgiyf0qSYLepuA3UdF9N15BJOBkTs=w2400" class="image1">
 
 <h4>30/08/2017: Day Three</h4>
 
@@ -68,18 +68,18 @@ First we went to the Winter Palace; we only did the second floor here which is t
 
 It is now time to depart St Petersburg and hop on our first overnight train to Moscow; we have had an absolute blast here and hope to come back some day!
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day31-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day32-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day33-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day34-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day35-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day36-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day37-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day38-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day39-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day310-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day311-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-08-28-StPetersburg/day312-min.JPG" class="image1">
+<img src="https://lh3.googleusercontent.com/9wwrPevfG37rpV0nPq4iHqLbuPHR7wOcdOz5RAiil4bnsL-sSxaz5iM2_tuaRuI5AYH3iCDAjcHLR6msY5wW33VVTdC--UNoIVZdZhSCI5q4NCUQaIH3ySNaHMb8BdAzoPFbU5sgzY0=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/sTDrYig48jhzSTQKm_7Nc7jCBE5Tuj4OKPbXnEg4nv6PPiogn1pCd-eLu0Rzd-nl-VWxYkKUYDBFYuFppffPegsIVmSKtDMIhVgmWzg-sbgVIlWH9_-IXIGYyHuHb9avnLl68U9qNZs=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/u7AhraoyD559WBuqvMZ6qJBx7i7RDilo7_6jif8cjOXrnyeXP0V_Sgd8iL9NNqsWu1gorQa3EP5vu17w6jveBED12R5rdFqJw7v3PXOKekhEoXC5UIDSZO3JVDxIGqN-kqXB1PnD6a4=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/N7P4CGnL7_w_z1Ph9FNTRJ0sBCkZg5o61VrrFpYN40BV1-Mmt8z6u5Fd7ciko4B9pbs5jhnSi2Xyzolm3p2Vv-pZFIMElMqHEdV0SZvIROvxR3y_YBunhaATX2EniUalGjZAARBYrU0=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/OG79kpDkY3R9Jfjqp2sfyG7sBnaQWZ6MC4irhsQCcVbYfJBHYhW4ncmOE_2GKA1VGyhilZUezNqqMi_dgtRqOooSn70ice2ck8y6xN53BJR22MS3YJRGeoj_rD6Dc3qhFJ7c24JUoCY=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/IsIWCLEO-MS1uSAVBB2DsfvIqZ7f-plZDVulkvQQlbG3iR4wd0CzEZKa9tvWr87FixeEdbWaTpHH16IxY2vdz3rWEQqu-Aj7xTDU4ISc3z4wh-Ue3T68vAYsFk8bivKXAagTVd_GVn0=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/iBbmMR3laxOj9YDHTsTn7A7fghsAfZKM_ny4vymSyxeChPS3eGYjOIv8xfz47tHIMMyBJK7P39Pk5nv9FUrRlUH1isAC1V--iBTYaTXixABs0GzBxLrrx2DnlWhL1mkNQCP4kclKPlA=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/apYU_7L8rehJqmdguNV1929xwKnJZAjfi5AwUhqUg5cVG9bh_VxnwHHmKoihxP4C-Kj-6OPBCRRmmNJj7cZm5VwEVou1ID-QhjkyYvMOYryN4gplP6zHIYNLGL_JIPCd4v9l9uz7JMY=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/719acNALKwePgyBpymbz4Z8CwwBCJlI5MM_R5fJaHZcK-OWfz6kJh57DMA8iRdBMMAMWxges-CR-3f_7rnWwrJsWm4tzwP3Oj3UOzNdLTaM6FqeWilRKrJx1BZlemNLh7adbCgqZYlU=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/brnq53GdtuWHUMBVYFwiRmWCRYpCCR6lEbvIcxpkqjyd--o8oyvf5_nc5P8Odf7zmutMAGWVFfWWAkwB8pJg5TMQGiz3dQ5ak5mTsXAnHu739G_-MzR3DvB2ZZjqJy4d_kd1YN8Bz5A=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/jb5Iw_oxnEtYpGguQtGU7VSB4wZbUxFoz0mjyiaAUe9qZvcRVZ9xJi-1rY7EzmcuHHa2PkuNX710tUjQ7WKvSFgS-SKOITBvMCSA_6tdJKYiHnNaXyrdRngYI_1c2bO_mI5R1VT222A=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/oSmc5SYaDmbuAx3RFayHOFOtnwClPT-7K9g0UnT6zUAi39DiaAug_KOe9WmS1V8QDdD5793lyiXq1rs5bQ2ctLQCX3HcsF6pzWKaUDiMpcQ_ZUYANHmLZy2baGzD2NPy1NFan11OqAM=w2400" class="image1">
 
 <div class="wrapper">
   <input type="button" class="button" value="Return to Home Page" onclick="self.close()">
