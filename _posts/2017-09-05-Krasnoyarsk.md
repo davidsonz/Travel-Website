@@ -8,7 +8,7 @@ lat: 56.020510
 lng: 92.887699
 subtitle: последний день на Транссибе (Last day on the Trans-Siberian)
 description: Movies, Ice Creams and we find the Aussies!
-titleImage: https://adventuresofthetravellingtwins.com/Photos/2017-09-05-Krasnoyarsk/cover-min.jpg
+titleImage: https://lh3.googleusercontent.com/JA2aGp1QiRv5iLvPS6RQoZpHdM04o3AkCTYtLrvrwZzNVO9vkkVpWOHvITM98d4n1FHQPO_rpmcaFu2VO8ogk_ejS-iBrd7rlbEtv9DkEUN-ZmJKuOGCGNBp4l0JH5zOw-CsqC1c_Lg=w2400
 ---
 
 <h4>05/09/2017: Trans-Siberian Day Four - 4,065-5,153km</h4>
@@ -48,12 +48,12 @@ New favourite foods:
 * Mystery meat (and sometimes cabbage) parcels
 * Smoked cheese snacks
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-05-Krasnoyarsk/day12-min.jpg" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-05-Krasnoyarsk/day13-min.jpg" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-05-Krasnoyarsk/day14-min.jpg" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-05-Krasnoyarsk/day15-min.jpg" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-05-Krasnoyarsk/day16-min.jpg" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-05-Krasnoyarsk/day11-min.jpg" class="image1">
+<img src="https://lh3.googleusercontent.com/SnxSDycv5-_L-_PnHiQ4f44aoo80B4Knxf4ZLKzNCF5oA2h-pix-pAKNdFeMZEy0UE_NCowdhoB5BmArmjNHfEBQHiqVGGF9vY4AKFIScr9ts-tmGmz1AC7dhP8u-jPn9Sr_S-D6gVQ=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/ndmXYcC_jaoeDxV11B1LTXMs1iYQCxsq4Q9T0hv5NgFsTO9DsVBoniz6lDtItmEkOYPRQzJi1lMffpyBcDs06yXomN4IV_d5EuaGgYMVWNGWC_7Q83i7KdRwFy-kohnaJMuwMXecLk4=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/5GZ-VA8jJfL5TjRruB1aHFhO6SnyP_JROTu9vnPJ2mgdx9zQWrRqEJ2npZzzy9YYkgTyk__8X8LdcTNL6_i-xqiMgi3j7osHmJgywA_RsNO4LstVZKIdAS6eWfQWtoq0pyebyC-825k=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/UcMGPjADzTzm0j7RJwNDHbFoxEAIsHC-40KDP0GuwhKldpbSDKB4KTDzNyN5C6ij_RffS751Zl78XeavSTaZ77gIEhFFpl9Vfk-zIBfO7G1Wak_DMSitARG-T98VWWaoHdZXlOTUDZQ=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/1is7Kx2lij8yI5pGo6K1KttCXqGABpjPhOSST282I0YClk8U6F4qCaY3DKPEZLy4l-FySLQsfG2ymZktU0e7bMYTVVGZcSm7WGkkZ01gd2Xb61rZt4EKaege9IGmy-JKvnOk3ej7xg0=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/pD6eq08GsIBu2qdbunEwx0iSWz7LGCuY4Da1yM7vpLivJBGEYmCWcgBbEm-fv0wKjDvDJlCobRql0flaKBhYXq3HXT3KdwoRg9Xrxa5ltA3IvIZVI6JWNDD2DybdBrxIZxj_L0k0cOU=w2400" class="image1">
 
 <div class="wrapper">
   <input type="button" class="button" value="Return to Home Page" onclick="self.close()">
