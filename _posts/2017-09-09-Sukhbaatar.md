@@ -8,7 +8,7 @@ lat: 50.230389
 lng: 106.206278
 subtitle: Эхний хилийн боомт (First border crossing)
 description: Hello Mongolia!
-titleImage: https://adventuresofthetravellingtwins.com/Photos/2017-09-09-Sukhbaatar/cover-min.jpg
+titleImage: https://lh3.googleusercontent.com/euezJzsvSqvOi0JD3nQtnb3eHnV0y3JcIhcHNHGJXpuGDE5dAg-WAjG8MvFMn8QeHSXns_V6eMi4bzcQa_K5IEImYX6xMzihsLSlG29krV7lSWsPH4MmzXmBoudXRczWS9wKGblsolY=w2400
 ---
 
 <h4>09/09/2017: From the Tran-Siberian to the Trans Mongolian - 5,153-6,304km</h4>
@@ -24,9 +24,9 @@ While we had heard stories of no access to bathrooms for hours at a time, the Ru
 
 We have now finished off all our books and movies so will have to download some more for the next train ride while we are in Ulaanbaatar. 
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-09-Sukhbaatar/day11-min.jpg" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-09-Sukhbaatar/day12-min.jpg" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-09-Sukhbaatar/day13-min.jpg" class="image1">
+<img src="https://lh3.googleusercontent.com/BRSIZ_A2p45C8ltEY8WlonG_Xsw05_U5PnHcg8Ol_SZRdqVPHfRkM1Emy_HN7E8dTKB2CnpludG-75TWfeu-r83k0xLEWxb19WUSjW75D7J8_ZQvOCH2Rhxb5HfN-dh528J_fIkWxx4=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/ctXME6euHHIP2ZxhWYj-TwlfnaO1dVcbTRi4gNBP5EQdtLwfW0QNXl2ANmbvWDCBVQUqxpgnv7ZXv34GXA5A6_pbP9FtjaA8s5RisGc1u9SZuc7T7PBRQkw_PDeEZI3Vr5eIBLWmdP4=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/WgbAeF3uw57N5z59inqryz7kUavoZsiiWqfGMlo11bFWDJc5JUbJsolGlPCoKqBmvIXlJ_IXQyFJwM1dHgLNBsrkIiybYvM_SATK3U02WDqaMFyBvpW3lPhmyjqPOwhBEcG-JSup6Q8=w2400" class="image1">
 
 <div class="wrapper">
   <input type="button" class="button" value="Return to Home Page" onclick="self.close()">
