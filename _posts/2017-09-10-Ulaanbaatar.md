@@ -59,7 +59,6 @@ It is good to note that because there are only a couple of trains leaving Ulaanb
 <img src="https://lh3.googleusercontent.com/SzYEJZKWVBlbP0MmdWr0qVgM9-mtQB8_nMLaCz-ekIkHUhtT1Pm6Xlkyoboj71624uB112JApkXJSHbGfZG0bCLppWDuCWoIfiwNgoIG5Ade9mhVnA94mVEIpx6OlXXajguBZ98avY8=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/9qPxb74MwrdIEKahyfxmXeurchZGnEjVfSStRDcyZLuDQbFoV30tuXYB7pQKI308SIiw6aPF-ZHmryJITQDjT9RB50P0egEMWeOJd7OQzZG2WPekcu1UT54_nQa-0UBQqo1AF0bcYHE=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/Ncsegs8zRcu_26aJHtGbl90kjAmHjPw9xl_3fkQla22wdxMg1fRCEzaWsWCPoOIsRXSwum3u_4WfYPi4MKp_BEYM8YmnGrVj1VEbHGl1rzin13yAdYBvtRf-29OQEEHmHbCkiM7bt5w=w2400" class="image1">
-<img src="https://lh3.googleusercontent.com/Ku4olt6laYCx3Dy05ldhdUVOpqcVKzjmsPJeRnDMmr0q9wRCjFI5SnvDJfwy0eAw1j8AzPP_A6Uwb4JoufaFMCJEWY8Qr7wTyqqm_KV6rUDmF7MllVITTtrFEMfCpmR08owjhrJQlA=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/Q5vu-Au18Fj3A2wgKXbrBMh3GKa9sT1fKVNhf7iPqFjE_fRUoTq4MUHw3Ay-hyaeVm1AFdK0WXkg-PnLz_KBUAFUPlOKlJ0yt0TREyEUFkWjH6KYGGfNAwmKBB3CLjqVOxQQzkoiFKs=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/WOiVdV2hplIBhkkJj0pGQiH-mib9wFQbv1jLWeNfX7lS1tqxqCPPTqjBuO_2xEu4kPjHaXWBJKz_VtvFSuAseK5bmu20_6r49-CyiG3dWc3dPIF579gekwPXL7aZUjUf2tUM72OGCUA=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/HZ3TycayFfsc7mzq4MXZ-MIzR9WQqrhNGanppznzw0KOGvY8QztzSvUWUmlR4m7LjDvevtF0rcCnFC12fU0onrCZI_iidwaJeWlurjAlLLHLlcPS4Sbq_XWrhtKJZS4MtMKjSIoFSko=w2400" class="image1">
