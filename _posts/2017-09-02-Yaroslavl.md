@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nizhny Novgorod
-number: 42
+number: 37
 date: 2017-09-02
 location: Nizhny Novgorod
 lat: 56.318327
