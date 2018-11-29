@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Great Wall of China
-number: 53
+number: 48
 date: 2017-09-17
 location: Great Wall of China
 lat: 40.432732
