@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Krasnoyarsk
-number: 45
+number: 40
 date: 2017-09-05
 location: Krasnoyarsk
 lat: 56.020510
