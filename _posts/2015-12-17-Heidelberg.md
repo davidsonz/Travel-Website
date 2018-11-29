@@ -17,7 +17,7 @@ Today we caught the train from Cologne to Heidelberg. It was very comfortable an
 A friend of a friend met us at the train in the central part of the city and helped us bus to the Alte Stadt or Old Town where we were staying.
 
 We are staying at a Hotel this time as there are no hostels in the Alte Stadt and we wanted to stay in the best part of town. 
-We are staying at the <a target="_blank" href=http://www.4-jahreszeiten.de/">Hotel Vier Jahreszeiten</a>. We stayed in a little Anex Appartment just up the street from the main hotel. It was very comfortable and warm, we also had a bath which you don't get very often when travelling. 
+We are staying at the <a target="_blank" href="http://www.4-jahreszeiten.de/">Hotel Vier Jahreszeiten</a>. We stayed in a little Anex Appartment just up the street from the main hotel. It was very comfortable and warm, we also had a bath which you don't get very often when travelling. 
 Breakfast was an additional €10 a day but worth it as it was a massive buffet style and you could eat as much as you wanted. 
 
 Day one we had a walk around the town before we headed up to the <a target="_blank" href="http://www.schloss-heidelberg.de/en/home/">Heidelberg Castle</a>. You can walk up to the top of the hill or you can pay a couple of Euro to catch the <a target="_blank" href="https://www.tourism-bw.com/Media/Attraktionen/Heidelberg-Cable-Car">Cable Car</a> up. We elected to take the cable car up to save our legs and to see the views.
