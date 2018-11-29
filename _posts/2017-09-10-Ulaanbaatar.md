@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ulaanbaatar
-number: 49
+number: 44
 date: 2017-09-10
 location: Ulaanbaatar
 lat: 47.913200
