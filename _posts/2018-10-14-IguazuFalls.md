@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Iguazu Falls
-number: 62
+number: 58
 date: 2018-10-14
 location: Iguazu Falls
 lat: -25.695118
