@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Inca Trail
-number: 67
+number: 63
 date: 2018-11-03
 location: Inca Trail
 lat: -13.163089
