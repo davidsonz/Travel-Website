@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lake Waikeremoana
-number: 34
+number: 30
 date: 2017-02-06
 location: Lake Waikeremoana
 lat: -38.769935
