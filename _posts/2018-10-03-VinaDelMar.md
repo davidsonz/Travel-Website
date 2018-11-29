@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vina Del Mar
-number: 58
+number: 54
 date: 2018-10-03
 location: Vina Del Mar
 lat: -33.020477
