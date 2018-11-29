@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Montevideo
-number: 59
+number: 55
 date: 2018-10-06
 location: Montevideo
 lat: -34.905336
