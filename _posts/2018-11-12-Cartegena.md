@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cartegena
-number: 66
+number: 65
 date: 2018-11-12
 location: Cartegena
 lat: 10.435645
