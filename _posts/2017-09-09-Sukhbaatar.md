@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sukhbaatar
-number: 48
+number: 43
 date: 2017-09-09
 location: Sukhbaatar
 lat: 50.230389
