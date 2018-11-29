@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Farewell Spit
-number: 31
+number: 28
 date: 2016-02-06
 location: Farewell Spit
 lat: -40.513297
