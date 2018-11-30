@@ -8,7 +8,7 @@ lat: 40.432732
 lng: 116.570532
 subtitle: 中國的長城 (The Great Wall)
 description: We manage to get sunburnt on our last day of holiday!
-titleImage: https://adventuresofthetravellingtwins.com/Photos/2017-09-17-GreatWall/cover-min.JPG
+titleImage: https://lh3.googleusercontent.com/3e1SkfLy4b9LL4R7JodT0J_ZW5N9L81Z5j8HuHn-HFwFpQB4UGluQpBDLPzNbeXZT0XkUckMndDsSXmJKYYbSjLk0n79EzNTdWVy2Z-Dj35SFy7hxIem8jcVky2Lezh7ZoqzWYgqAOY=w2400
 ---
 
 <h4>17/09/2017: Our last day in China</h4>
@@ -23,15 +23,15 @@ Once back in Beijing we decided to go check out <a target="_blank" href="https:/
 
 And so it ends, the life changing trip that was the Trans-Siberian. I couldn't recommend this trip more, it is a once in a life time experience that you will never regret doing. 
 
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-17-GreatWall/day11-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-17-GreatWall/day12-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-17-GreatWall/day13-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-17-GreatWall/day14-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-17-GreatWall/day15-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-17-GreatWall/day16-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-17-GreatWall/day17-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-17-GreatWall/day18-min.JPG" class="image1">
-<img src="https://adventuresofthetravellingtwins.com/Photos/2017-09-17-GreatWall/day19-min.JPG" class="image1">
+<img src="https://lh3.googleusercontent.com/zvmVjvZe7Zdos9WwxMfLRYBj2XFaV7AxmmaUaTm-Ja88hi7bkqrzWrfmAiwvnLvQSopJrjTvLyUajPDrfaBLNxSfMwZyxLkXaJgW_981955o4hORV3bl5v9-S1rHgNpJR5k_MxQym50=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/5gGaqra-DdAWaz-Wr-pyATHqWAHVVM3R6jz2JmILzQHmN4AA9jf8BWaVFiISOTPVBlcBdy3iqH2sxIvkQelwE073Jp9xOFtYNDZTHCuEPhVlv88dw6yTI6johF_8BCtrdBPB3xxmhSk=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/fH1smyIQJ-8NCbYTX3mVOHuFlfwA_Vfc9e720MjCCNjxvVXoTP-LcMD3mGNirpPWsSS6hh4qiu9OepLRxMx-NDyKXLQwAbR3rVBmoI4RFDy7_cPazmcVLVUE4Tm1rr2oxbJWb72dPSg=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/VBNOcd0bQdzgciU9QvMOPbZjHdNZM3V7H3Hvvy8ckqj9nnfxHzGUHpH4MLMYuL-FOiPzMk1WDQCyQoaj4XiDjlaUkjLAOpN9UKARKFjHhVK2H_igYoEDbzYkeKyAiLIgkVF9N-Rvc5Y=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/YNss9Gn3lusv5AUeXQbIfeFy4mVlBFde7qJ567Ak3F4QrSficJvpLnU0Q27iZwPIE3A7GLW6TNpIXpqhAIi4GNmq39K__NRxayS5rVavvSi8nY63ZVfaKzM-a093HqSqconNpFSOkec=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/avwf385YYeNpLKPkeaOmmvhBugwBFv2uM5GeMI4JMzJvaenzSRtn92pHStCNZUXAiil5qsrgM38jOZeWmYv3C8fjeVOj6jE_cw0So2IJ4hZIHYE5m5fZt2nZQJwibZcFn4gzv7ByNjk=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/KEXNsm0CMh8RcbuFhCE8OOgoCaUC-e1QcXG7koSbFSVtyEgFS4qtRQvEHsObl6T10nuGGLk8F3BoJtjcEV0upYD6l1h305CJPTTzY1PiJjcavWltcr5Sa0a4i4BlhXlMZEELe-ZV5tQ=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/CaczDn8s8XcOePWGHh_MyVEIT1NATYt9QVikZN3m-4B09xStwrdi1ws28ZBK5ISZZ4wClvm1SgNgLZrdNwFtz2z9YlkmOv7hiBbwxau8iT2vyNtRa5TD9h7zxHBkt3qQjcED8eMfxG4=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/eER4RSIvx0zzOyZ8IbHSn_SNDsSKzHKPUZ7HB7yuv2vbne-W8WEW2ltOzqO6X5iZLRXCvzBC_nNC3b_LnYvXk8Lnh9FnTHB0VQBdxzCgeKIZATHZSFDRpG0CBvl6r_hVOCR5_MF3npE=w2400" class="image1">
 
 <div class="wrapper">
   <input type="button" class="button" value="Return to Home Page" onclick="self.close()">
