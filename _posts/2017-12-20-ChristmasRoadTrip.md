@@ -80,7 +80,7 @@ We are visitng the Waitomo Caves tomorrow and tonight we are staying at the <a t
 <img src="https://lh3.googleusercontent.com/6EJCWh8l-0g__bzgKQOPwUswQB6RCgWftXsWu53n9ngfwaIhzOmC8bx17SavCqeZSob90LXijGNO8XsrUchNC-i0ppDAtE5INGUO0Li98Z0R5_1_yyfbGsjCzX-d01I8WjSNwcAeQOA=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/2G13CP93n0nOF09vM4KbC86PiU_X38oBCVH3PPEn5hiTnggSPhJGWDCrvh255Rn9iSpLk3SeXD85AwLEytEsnaAQUZHcc0GQQURVckzmQgxCb9sR9FsgIOBUQZ9jJLq06ZMDW3O15YI=w2400" class="image1">
 
-<h4>24/12/2017: Day 5</h5>
+<h4>24/12/2017: Day 5</h4>
 
 It's Christmas Eve!
 
@@ -164,16 +164,11 @@ We had a lovely morning in the town ship before heading back to Paihia in the af
 
 <h4>29/12/2017: Day 10</h4>
 
-Part of the joy of showing someone else your country is getting to do things that you haven't done since you were a kid. Today this meant jumping
-on an <a target="_blank" href="https://www.exploregroup.co.nz/destinations/bay-of-islands/coach/dune-rider-cape-reinga/">Explore Bus</a> to go for a tour up to 90 Mile Beach (not actually 90 miles) and Cape Reianga (which is actually the top of New Zealand). 
+Part of the joy of showing someone else your country is getting to do things that you haven't done since you were a kid. Today this meant jumping on an <a target="_blank" href="https://www.exploregroup.co.nz/destinations/bay-of-islands/coach/dune-rider-cape-reinga/">Explore Bus</a> to go for a tour up to 90 Mile Beach (not actually 90 miles) and Cape Reianga (which is actually the top of New Zealand). 
 
-The bus took us to 90 Mile Beach first, and drove along it as the beach is considered a highway in New Zealand. We got to go sand dune boarding,
-some of us more adventurous than others, and were able to witness first hand some local business. There is a guy on the exit from the beach, which 
-is a very soft sand old river bed, who warns two wheel drives and other vehicles about entering. The warning is free, the tow out with his tractor will cost you $50. 
+The bus took us to 90 Mile Beach first, and drove along it as the beach is considered a highway in New Zealand. We got to go sand dune boarding, some of us more adventurous than others, and were able to witness first hand some local business. There is a guy on the exit from the beach, which is a very soft sand old river bed, who warns two wheel drives and other vehicles about entering. The warning is free, the tow out with his tractor will cost you $50. 
 
-The tour gave us an awesome BBQ lunch and then we arrived at Cape Reianga. From the very top of New Zealand you can see where the Tasman Sea
-and the Pacific Ocean collide and create a cool collision of currents/colours on the water. There is also the typical sign post which points
-to multiple locations around the world (a must do for a touristy photo). 
+The tour gave us an awesome BBQ lunch and then we arrived at Cape Reianga. From the very top of New Zealand you can see where the Tasman Sea and the Pacific Ocean collide and create a cool collision of currents/colours on the water. There is also the typical sign post which points to multiple locations around the world (a must do for a touristy photo). 
 
 The drive back to Paihia was very quiet as well all took a well deserved nap. 
 
@@ -187,14 +182,10 @@ The drive back to Paihia was very quiet as well all took a well deserved nap.
 
 <h4>30/12/2017: Day 11</h4>
 
-It's New Years Eve Eve, and the last day in the beautiful Bay of Islands. Much like the previous day we had booked ourselves onto a tour, this
-time out to the <a target="_blank" href="https://www.exploregroup.co.nz/destinations/bay-of-islands/cruise/discover-the-bay/">Hole in the Rock</a> with the Explore Group. We were actually able to book the 90 Mile/Cape Reianga and Hole in the Rock tour
+It's New Years Eve Eve, and the last day in the beautiful Bay of Islands. Much like the previous day we had booked ourselves onto a tour, this time out to the <a target="_blank" href="https://www.exploregroup.co.nz/destinations/bay-of-islands/cruise/discover-the-bay/">Hole in the Rock</a> with the Explore Group. We were actually able to book the 90 Mile/Cape Reianga and Hole in the Rock tour
 as a package so we saved some money doing it that way. 
 
-The ferry took us out to the Hole in the Rock first, via a few pretty islands to have a look. Although the tour does not guarantee seeing dolphins 
-(you need to book yourself onto a dolphin watching tour to have a much higher chance) we did indeed see dolphins! After the Hole in the Rock, which we unfortunately
-couldn't go through as the swell was too much, we had a cruise around the Bay of Islands and finished at Urupukapuka Island where we got a 
-complementary lunch and a 360 view of the Bay of Islands from the top of the hill. 
+The ferry took us out to the Hole in the Rock first, via a few pretty islands to have a look. Although the tour does not guarantee seeing dolphins (you need to book yourself onto a dolphin watching tour to have a much higher chance) we did indeed see dolphins! After the Hole in the Rock, which we unfortunately couldn't go through as the swell was too much, we had a cruise around the Bay of Islands and finished at Urupukapuka Island where we got a complementary lunch and a 360 view of the Bay of Islands from the top of the hill. 
 
 <img src="https://lh3.googleusercontent.com/j1M7usoc-H_2-YcxWyGfuCkc6OaLcQwoLufbAB3j1_d_dp285kqe6toJuXwRhDGcEBSWQcxFke3n-uVvrKX9_6YJHfys8MWwHsf82UpjvZWw6D37GcR7iB11i9C5ayi3fMRQanc4jPo=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/IprFknjWrkCupkPb1ez10AODmbWoSqB7aHenLy6WVqhUFXwZlR8_QAXxTh75YDN4NB6fMjWWqDFtm6T2jUpQp3pRMpqjlPm6pw2BWRV7H9sGgHoz6WK3OOwsnpziv9At9ZVa_xLxio4=w2400" class="image1">
@@ -208,11 +199,9 @@ complementary lunch and a 360 view of the Bay of Islands from the top of the hil
 Happy New Year! 
 
 Rather than stay in the Bay of Islands for New Years Eve with all of the 18 year olds from Auckland, we decided to return to the City of Sails. 
-It was a quiet drive back as we'd chosen an odd day to travel. It was also a good opportunity to show Louise and Ellie another iconic NZ landmark;
-<a target="_blank" href="https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/waipoua-forest/things-to-do/tane-mahuta-walk/">Tane Mahuta</a>, the King of the Forest. 
+It was a quiet drive back as we'd chosen an odd day to travel. It was also a good opportunity to show Ruggers and Ellie another iconic NZ landmark; <a target="_blank" href="https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/waipoua-forest/things-to-do/tane-mahuta-walk/">Tane Mahuta</a>, the King of the Forest. 
 
-Back in Auckland it was a quiet New Years Eve playing board games and hanging out, and then a cruisey couple of days around Auckland before 
-Louise and Ellie returned to the UK on the 2nd. 
+Back in Auckland it was a quiet New Years Eve playing board games and hanging out, and then a cruisey couple of days around Auckland before Ruggers and Ellie returned to the UK on the 2nd. 
 
 Goodbye our friends. It has been amazing having you in New Zealand and sharing your Christmas Holiday with you! We cannot wait until we see you upon our return to the UK.
 
