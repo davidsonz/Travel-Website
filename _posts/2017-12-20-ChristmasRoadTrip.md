@@ -155,12 +155,7 @@ Russell is one of the oldest towns in New Zealand, the town’s original street 
 
 We had a lovely morning in the town ship before heading back to Paihia in the afternoon where we went for a swim and then wondered around the seaside at sunset. Early night for us tonight as tomorrow we are up super early for our trip to 90 mile beach and Cape Reinga.
 
-<img src="https://lh3.googleusercontent.com/msjBBDEQnZKwsBG-Jv50bAgfPSnJ5YtqiprnIuqVFcg125HFu7h5cbcL-IDZ19MomNqkfxLcmo8VpsnKoRQD1sMPD_rOr75OG7pIeWSE6YlneHKrYlfZuxFEbo9QrcncxavH9_0FNqA=w2400" class="image1">
-<imgs src="https://lh3.googleusercontent.com/3YXPI-rVgezT0hm0nN5Zm3NOjBH0ln5iOi5VzHD-VlMCY-TcSDETmXnlWSPzmH2anV0MZ136rngOT20xdzpM1E2skJ7IIP0kr9E68557jMhNfidkxIJ3sRusjTw0CzVPk3sWPW-Xhzs=w2400" class="image1">
-<img src="https://lh3.googleusercontent.com/IqXQq0SDpARCk3gC7HCgHAsb0NK9VHNmkkCB68mWb0wqqt4CcGl7VX6TuvztGNv_z3eVLSWyAQiXe7NCkUMrSWpahKKRW3XoAjFmyu1ZAvUz0U0BvK_85P7UdQ6DHVsJUfKvxDyxBuM=w2400" class="image1">
-<img src="https://lh3.googleusercontent.com/ojKeYde005IWzL7T0tNNYMt0aDf7fUgPHQhuOwk4nugeINH5LWQQx2DWBbehMYrZZ4CWHWgOm_ARbFDzcT5_evpXzKgfu7kQFdPMG6z9OaU3fpH7Tza7bFCZDht2Ngu8jhE59WnX0sg=w2400" class="image1">
-<img src="https://lh3.googleusercontent.com/SV67-0O1SqhsOD48bCut-7ZWOc7MILNfsPpqH16k6CAvpsN9-Nz1XHMgq1HJAAC6StDea3n_EDcI6Jy18XonGHNoTBU_qM2nrptEjefFFXlP2qgaze_XPgUKjWi0-0BQSCPI2aP95mE=w2400" class="image1">
-<img src="https://lh3.googleusercontent.com/7ooNaAm5tZ0l0rTTbKH8nzl7iHJeKghdpoI2_-pUo65m1O-kh9C2esqMKUZbwABnNtPRAMyXKfgrcWdpsdJSLwxswu0enIvoWlrpm_h2DsnzRQkKCVn5zr47ri4kivkI68wAubOnOFY=w2400" class="image1">
+
 
 <h4>29/12/2017: Day 10</h4>
 
