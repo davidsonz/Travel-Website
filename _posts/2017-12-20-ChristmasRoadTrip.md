@@ -97,7 +97,7 @@ Then it was time to drive home for Christmas. Shockingly the traffic was very li
 <img src="https://lh3.googleusercontent.com/o1XkFl_bPnu5AeIFIvKAaA3YHXlRZDRZefxhXKGSv-8EsZigDf7KOrJ0Ywc2GpMHTtsc-zSQNrApZdL68Q_8r12Ws-dfM8eeVcFf81RGeMFeE8wLMHxmxscgIUVnghEjdTF2pEzVQV8=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/9TOQuHocNPyJYYRUU4Rb0w51UXqqG-ddMgiIekBsi57shQF3ICnMEM--fZdSZjHhDE03ZhQlrb0Y0a0yaGj5bID5XBpMjiBuBOTQiHRDDuoCEzyXTzeEj-T6GS_4JZcgvUGcH0IWGJ0=w2400" class="image1">
 
-<25/12/2017: Day 6</h4>
+<h4>25/12/2017: Day 6</h4>
 
 Merry Christmas Everyone!
 
