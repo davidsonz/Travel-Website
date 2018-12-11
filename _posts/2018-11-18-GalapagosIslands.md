@@ -21,7 +21,7 @@ For the next seven nights we are on the <a target="_blank" href="https://www.int
 We have arrived in the Galapagos! We start our adventure with 2 nights on the island of San Cristobal. 
 
 What a start! After we got off the plane we dropped our things at the hotel and then it was straight down to town to hire our wetsuit and fins, and then onto the boat for our first outing. 
-We took the boat around San Cristobal to Isla Lobos, or Sealion Island. Technically Lobo means wWlf in Spanish and Lobo del Mar means Sea Wolf or Sealion in English, however as there are no wolves on the Islands the Galapaganians shorten Lobo del Mar to Lobo. 
+We took the boat around San Cristobal to Isla Lobos, or Sealion Island. Technically Lobo means wolf in Spanish and Lobo del Mar means Sea Wolf or Sealion in English, however as there are no wolves on the Islands the Galapaganians shorten Lobo del Mar to Lobo. 
 We were straight into the water for our first snorkel on the islands, and what a start! We were swimming along side Sea Turtles, Fish and Sea Lions. All on our first snorkel. 
 
 After the snorkel we had some lunch and went on a walk around Lobo Island. We saw Sealion and Sealions Pups, nesting Blue Footed Bobbies and Frigets, and lots of Marine Iguanas and Crabs. I couldn't believe how close to the animals we were. They were so unbothered by our presence. 
@@ -67,18 +67,18 @@ We had 2 hours on the boat to Floreana, a quick stop for a snorkel and lunch, be
 
 The snorkel at Floreana was another part of the trip hat was a favourite for the family. The island was extremely unpopulated so we were the only ones swimming in the bay. It was crystal clear and there was a lot of ocean life around. The most perfect moment was when I was swimming along and became part of a school of fish. They were all around me, I could almost reach out and touch them! The Iguanas on Floreana are starting to change colour for mating season too, the maes are going red and green which is amazing to see.
 
-It was also Dad's birthday today so the restaurant was very nice as to bake a cake for him and we all sand Happy Birthday. 
+It was also Dad's birthday today so the restaurant was very nice as to bake a cake for him and we all sang Happy Birthday. 
 
-Floreana is where the first Post Box on the Island was, and it still stands. There is a tradition of putting a postcard in the box with a message and an address, and that another visitor to the island hand delivers it. We picked up one to be delivered to Guildford when we get to the UK, and 2 for Mum and Dad to take home to Sunnynook. We left a couple in, so it will be interesting to see if they are delivered. 
+Floreana is where the first <a target="_blank" href="https://www.nationalgeographic.com/travel/destinations/south-america/ecuador/galapagos-post-office-bay/">Post Box</a> on the Island was, and it still stands. There is a tradition of putting a postcard in the box with a message and an address, and that another visitor to the island hand delivers it. We picked up one to be delivered to Guildford when we get to the UK, and 2 for Mum and Dad to take home to Sunnynook. We left a couple in, so it will be interesting to see if they are delivered. 
 
 We are on Isla Isabella for 3 nights, Louise and I have a beautiful room with two double beds which is quite a treat!
 
 <img src="https://lh3.googleusercontent.com/0RIW0CArKxNo9DHA0NE6oI8L6zCSX-9pJozqIqdT_xDtm6-SlSQ8hoYYOnhdZqBA5vuSLD0CsDk73xG5_w-jj6ygDN11p9y3kye2n8R5zT5Jdlg6QXlBYt42tu08SqTfwKwSu223tuk=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/DN9W8cxISya-Hlxt1lCw9dW-ST1iVOvAJAjdJTzb-yWs1srrBMUlzE8W8dZle_arPUM0gnUMajsfXz79aMHaNrSf4DOHDrK8DTxvHrkHdBg7ZGdAV4x0OnFBV60DJxtp5f1Be2MP6IM=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/lBCqfRLnltw8QP1oPzyNL99RXOjimkA4uCdqGZQFP09ctcUJ-oLVJlWdMrshzvJHutUCqPXqZPwnBtQjf9A8VlJsoiY_EvC-gmy036SIjLMhLAA82dE1uQLvKSb1blE6aXDEjLpnfLE=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/_fs1vD3jTsCiiPDoVLQTU636TAsEa6dTGaBPTiQVTz2DZ3AjrYsiJtj1P4zRU2aVgr7pQsG9PC8D6P7hka7dAkSGVakJMQz5KgQzb4hgQ0iOPKluhEHqhGjQsnw7WFuV6oc7KBZSHD4=w2400" class="image1">
-<img src="https://lh3.googleusercontent.com/0KTV7Kpt_jr3L9FqECz-mR-O4ZyzJO570RtXhM7eruhR7-pwli3ZO_ANqP43AF3DDcFAX11HGxfIXSa6m0fM1PH1jxMUIG0zD2I7poD1qGfgId-9cfYdOBPkhscW-uu5XFOipJy_JMA=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/oiIKtG-rYVPHc6qYFSJccJ9F-srJ8rq8Ym1T_ZPw9fVwXSNK3lW-WGVwyQ3Eh3m1eTD_pbImOdfeFZrBjf5eNFQ9vuxdpkaXLOFRGDnxYBguQ62u9JqDLC7g4w_JF3bbI7qWwgW9vxc=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/gc0a5eVCRPzQLjphg17wwPvxbLr-SgDN15ZDI_fLDiRVSCt2jydUhPdSdAszehoIXjkTR_hmiDjwDsyA-fUINutx_yBMQdM8gnoNtnmajMpe48AT5zRjQerWugiJhBZWeiaVEJaUfr0=w2400" class="image1">
-<img src="https://lh3.googleusercontent.com/zURt5eSuoc_hKPMC85RwwxnbisHXsJG9KvWhLHuMIddIzP0mS1yTDBclbN-4VtJJKSpuW2CcxgZS0PrWx3OzxKs3ruqXVv04BpsQZu7yd2Leo5AaMA_YUsgPAOfoQw6zsUD0OXlLZxM=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/iiUd4XyLZwu1eyYd3Ciq84fMDf1FuYZfLeIzG35NKPgEiLnWNjCClmbiJTsm7tZ8h-KEy32z7pBRgWLZNE4nVK0ygyWbxRvUZ9XBMF0Mcuz0Tc78LsTPp-gfPQTfAxuuwSGRsJa4kMU=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/qAbrSWMIWNwexQ68Z13cMb3D33HG_EQ7D_nnobnii0no61scgL3m-5s56fdlRjIH6Ry69OXBtZzqWYmwQlbut-H4Ds5rJcRLVfCnBTBwvCsDMCmwnxehptbxbYfmR8qQtQ5b34qC2r8=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/1DV5qSxpUzzbFLirvXqbTD1kdPUh4PKeoXcqqRhdRNzvID5fsLyUcwuTFEELPjgx2URvom8tuB_GEMIRDLNniOvpuinw83QpiHrbnmIdbJVdm9kGi9Q46WxHoiUooTxA3dOGcmXRwnk=w2400" class="image1">
@@ -98,7 +98,7 @@ In the last alley we swam through we saw sharks on the bottom. They were so clos
 We spent the evening having drinks on the beachside pub watching the sunsent after another beautiful day.
 
 <img src="https://lh3.googleusercontent.com/hboja0sS83X5LrAz-rdk7giitfpUimMLGb7OIUxLwkKd2xu1yp0Eku0w_ZbaUx-wz9IM66gajtPWe0i2jAe40EiiEEvfjizYvPS8yvVe110N5yxOpDgnup3jSUbtX-WFPbHc9AMLJOY=w2400" class="image1">
-<img src="https://lh3.googleusercontent.com/XMgOQb29HLHs6Ypb-RzZCluH1b9wr9ELyUlYlSu_keDRIjonfDK5Ku6mzR6usZ3uRkDWwLvSSEdwN-UZtYRePA3jgRFuiiUEu75qLGkFxnN5wbqLrjwHOm2xRKfC0LiJ8XOZ5TWcnmo=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/c3aItBXLNo3_G5FJD9__xAx7qYIvldyJU1Ut3xT8f7hemS8pioe7Ox_XSdaJYFJ4ku5l6XYZ9leNnoRz2ALC2GlbwFpIBmhDiLo3zy3NGiqRn-NKhrWCkx1m_fYiW_SbAWkOshNXmDs=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/rVbRKCTGgCxkKmfmEFllxTlAGMpZhBWC2xQKaLFoh7VSiA3XVquZRklq4MXCThsniuuFBZCQYpZM3qIxma4vlB_mE23Nsv7vV1sJKMYrmP2_9yh0ioSm1srcLoMKAwgQNbH_LQ9ifXI=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/q665SeuNi7i2mp_eYbcVJbg-IckouaOOH7Mv-bNI29RHhw1vluE11hose9BSniTqAfnFiaoBEHvfU14hArNmEdb-y28QQuZPCXO8DZPQb1ljCK0uT-3s4VpxXvIurEU3hhXXHwUobsY=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/BCpgOp7Jri-PZNehBEOInrr-rIDl2MuuMjOkYd_L8lzl_xHyhcDT6GvvtLLbVAspHvrWC1dgwvHSACiUlrIEfPUdc5Jtrzexg4i3c7d8-vOfwWpesXr6WI6YL1war8XFr4ZVIP20CyQ=w2400" class="image1">
@@ -130,13 +130,13 @@ We were out for the whole day climbing Sierra Negro, but we got a bit of free ti
 <h4>Day 6: 23/11/2018</h4>
 
 This morning we were up bright and early to catch the boat to our last island, Santa Cruz, where we will be spending two nights before we have to fly back to the mainland. Unfortunately we are on a different boat this morning. This boat was not as good, wider on the bottom, it rocked a lot more than the last one, so even I was beginning to feel seasick and that was with medication. 
-We also checked out the fish market down the road from the hotel. There were many Pelicans and Sealions watching carefully to try and get some fish. The patient ones were well rewarded by the fishermen.
 
-Once we arrived on Santa Cruz we had a good breakfast at the hotel we are staying at, before heading to the Charles Darwin Research Centre. This is where we could get the second stamp on our passports for the Galapagos Islands. We did not learn much more here than we saw at the other Tortoise resreach centre on San Cristobal but we did get to see the stuffed corpse of Lonely George, the last of his kind.
-Though we did get to see some land Iguanas, which we had not seen in the wild. 
+Once we arrived on Santa Cruz we had a good breakfast at the hotel we are staying at, before heading to the <a target="_blank" href="https://www.darwinfoundation.org/en/">Charles Darwin Research Centre</a>. On the way we also checked out the fish market down the road from the hotel. There were many Pelicans and Sealions watching carefully to try and get some fish. The patient ones were well rewarded by the fishermen.
+At the Research Centre we could get the second stamp on our passports for the Galapagos Islands. We did not learn much more here than we saw at the other Tortoise resreach centre on San Cristobal, but we did get to see the stuffed corpse of Lonely George the last of his kind.
+We also got to see some land Iguanas, which we had not seen in the wild. 
 
-In the afternoon we went up into the highlands. We saw so many Giant Tortoises in the wild. It shows the success of the breeding programs of the centres that these Giant Tortoises have never been handled by humans. There are so many of them and they are thriving. 
-We got to try on the shells of a tortoise, it was so heavy, I couldn't lift it. 
+In the afternoon we went up into the highlands. While there we saw so many Giant Tortoises in the wild. It shows the success of the breeding programs of the centres that these Giant Tortoises have never been handled by humans. There are so many of them and they are thriving. 
+We got to try on the shells of a tortoise, it was so heavy I couldn't lift it. 
 
 We also saw a farm where they produce coffee beans, sugar cane, and many fruits. We got to try some of the coffee, sugar cane juice and a liquor made from sugar cane. The farmers in the Galapagos are very diverse with their farming, which is both good for profits and the land. Farmers in New Zealand could learn well from this. 
 
@@ -153,8 +153,8 @@ We also saw a farm where they produce coffee beans, sugar cane, and many fruits.
 <h4>Day 7: 24/11/2018</h4>
 
 Our second morning on Santa Cruz and our last full day in the Galapagos. Today we are kayaking in Tortuga Bay. It was a lovely hour walk from the hotel to the bay and then along the beach. 
-We are in two person Kayaks, I am with Mum and Louise is with Dad. I think that sharing a two person kayak is a good test before you get married. It was quite amusing watching the different couples in the kayaks and how they got along together. 
-We saw White Tipped Sharks amongst the mangroves, and more Sea Turtles. After Kayaking we were even able to walk into the shallows of the mangroves to see the baby sharks (doo do do).
+We are in two person Kayaks; I am with Mum and Louise is with Dad. I think that sharing a two person kayak is a good test before you get married. It was quite amusing watching the different couples in the kayaks and how they got along together. 
+We saw White Tipped Sharks amongst the mangroves and more Sea Turtles. After Kayaking we were even able to walk into the shallows of the mangroves to see the baby sharks (doo do do).
 
 We walked back to the hotel via a detour around the rocks where there were so many Iguanas we almost didnt see some of them before we stood on them!
 We had a free afternoon to go for one last swim in the Galapagos and to do some shopping. 
