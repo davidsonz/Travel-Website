@@ -37,7 +37,7 @@ Its hard to think how the rest of the trip is going to get better from here but 
 <img src="https://lh3.googleusercontent.com/ahXSfTdtszaW7z_NMdgcigGRwzncAnKPE75MuiTJTPHCeuUazvapZhtcpYaiyKG8tD_Z6LweRqAlaFtjnxOfv5z93aNaNAc0W_dQvo0zPevSFDwoZijKKbNhkO4Le4X706z5GkK0KCY=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/v0CFT-6Rklggc3d01JlGwhGx0fr3QtOhkFQJFkcURxVnetgP82X02YJQcl5OTMEIQrac-5ST6qIDyAaZ7LVVqIEQJf-PxvlyoCt-s19OW3CowDs6O5j64_Q_KQmNPY4v_pp0rVegAaA=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/K38oo-E-xBKERkAV57w9IjugH4BFXh3ObOQaE1mWblC97vAPYCMX_4ki1PGfJjdS7CUIGK4yK_V7UjP6vbA19ykoB_f7SIC-GwUm6LIP22h0EZLuehqXKSb69jjrqRFUAofiSk7MJZg=w2400" class="image1">
-<img src="https://lh3.googleusercontent.com/ZaELZBtfoFpWIdpefUbJFaVoNOVqkrKY-hiRWMET6sgcgOI5gsPj1vj4CmV3T_vF8yw4P-SSMzU85fwcJBg6xlkbzPoVL4qCFb6eiyxFyI4soht9iYDW4OR2N4Lu2api2ObCNMoEMog=w2400" class="iamge1">
+<img src="https://lh3.googleusercontent.com/ZaELZBtfoFpWIdpefUbJFaVoNOVqkrKY-hiRWMET6sgcgOI5gsPj1vj4CmV3T_vF8yw4P-SSMzU85fwcJBg6xlkbzPoVL4qCFb6eiyxFyI4soht9iYDW4OR2N4Lu2api2ObCNMoEMog=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/KkUPSFAdjYKtpDHJqcLDPGGjhYQm6YTIhwCECAUzpc-vuKfWhhWpOqARIu5I1uKJG34vgAOOk21EAhFFH-kZwv0E3LLeBVhvd2qI4ackM2G2KSKUkViHfZ82a_GLlVUkdVB2aqmDrzc=w2400" class="image1">
 
 <h4>Day 2: 19/11/2018</h4>
@@ -79,7 +79,7 @@ We are on Isla Isabella for 3 nights, Louise and I have a beautiful room with tw
 <img src="https://lh3.googleusercontent.com/0KTV7Kpt_jr3L9FqECz-mR-O4ZyzJO570RtXhM7eruhR7-pwli3ZO_ANqP43AF3DDcFAX11HGxfIXSa6m0fM1PH1jxMUIG0zD2I7poD1qGfgId-9cfYdOBPkhscW-uu5XFOipJy_JMA=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/gc0a5eVCRPzQLjphg17wwPvxbLr-SgDN15ZDI_fLDiRVSCt2jydUhPdSdAszehoIXjkTR_hmiDjwDsyA-fUINutx_yBMQdM8gnoNtnmajMpe48AT5zRjQerWugiJhBZWeiaVEJaUfr0=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/zURt5eSuoc_hKPMC85RwwxnbisHXsJG9KvWhLHuMIddIzP0mS1yTDBclbN-4VtJJKSpuW2CcxgZS0PrWx3OzxKs3ruqXVv04BpsQZu7yd2Leo5AaMA_YUsgPAOfoQw6zsUD0OXlLZxM=w2400" class="image1">
-<img src="https://lh3.googleusercontent.com/iiUd4XyLZwu1eyYd3Ciq84fMDf1FuYZfLeIzG35NKPgEiLnWNjCClmbiJTsm7tZ8h-KEy32z7pBRgWLZNE4nVK0ygyWbxRvUZ9XBMF0Mcuz0Tc78LsTPp-gfPQTfAxuuwSGRsJa4kMU=w2400" class="iamge1">
+<img src="https://lh3.googleusercontent.com/iiUd4XyLZwu1eyYd3Ciq84fMDf1FuYZfLeIzG35NKPgEiLnWNjCClmbiJTsm7tZ8h-KEy32z7pBRgWLZNE4nVK0ygyWbxRvUZ9XBMF0Mcuz0Tc78LsTPp-gfPQTfAxuuwSGRsJa4kMU=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/qAbrSWMIWNwexQ68Z13cMb3D33HG_EQ7D_nnobnii0no61scgL3m-5s56fdlRjIH6Ry69OXBtZzqWYmwQlbut-H4Ds5rJcRLVfCnBTBwvCsDMCmwnxehptbxbYfmR8qQtQ5b34qC2r8=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/1DV5qSxpUzzbFLirvXqbTD1kdPUh4PKeoXcqqRhdRNzvID5fsLyUcwuTFEELPjgx2URvom8tuB_GEMIRDLNniOvpuinw83QpiHrbnmIdbJVdm9kGi9Q46WxHoiUooTxA3dOGcmXRwnk=w2400" class="image1">
 
@@ -162,8 +162,8 @@ We had a free afternoon to go for one last swim in the Galapagos and to do some 
 In the evening we had our last dinner on the island. We caught a boat out to Angermeyer Restaurant on the point of the bay. We had a beautiful dinner looking out over the water. The restaurant shines lights onto the water so you can see the rays and sharks as they swim past. It was a magical way to finish our way in the Islands. 
 
 <img src="https://lh3.googleusercontent.com/8ZfzgMmGKU0k0voQMBgpOmaH2WqaqH4Je5cn2VhTPaSpKWZLQpfTfNByAxi2O7Em2NvlSx_YcUJfiEeH4gyU-FbPtBnEhTT3xZDe27KEmYZgNcXyDKAHcwJG_zClGDuPOffHrFGljSA=w2400" class="image1">
-<img src="https://lh3.googleusercontent.com/d7ZfAbkZTmb5IPxX9XQPH0ALXp4XRCYP6aq9BHeIKwD25spxU2fYh27-VGaDdsR0dKEk4WRxBQW_MjPko1m2zvw0Zl7CVHQMqLOnP8h9_t7YjlyZDe8GB6t5_nGfhZfkNJ_z_nysaVw=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/UbgNLCfOentw5Z9bA99yo0t5kYJUfFd1hf-4jPEWNvL_170zG9BOc5bzenDYvcV_O3DvStgoQEKU_K7Ioo3Q2b3EuRPbjSlLb_N8Fl0VFWIzZiQmrBsWFfztAhY2cRNvstKZfygSffA=w2400" class="image1">
+<img src="https://lh3.googleusercontent.com/d7ZfAbkZTmb5IPxX9XQPH0ALXp4XRCYP6aq9BHeIKwD25spxU2fYh27-VGaDdsR0dKEk4WRxBQW_MjPko1m2zvw0Zl7CVHQMqLOnP8h9_t7YjlyZDe8GB6t5_nGfhZfkNJ_z_nysaVw=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/vOUXLUM5acZlUTASbUfGPCf-ti5KHVy7bMaA99UPRX7gF9oMYm47HEjVjjeCRffE-Cjglagx2x8yKPgyO4b8Aa01aYqvOoI35k6T4kB0LEm9gzP37sil7uycT8Tw3KKJP5hiCarzzUk=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/L5Q5vPNJF3VN3o2ElH853117y93ZjM4bOL-GW1jfOubARmB79o8LlpSFMOyAfZVdkoe2YvIYDjycOmDrNWiyg_c5OK5A9vkujNA_I11TPAm6ie0xwc4CChvFltzy2jHB3lToMvP0Id0=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/jUDflwUbsZWoTUqHh3R-6BuwvnMNCc_HjrCKDs0VEu7DTAgVfm0jTTv6YSN9RvQcvPbzsvEGuKDOC5F5--j1s8tsBUddIMByrGsKIX2G1bZb4dgQS4cX0WiK3AJY5W8DNsL8JKA2BmY=w2400" class="image1">
