@@ -24,16 +24,12 @@ Mexico City is just as big on the Christmas Decorations as Panama City is.
 
 <h4>Day 2: 03/12/2018</h4>
 
-To get to know the city a little better, this morning we went on a Strawberry Tour of the Historic Downtown. The tour started in Alameda and 
-took us past the Palace of Fine Arts, the Latin America Building, the House of Tiles, and many more until we finished at the Metropoliatan Cathedral.
-We always enjoy the free walking tours in all the cities we can find them, helps you find out about the political and cultural history of the cities
-and orientates you in a city. Our favourite building was the Palace of Fine Arts because it was such a contridiction; it was created by
-two different architects so the outside is all Classical and the inside is completely Art Deco!
+To get to know the city a little better, this morning we went on a <a target="_blank" href="https://strawberrytours.com/mexico-city/tours/free-historical-centre-tour?gclid=EAIaIQobChMIsODc_r2Z3wIV2rjACh23eg7bEAAYAyACEgIkivD_BwE">Strawberry Tour</a> of the Historic Downtown. The tour started in Alameda and took us past the Palace of Fine Arts, the Latin America Building, the House of Tiles, and many more until we finished at the Metropoliatan Cathedral.
+We always enjoy the free walking tours in all the cities we can find them, helps you find out about the political and cultural history of the cities and orientates you in a city. Our favourite building was the Palace of Fine Arts because it was such a contridiction; it was created by two different architects so the outside is all Classical and the inside is completely Art Deco!
 
-In the afternoon we walked to the Kisosco Morisco, which is a beautiful gazebo which appears to be a mosaic but up close is painted and carved wood. 
+In the afternoon we walked to the <a target="_blank" href="https://mxcity.mx/2016/03/kiosco-morisco/">Kisosco Morisco</a>, which is a beautiful gazebo which appears to be a mosaic but up close is painted and carved wood. 
 
-One of the things we are also loving about Mexico City is how dressed up it is for Christmas! During the day everything is covered in tinsel
-and in the evening it all lights up. 
+One of the things we are also loving about Mexico City is how dressed up it is for Christmas! During the day everything is covered in tinsel and in the evening it all lights up. 
 
 <img src="https://lh3.googleusercontent.com/t6RDoLSSiwPPQyRGiYDj5ndaHQS8YuljZf2Npl57xsyRtbUfvPFsg4YKaz-M27TvLUePDJwtGIXQx9kHdD-DMUmuffQlSn-fLpctGfPJ4uchmEzWMm3hdy3-aTz2yUdjvUyyMy7mqDQ=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/dOFcHJkl7Ujln3BDCnZhbLLur0QbVAX01feoutg75RH1A7SK7b6Cui5e4y60aI6pAxcU6TrGNm0UpaaDPuZ5hwfLgTyxyC7Pcg-uMNB7rBQGzAbaoKwGuJt9xiKLsstEr-1968Gr0Qg=w2400" class="image1">
@@ -44,14 +40,9 @@ and in the evening it all lights up.
 
 <h4>Day 3: 04/12/2018</h4>
 
-On day 3 we went and visted the Coyoacan neighbourhood. This is a bohemian neighbourhood and where the Frida Kahlo museum is based. Unfortunately
-our budget couldn't stretch to the tickets, but we did go and see the outside of the building. We however did find a garden center on our stroll
-through the neighbourhood, which had heaps of Christmas flowers and was very pretty. The neighbourhood was very enjoyable for a visit, much quieter
-than the city centre and very picturesque. 
+On day 3 we went and visted the Coyoacan neighbourhood. This is a bohemian neighbourhood and where the <a target="_blank" href="http://www.museofridakahlo.org.mx/en/the-blue-house/">Frida Kahlo museum</a> is based. Unfortunately our budget couldn't stretch to the tickets, but we did go and see the outside of the building. We however did find a garden center on our stroll through the neighbourhood, which had heaps of Christmas flowers and was very pretty. The neighbourhood was very enjoyable for a visit, much quieter than the city centre and very picturesque. 
 
-On our way back into the Historic Centre we found a great artesan/souviner market called La Ciudadela, which has a great range of souviners from 
-heaps of different sellers. In the evening we found ourselves some delicious local tacos and then watched the Christmas lights which turned on and off
-to music!
+On our way back into the Historic Centre we found a great artesan/souviner market called La Ciudadela, which has a great range of souviners from heaps of different sellers. In the evening we found ourselves some delicious local tacos and then watched the Christmas lights which turned on and off to music!
 
 <img src="https://lh3.googleusercontent.com/ES8ok7tixWF_fHurenvXbp5IQalxN21avF6KzIIQ_xLAwaQ8SgnAc5acG1YdfReOfmKjzQSQbbrS1I7A2KL_3ALyceISerytu2xcNOTAuuwt6Wv0L8DzCJJLiFnI6SYiT7pWvtchyUo=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/4ViwLIgRzqNFMoOBtNxPdWvVIivfk0_ItihyR59PG1cyKtJUuo4S11ix56fi7wE5M0EoVn997_fpYbDYFoDWdLX0SJziC6krEqVZSWVWTzk1J3TnN5M6DdOkAjGfWHjqziB0CRIpfOA=w2400" class="image1">
@@ -62,23 +53,17 @@ to music!
 
 <h4>Day 4: 05/12/2018</h4>
 
-Our final day in Mexico City was cultural day. Seems we saved the right day for it too because today was awful weather! Well, not awful but much
-colder than it had been. 
+Our final day in Mexico City was cultural day. Seems we saved the right day for it too because today was awful weather! Well, not awful but much colder than it had been. 
 
-First we went to the Museum of Archeology, then to the Zoo, and then to the Modern Art Museum. At the Museum of Archeology we saw the Sun Stone,
-which was initially thought to have been the Aztec calendar but is now known as a place where gladiators were sacrificed. Either way it is 
-incredibly intricate and huge! It would be at least twice our height in diameter. We also found out a bit more about the Aztecs at the museum, 
-who were based in the area that Mexico City is now, the Mayans were further south. 
+First we went to the <a target="_blank" href="http://www.mna.inah.gob.mx/">Museum of Archeology</a>, then to the <a target="_blank" href="http://data.sedema.cdmx.gob.mx/zoo_chapultepec/">Zoológico de Chapultepec</a>, and then to the <a target="_blank" href="https://mam.inba.gob.mx/">Modern Art Museum</a>. 
 
-The Zoo was very cool. It is a huge Zoo with heaps of animals, and it is free! Despite all of this it was very empty and almost no locals were
-there, but from what we had read online there can be a few people there on Sundays. 
+At the Museum of Archeology we saw the Sun Stone, which was initially thought to have been the Aztec calendar but is now known as a place where gladiators were sacrificed. Either way it is incredibly intricate and huge! It would be at least twice our height in diameter. We also found out a bit more about the Aztecs at the museum, who were based in the area that Mexico City is now, the Mayans were further south. It was also our most expensive museum of the day and still very cheap, only $10 NZD for us both to get entry.
 
-Finally we went to the Modern Art Museum. The main reason we went here was to see some of the work they hold of Frida Kahlo, but we ended
-up discovering a whole bunch of other really interesting Latin American artists while we were there. The Museum had a whole exhibition on
-Remedios Varo, who was an extremely prolific female artist. The exhibit held many of her paintings along with sketches as she prepared them. 
+The Zoo was very cool. It is a huge Zoo with heaps of animals, and it is free! Despite all of this it was very empty and almost no locals were there, but from what we had read online there can be a few people there on Sundays. This is because on Sundays every museum and cultural site in Mexico is free to Mexicans. Therefore they all head out to places like Chapultepec Park where there are a lot of museums and the like to visit to make a day of it. 
 
-All up was a pretty good day in Mexico City! Highly recommend all of the above to anyone visiting the City, plus they are all in one Park in 
-La Condesa so it is very easy to visit them all in one day. 
+Finally we went to the Modern Art Museum. The main reason we went here was to see some of the work they hold of Frida Kahlo, but we ended up discovering a whole bunch of other really interesting Latin American artists while we were there. The Museum had a whole exhibition on Remedios Varo, who was an extremely prolific female artist. The exhibit held many of her paintings along with sketches as she prepared them. There was also an exhibit dedicated to Mexican studies of the female form from the female gaze that was extremely interesting to see. 
+
+All up was a pretty good day in Mexico City! Highly recommend all of the above to anyone visiting the City, plus they are all in one Chapultepec Park in La Condesa so it is very easy to visit them all in one day. 
 
 <img src="https://lh3.googleusercontent.com/Q7QCUibcwZhDH06WKblMTXtayyRFGX3eoUOwdFNoqbddAA83wUP_76Lood-28mwnMg2kfMj7GlPaqbOT1WCGH0USeBGk3x2wdFb9iP0AlCJRFcO-dGeMEzShOcD1lVNyIlqpFP-hBpE=w2400" class="image1">
 <img src="https://lh3.googleusercontent.com/_sqKlDZBNousWSZc7gCeNnEdf_55ZU3UlfUWulZB9SkVYvpyOOAJUl3CvvhbfeVo1GU26ier7P7hVUs_KVOsAmEqw1TbuH6zlYNppK-rRzP-DfMHXZofNajPJzVrHIQrRKK8WXadAFo=w2400" class="image1">
@@ -89,10 +74,7 @@ La Condesa so it is very easy to visit them all in one day.
 
 <h4>Day 5: 06/12/2018</h4>
 
-Day 5 meant it was time to leave Mexico City. We didn't bother trying to do anything in the morning as nothing really opens properly until
-close to midday and we had to be at the airport by 11am. Overall we really enjoyed Mexico City. It was a great mix of colour, culture, 
-incredible buildings, and good food! Will be good to leave behind the 22 million people who inhabit the city and head to a quieter part of Mexico
-though. 
+Day 5 meant it was time to leave Mexico City. We didn't bother trying to do anything in the morning as nothing really opens properly until close to midday and we had to be at the airport by 11am. Overall we really enjoyed Mexico City. It was a great mix of colour, culture, incredible buildings, and good food! Will be good to leave behind the 22 million people who inhabit the city and head to a quieter part of Mexico. 
 
 <div class="wrapper">
   <input type="button" class="button" value="Return to Home Page" onclick="self.close()">
