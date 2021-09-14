@@ -55,4 +55,6 @@ DEPENDENCIES
   rouge (>= 1.11.1)
 
 BUNDLED WITH
+  bundle update --bundler
+  gem install bundler:1.14.3
    1.14.3
